@@ -85,11 +85,16 @@
   function renderNews(articles) {
     if (!articles || articles.length === 0) return '';
     const items = articles.map(function (a) {
+      const title = a.title_zh || a.title;
+      const summaryZh = a.summary_zh
+        ? '<div class="news-summary-zh">' + esc(a.summary_zh) + '</div>'
+        : '';
       return '<div class="news-item">' +
         '<span class="news-source-tag">' + esc(a.source) + '</span>' +
         '<div class="news-content">' +
           '<div class="news-title"><a href="' + esc(a.link) + '" target="_blank" rel="noopener noreferrer">' +
-            esc(a.title) + '</a></div>' +
+            esc(title) + '</a></div>' +
+          summaryZh +
           '<div class="news-time">' + formatTime(a.published) + '</div>' +
         '</div>' +
         '</div>';
