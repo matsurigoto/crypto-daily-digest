@@ -28,6 +28,11 @@ jobs:
           CRYPTOPANIC_API_KEY: ${{ secrets.CRYPTOPANIC_API_KEY }}
         run: python scripts/fetch_news.py
 
+      - name: Translate news to Chinese
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/translate_news.py
+
       - name: Fetch market data
         run: python scripts/fetch_market.py
 

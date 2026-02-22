@@ -24,7 +24,7 @@ def build_prompt(news_data: dict, market_data: dict) -> str:
     # 整理新聞摘要（最多取前 20 篇）
     articles = news_data.get("articles", [])[:20]
     news_text = "\n".join(
-        f"- [{a['source']}] {a['title']}" for a in articles
+        f"- [{a['source']}] {a.get('title_zh', a['title'])}" for a in articles
     )
 
     # 整理市場資料
