@@ -12,6 +12,9 @@ CUTOFF = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
 
 
 def main():
+    if not os.path.exists(DATA_DIR):
+        print(f"資料目錄不存在: {DATA_DIR}，跳過清理。")
+        return
     print(f"清理超過 {RETENTION_DAYS} 天的舊資料（截止日期: {CUTOFF.date()}）")
     deleted = 0
     for filename in os.listdir(DATA_DIR):

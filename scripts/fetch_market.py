@@ -23,7 +23,23 @@ COINS = {
     "XRP": "ripple",
 }
 
-REQUEST_INTERVAL = 1.5  # CoinGecko 免費版限速
+REQUEST_INTERVAL = 6  # CoinGecko 免費版限速
+
+
+def request_with_retry(url: str, params: dict, timeout: int = 15, max_retries: int = 3) -> requests.Response:
+    """發送 HTTP GET 請求，遇到 429 或其他錯誤時自動重試。"""
+    last_resp = None
+    for attempt in range(max_retries):
+        last_resp = requests.get(url, params=params, timeout=timeout)
+        if last_resp.status_code == 429:
+            wait = REQUEST_INTERVAL * (attempt + 2)
+            print(f"[CoinGecko] Rate limited (429)，等待 {wait} 秒後重試...")
+            time.sleep(wait)
+            continue
+        last_resp.raise_for_status()
+        return last_resp
+    last_resp.raise_for_status()
+    return last_resp  # unreachable, but satisfies type checker
 
 
 def fetch_coin_data(coin_id: str) -> dict | None:
@@ -36,8 +52,7 @@ def fetch_coin_data(coin_id: str) -> dict | None:
             "ids": coin_id,
             "price_change_percentage": "24h",
         }
-        resp = requests.get(market_url, params=market_params, timeout=15)
-        resp.raise_for_status()
+        resp = request_with_retry(market_url, params=market_params, timeout=15)
         market_data = resp.json()
         if not market_data:
             return None
@@ -52,8 +67,7 @@ def fetch_coin_data(coin_id: str) -> dict | None:
             "days": "30",
             "interval": "daily",
         }
-        resp2 = requests.get(history_url, params=history_params, timeout=15)
-        resp2.raise_for_status()
+        resp2 = request_with_retry(history_url, params=history_params, timeout=15)
         history = resp2.json()
 
         prices = [p[1] for p in history.get("prices", [])]
