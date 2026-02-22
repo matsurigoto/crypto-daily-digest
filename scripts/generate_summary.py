@@ -62,17 +62,22 @@ def generate_summary(prompt: str) -> str:
     if not api_key:
         print("警告：未設定 OPENAI_API_KEY，跳過 AI 摘要產生。")
         return "今日摘要因未設定 OPENAI_API_KEY 而略過。"
-    client = OpenAI(api_key=api_key)
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": "你是一位專業的加密貨幣分析師，擅長產生繁體中文市場分析報告。"},
-            {"role": "user", "content": prompt},
-        ],
-        max_tokens=2000,
-        temperature=0.7,
-    )
-    return response.choices[0].message.content.strip()
+    try:
+        client = OpenAI(api_key=api_key)
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": "你是一位專業的加密貨幣分析師，擅長產生繁體中文市場分析報告。"},
+                {"role": "user", "content": prompt},
+            ],
+            max_tokens=2000,
+            temperature=0.7,
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"警告：OpenAI API 呼叫失敗: {e}")
+        print("將使用預設摘要文字。")
+        return "今日摘要因 OpenAI API 錯誤而略過。請檢查 API key 額度與帳單設定。"
 
 
 def main():

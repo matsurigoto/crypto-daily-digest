@@ -23,7 +23,10 @@ COINS = {
     "XRP": "ripple",
 }
 
-REQUEST_INTERVAL = 6  # CoinGecko 免費版限速
+REQUEST_INTERVAL = 12  # CoinGecko 免費版限速（每分鐘約 5-10 次請求）
+
+
+RETRY_WAITS = [30, 45, 60]  # CoinGecko 免費版 rate limit window 為 1 分鐘
 
 
 def request_with_retry(url: str, params: dict, timeout: int = 15, max_retries: int = 3) -> requests.Response:
@@ -32,7 +35,7 @@ def request_with_retry(url: str, params: dict, timeout: int = 15, max_retries: i
     for attempt in range(max_retries):
         last_resp = requests.get(url, params=params, timeout=timeout)
         if last_resp.status_code == 429:
-            wait = REQUEST_INTERVAL * (attempt + 2)
+            wait = RETRY_WAITS[attempt]
             print(f"[CoinGecko] Rate limited (429)，等待 {wait} 秒後重試...")
             time.sleep(wait)
             continue
@@ -42,45 +45,36 @@ def request_with_retry(url: str, params: dict, timeout: int = 15, max_retries: i
     return last_resp  # unreachable, but satisfies type checker
 
 
-def fetch_coin_data(coin_id: str) -> dict | None:
-    """取得單一幣種的市場資料與 30 天價格歷史。"""
+def fetch_all_market_data(coin_ids: list) -> dict:
+    """一次取得所有幣種的市場基本資料（價格、24h 漲跌幅、成交量）。"""
     try:
-        # 取得目前價格、24h 漲跌幅、成交量
         market_url = f"{COINGECKO_BASE}/coins/markets"
         market_params = {
             "vs_currency": "usd",
-            "ids": coin_id,
+            "ids": ",".join(coin_ids),
             "price_change_percentage": "24h",
         }
         resp = request_with_retry(market_url, params=market_params, timeout=15)
-        market_data = resp.json()
-        if not market_data:
-            return None
-        info = market_data[0]
+        return {item["id"]: item for item in resp.json()}
+    except Exception as e:
+        print(f"[CoinGecko] 批次市場資料抓取失敗: {e}")
+        return {}
 
-        time.sleep(REQUEST_INTERVAL)
 
-        # 取得 30 天價格歷史（每日）
+def fetch_coin_chart(coin_id: str) -> list:
+    """取得單一幣種的 30 天價格歷史。"""
+    try:
         history_url = f"{COINGECKO_BASE}/coins/{coin_id}/market_chart"
         history_params = {
             "vs_currency": "usd",
             "days": "30",
             "interval": "daily",
         }
-        resp2 = request_with_retry(history_url, params=history_params, timeout=15)
-        history = resp2.json()
-
-        prices = [p[1] for p in history.get("prices", [])]
-
-        return {
-            "current_price": info.get("current_price"),
-            "price_change_24h": info.get("price_change_percentage_24h"),
-            "volume_24h": info.get("total_volume"),
-            "prices_30d": prices,
-        }
+        resp = request_with_retry(history_url, params=history_params, timeout=15)
+        return [p[1] for p in resp.json().get("prices", [])]
     except Exception as e:
-        print(f"[CoinGecko] {coin_id} 抓取失敗: {e}")
-        return None
+        print(f"[CoinGecko] {coin_id} 歷史資料抓取失敗: {e}")
+        return []
 
 
 def calc_rsi(prices: list, period: int = 14) -> float | None:
@@ -138,13 +132,13 @@ def determine_signal(rsi: float | None, sma7: float | None, sma20: float | None)
     return " / ".join(signals)
 
 
-def process_coin(symbol: str, coin_id: str) -> dict:
-    print(f"抓取 {symbol} ({coin_id}) ...")
-    data = fetch_coin_data(coin_id)
-    if data is None:
+def process_coin(symbol: str, coin_id: str, market_info: dict) -> dict:
+    print(f"抓取 {symbol} ({coin_id}) 歷史資料...")
+    prices = fetch_coin_chart(coin_id)
+
+    if not market_info or not prices:
         return {"symbol": symbol, "error": "資料抓取失敗"}
 
-    prices = data["prices_30d"]
     rsi = calc_rsi(prices)
     sma7 = calc_sma(prices, 7)
     sma20 = calc_sma(prices, 20)
@@ -154,13 +148,11 @@ def process_coin(symbol: str, coin_id: str) -> dict:
     low_30d = round(float(min(prices)), 6) if prices else None
     signal = determine_signal(rsi, sma7, sma20)
 
-    time.sleep(REQUEST_INTERVAL)
-
     return {
         "symbol": symbol,
-        "current_price": data["current_price"],
-        "price_change_24h": data["price_change_24h"],
-        "volume_24h": data["volume_24h"],
+        "current_price": market_info.get("current_price"),
+        "price_change_24h": market_info.get("price_change_percentage_24h"),
+        "volume_24h": market_info.get("total_volume"),
         "high_30d": high_30d,
         "low_30d": low_30d,
         "rsi": rsi,
@@ -174,10 +166,21 @@ def process_coin(symbol: str, coin_id: str) -> dict:
 
 def main():
     print(f"開始抓取市場資料，日期: {TODAY}")
+
+    # 一次取得所有幣種的市場基本資料
+    print("批次抓取市場基本資料...")
+    all_market_data = fetch_all_market_data(list(COINS.values()))
+    time.sleep(REQUEST_INTERVAL)
+
     coins_data = []
-    for symbol, coin_id in COINS.items():
-        result = process_coin(symbol, coin_id)
+    coin_items = list(COINS.items())
+    for i, (symbol, coin_id) in enumerate(coin_items):
+        market_info = all_market_data.get(coin_id, {})
+        result = process_coin(symbol, coin_id, market_info)
         coins_data.append(result)
+        # 間隔等待（最後一個幣不需要等待）
+        if i < len(COINS) - 1:
+            time.sleep(REQUEST_INTERVAL)
 
     output = {
         "date": TODAY,
