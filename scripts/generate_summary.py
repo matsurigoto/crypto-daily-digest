@@ -60,10 +60,8 @@ def build_prompt(news_data: dict, market_data: dict) -> str:
 def generate_summary(prompt: str) -> str:
     api_key = os.environ.get("OPENAI_API_KEY", "")
     if not api_key:
-        raise SystemExit(
-            "錯誤：未設定 OPENAI_API_KEY 環境變數。\n"
-            "請在 GitHub Actions Secrets 中新增 OPENAI_API_KEY。"
-        )
+        print("警告：未設定 OPENAI_API_KEY，跳過 AI 摘要產生。")
+        return "今日摘要因未設定 OPENAI_API_KEY 而略過。"
     client = OpenAI(api_key=api_key)
     response = client.chat.completions.create(
         model="gpt-4o-mini",
