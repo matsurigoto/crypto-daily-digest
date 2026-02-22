@@ -1,0 +1,59 @@
+name: Daily Crypto Digest
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # UTC 22:00 = UTC+8 06:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch news
+        env:
+          CRYPTOPANIC_API_KEY: ${{ secrets.CRYPTOPANIC_API_KEY }}
+        run: python scripts/fetch_news.py
+
+      - name: Fetch market data
+        run: python scripts/fetch_market.py
+
+      - name: Generate summary
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/generate_summary.py
+
+      - name: Cleanup old data
+        run: python scripts/cleanup_old_data.py
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "📊 Daily digest: $(date +%Y-%m-%d)" || echo "Nothing to commit"
+          git push
+
+      - name: Send Telegram notification
+        if: secrets.TELEGRAM_BOT_TOKEN != ''
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          MESSAGE="📊 Crypto Daily Digest ${DATE} 已更新！%0A查看報告：https://${{ github.repository_owner }}.github.io/crypto-daily-digest/"
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${TELEGRAM_CHAT_ID}&text=${MESSAGE}" || echo "Telegram notification skipped"
