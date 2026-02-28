@@ -98,8 +98,46 @@ crypto-daily-digest/
 ├── docs/
 │   ├── index.html             # GitHub Pages 首頁
 │   ├── app.js                 # 前端 JavaScript
+│   ├── ads-config.js          # Google Adsense 廣告設定
 │   └── data/
 │       ├── .gitkeep           # 確保目錄存在
 │       └── YYYY-MM-DD.json    # 每日報告（自動產生）
 └── README.md
 ```
+
+## 廣告設定
+
+本專案支援 Google Adsense 廣告，透過 `docs/ads-config.js` 集中管理廣告設定。
+
+### 申請 Google Adsense
+
+1. 前往 [Google Adsense](https://www.google.com/adsense/) 申請帳號。
+2. 新增網站時請填入您的**自訂網域**（例如 `www.example.com`）。  
+   ⚠️ **注意：`*.github.io` 子網域無法通過 Adsense 審核，請務必使用自訂網域。**
+3. 審核通過後，在 Adsense 後台建立廣告版位，取得發佈者 ID（格式：`ca-pub-XXXXXXXXXXXXXXXX`）及各版位的 Slot ID。
+
+### 啟用廣告
+
+編輯 `docs/ads-config.js`：
+
+```js
+window.ADS_CONFIG = {
+  enabled: true,                         // 改為 true 以啟用廣告
+  client: 'ca-pub-XXXXXXXXXXXXXXXX',     // 填入您的發佈者 ID
+  slots: {
+    header:  '1234567890',               // Header 下方橫幅廣告 slot ID
+    sidebar: '0987654321',               // 新聞列表上方穿插廣告 slot ID
+    footer:  '1122334455'                // 頁尾廣告 slot ID
+  }
+};
+```
+
+將 `enabled` 設為 `false`（預設值）時，頁面不會載入任何廣告腳本，不影響現有功能。
+
+### 廣告位置說明
+
+| 位置 | ID | 說明 |
+|---|---|---|
+| Header 廣告 | `ad-header` | 位於頁首標題列與主內容之間的橫幅廣告 |
+| 內容穿插廣告 | （動態插入） | 位於 AI 摘要與新聞列表之間，使用 `sidebar` slot |
+| Footer 廣告 | `ad-footer` | 位於主內容結束後的頁尾橫幅廣告 |

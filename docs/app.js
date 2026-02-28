@@ -140,6 +140,31 @@
                    renderSummary(data.summary) +
                    renderNews(data.news);
         appContent.innerHTML = html || renderEmpty(dateStr);
+
+        // Insert inline (sidebar) ad between summary and news if slot is configured
+        var cfg = window.ADS_CONFIG;
+        if (cfg && cfg.enabled && cfg.client && cfg.slots && cfg.slots.sidebar) {
+          var newsList = appContent.querySelector('.news-list');
+          if (newsList) {
+            var adDiv = document.createElement('div');
+            adDiv.className = 'ad-container';
+            adDiv.style.marginBottom = '1rem';
+            var label = document.createElement('span');
+            label.className = 'ad-label';
+            label.textContent = '贊助廣告';
+            var ins = document.createElement('ins');
+            ins.className = 'adsbygoogle';
+            ins.style.display = 'block';
+            ins.setAttribute('data-ad-client', cfg.client);
+            ins.setAttribute('data-ad-slot', cfg.slots.sidebar);
+            ins.setAttribute('data-ad-format', 'auto');
+            ins.setAttribute('data-full-width-responsive', 'true');
+            adDiv.appendChild(label);
+            adDiv.appendChild(ins);
+            newsList.parentNode.insertBefore(adDiv, newsList);
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+          }
+        }
       })
       .catch(function () {
         appContent.innerHTML = renderEmpty(dateStr);
@@ -166,9 +191,49 @@
     loadReport(next);
   });
 
+  // ── Ads ────────────────────────────────────────────────────────────────────
+
+  function initAds() {
+    var cfg = window.ADS_CONFIG;
+    if (!cfg || !cfg.enabled || !cfg.client) {
+      // Hide all ad containers when ads are disabled
+      var containers = document.querySelectorAll('.ad-container');
+      for (var i = 0; i < containers.length; i++) {
+        containers[i].style.display = 'none';
+      }
+      return;
+    }
+
+    // Dynamically load the Adsense main script
+    var script = document.createElement('script');
+    script.async = true;
+    script.crossOrigin = 'anonymous';
+    script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + cfg.client;
+    document.head.appendChild(script);
+
+    // Insert <ins> ad elements for header and footer slots
+    var slotMap = { header: 'ad-header', footer: 'ad-footer' };
+    Object.keys(slotMap).forEach(function (key) {
+      var slotId = cfg.slots && cfg.slots[key];
+      if (!slotId) return;
+      var container = document.getElementById(slotMap[key]);
+      if (!container) return;
+      var ins = document.createElement('ins');
+      ins.className = 'adsbygoogle';
+      ins.style.display = 'block';
+      ins.setAttribute('data-ad-client', cfg.client);
+      ins.setAttribute('data-ad-slot', slotId);
+      ins.setAttribute('data-ad-format', 'auto');
+      ins.setAttribute('data-full-width-responsive', 'true');
+      container.appendChild(ins);
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    });
+  }
+
   // ── Init ───────────────────────────────────────────────────────────────────
 
   var initial = todayStr();
   datePicker.value = initial;
+  initAds();
   loadReport(initial);
 }());

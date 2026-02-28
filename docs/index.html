@@ -216,13 +216,40 @@
     .empty-state p { font-size: 0.95rem; }
 
     .section { margin-bottom: 2rem; }
+
+    /* Ad containers */
+    .ad-container {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 0.75rem 1rem;
+      text-align: center;
+      margin: 0.75rem 0;
+    }
+
+    .ad-label {
+      font-size: 0.72rem;
+      color: #8b949e;
+      text-align: center;
+      display: block;
+      margin-bottom: 0.4rem;
+    }
+
+    @media (max-width: 600px) {
+      .ad-container ins { max-width: 100%; }
+    }
   </style>
+  <script src="ads-config.js"></script>
 </head>
 <body>
   <header>
     <span>📊</span>
     <h1>Crypto Daily Digest</h1>
   </header>
+
+  <div id="ad-header" class="ad-container">
+    <span class="ad-label">贊助廣告</span>
+  </div>
 
   <div class="container">
     <div class="date-nav">
@@ -238,6 +265,10 @@
         <p>載入中...</p>
       </div>
     </div>
+  </div>
+
+  <div id="ad-footer" class="ad-container">
+    <span class="ad-label">贊助廣告</span>
   </div>
 
   <script src="app.js"></script>
