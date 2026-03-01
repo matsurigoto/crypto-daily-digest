@@ -5,12 +5,13 @@ fetch_market.py
 import json
 import os
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 import numpy as np
 import requests
 
-TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+TZ_TPE = timezone(timedelta(hours=8))
+TODAY = datetime.now(TZ_TPE).strftime("%Y-%m-%d")
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "docs", "data", f"{TODAY}_market.json")
 
 COINGECKO_BASE = "https://api.coingecko.com/api/v3"

@@ -4,11 +4,12 @@ generate_summary.py
 """
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 from openai import OpenAI
 
-TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+TZ_TPE = timezone(timedelta(hours=8))
+TODAY = datetime.now(TZ_TPE).strftime("%Y-%m-%d")
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 NEWS_FILE = os.path.join(DATA_DIR, f"{TODAY}_news.json")
 MARKET_FILE = os.path.join(DATA_DIR, f"{TODAY}_market.json")
@@ -102,7 +103,7 @@ def main():
 
     output = {
         "date": TODAY,
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": datetime.now(TZ_TPE).isoformat(),
         "summary": summary,
         "news": news_data.get("articles", []),
         "market": market_data.get("coins", []),

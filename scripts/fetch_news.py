@@ -10,7 +10,8 @@ from datetime import datetime, timezone, timedelta
 import feedparser
 import requests
 
-TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+TZ_TPE = timezone(timedelta(hours=8))
+TODAY = datetime.now(TZ_TPE).strftime("%Y-%m-%d")
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "docs", "data", f"{TODAY}_news.json")
 
 RSS_FEEDS = {
@@ -23,7 +24,7 @@ RSS_FEEDS = {
 CRYPTOPANIC_API_KEY = os.environ.get("CRYPTOPANIC_API_KEY", "")
 CRYPTOPANIC_URL = "https://cryptopanic.com/api/v1/posts/"
 
-CUTOFF = datetime.now(timezone.utc) - timedelta(hours=24)
+CUTOFF = datetime.now(TZ_TPE) - timedelta(hours=24)
 
 
 def parse_published(entry) -> str:
@@ -31,7 +32,7 @@ def parse_published(entry) -> str:
     if hasattr(entry, "published_parsed") and entry.published_parsed:
         dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
         return dt.isoformat()
-    return datetime.now(timezone.utc).isoformat()
+    return datetime.now(TZ_TPE).isoformat()
 
 
 def is_within_24h(entry) -> bool:
