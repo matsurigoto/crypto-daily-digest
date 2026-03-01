@@ -8,7 +8,8 @@ from datetime import datetime, timezone, timedelta
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 RETENTION_DAYS = 180
-CUTOFF = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
+TZ_TPE = timezone(timedelta(hours=8))
+CUTOFF = datetime.now(TZ_TPE) - timedelta(days=RETENTION_DAYS)
 
 
 def main():
@@ -22,7 +23,7 @@ def main():
             continue
         date_str = filename[:10]
         try:
-            file_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            file_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=TZ_TPE)
         except ValueError:
             continue
         if file_date < CUTOFF:

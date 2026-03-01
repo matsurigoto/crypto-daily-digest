@@ -4,9 +4,10 @@ translate_news.py
 """
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
-TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+TZ_TPE = timezone(timedelta(hours=8))
+TODAY = datetime.now(TZ_TPE).strftime("%Y-%m-%d")
 NEWS_FILE = os.path.join(os.path.dirname(__file__), "..", "docs", "data", f"{TODAY}_news.json")
 
 BATCH_SIZE = 10

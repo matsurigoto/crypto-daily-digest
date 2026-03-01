@@ -11,6 +11,8 @@ permissions:
 jobs:
   digest:
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Taipei
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

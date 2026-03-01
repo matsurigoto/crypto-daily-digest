@@ -21,7 +21,7 @@
   }
 
   function todayStr() {
-    return toDateStr(new Date());
+    return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Taipei' }).format(new Date());
   }
 
   function formatPrice(val) {
