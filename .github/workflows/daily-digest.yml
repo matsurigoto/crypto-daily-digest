@@ -38,6 +38,9 @@ jobs:
       - name: Fetch market data
         run: python scripts/fetch_market.py
 
+      - name: Fetch signals (Fear & Greed, Reddit sentiment, On-chain)
+        run: python scripts/fetch_signals.py
+
       - name: Generate summary
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
