@@ -13,6 +13,7 @@ TODAY = datetime.now(TZ_TPE).strftime("%Y-%m-%d")
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 NEWS_FILE = os.path.join(DATA_DIR, f"{TODAY}_news.json")
 MARKET_FILE = os.path.join(DATA_DIR, f"{TODAY}_market.json")
+SIGNALS_FILE = os.path.join(DATA_DIR, f"{TODAY}_signals.json")
 OUTPUT_FILE = os.path.join(DATA_DIR, f"{TODAY}.json")
 
 
@@ -21,7 +22,7 @@ def load_json(path: str) -> dict:
         return json.load(f)
 
 
-def build_prompt(news_data: dict, market_data: dict) -> str:
+def build_prompt(news_data: dict, market_data: dict, signals_data: dict | None = None) -> str:
     # 整理新聞摘要（最多取前 20 篇）
     articles = news_data.get("articles", [])[:20]
     news_text = "\n".join(
@@ -39,19 +40,43 @@ def build_prompt(news_data: dict, market_data: dict) -> str:
         if "error" not in c
     )
 
+    # 整理市場情緒指標
+    signals_block = ""
+    if signals_data:
+        fg = signals_data.get("fear_greed", {})
+        reddit = signals_data.get("reddit_sentiment", {})
+        onchain = signals_data.get("onchain", {})
+        parts = []
+        if fg:
+            parts.append(f"- 恐懼貪婪指數: {fg.get('value', 'N/A')}（{fg.get('classification', 'N/A')}）")
+        if reddit:
+            parts.append(
+                f"- Reddit 情緒評分: {reddit.get('sentiment_score', 'N/A')}（{reddit.get('label', 'N/A')}）"
+                f"，正面: {reddit.get('positive_count', 0)}，負面: {reddit.get('negative_count', 0)}"
+                f"，中立: {reddit.get('neutral_count', 0)}"
+            )
+        if onchain:
+            total_mc = onchain.get("total_market_cap_usd")
+            total_mc_str = f"${total_mc / 1e12:.2f}T" if total_mc else "N/A"
+            parts.append(f"- BTC 市佔率: {onchain.get('btc_dominance', 'N/A')}%")
+            parts.append(f"- 全市場總市值: {total_mc_str}")
+        if parts:
+            signals_block = "\n\n【市場情緒指標】\n" + "\n".join(parts)
+
     return f"""你是一位專業的加密貨幣分析師，請根據以下今日資料產生一份繁體中文每日彙整報告。
 
 【今日新聞標題（共 {len(articles)} 篇）】
 {news_text}
 
 【市場技術指標】
-{market_text}
+{market_text}{signals_block}
 
-請產生包含以下五個部分的報告（使用繁體中文，每部分約 100-200 字）：
+請產生包含以下六個部分的報告（使用繁體中文，每部分約 100-200 字）：
 
 1. 📰 今日重點摘要（列出 3-5 個重點）
 2. 📊 市場概況（整體氛圍、主流幣走勢）
 3. 🔍 技術分析解讀（RSI、均線等訊號解讀）
+3.5 😱 市場情緒（恐懼貪婪指數、社群情緒解讀）
 4. ⚠️ 風險提醒
 5. 🎯 今日觀察重點
 
@@ -96,7 +121,14 @@ def main():
     else:
         market_data = load_json(MARKET_FILE)
 
-    prompt = build_prompt(news_data, market_data)
+    if os.path.exists(SIGNALS_FILE):
+        signals_data = load_json(SIGNALS_FILE)
+        print("已載入市場情緒訊號資料。")
+    else:
+        print(f"找不到訊號檔案: {SIGNALS_FILE}，略過市場情緒指標。")
+        signals_data = None
+
+    prompt = build_prompt(news_data, market_data, signals_data)
     print("呼叫 OpenAI API ...")
     summary = generate_summary(prompt)
     print("摘要產生完成。")
@@ -107,6 +139,7 @@ def main():
         "summary": summary,
         "news": news_data.get("articles", []),
         "market": market_data.get("coins", []),
+        "signals": signals_data if signals_data else {},
     }
 
     os.makedirs(DATA_DIR, exist_ok=True)
@@ -115,7 +148,7 @@ def main():
     print(f"每日報告儲存至 {OUTPUT_FILE}")
 
     # 清除中間檔案
-    for path in (NEWS_FILE, MARKET_FILE):
+    for path in (NEWS_FILE, MARKET_FILE, SIGNALS_FILE):
         if os.path.exists(path):
             os.remove(path)
             print(f"已刪除中間檔案: {path}")

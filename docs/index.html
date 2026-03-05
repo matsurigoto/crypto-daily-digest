@@ -217,6 +217,123 @@
 
     .section { margin-bottom: 2rem; }
 
+    /* Signals section */
+    .signals-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 0.75rem;
+      margin-bottom: 2rem;
+    }
+
+    .signal-card {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+    }
+
+    .signal-card-title {
+      font-size: 0.85rem;
+      color: #8b949e;
+      margin-bottom: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .fg-value {
+      font-size: 3rem;
+      font-weight: 800;
+      line-height: 1;
+      margin-bottom: 0.25rem;
+    }
+
+    .fg-label {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+    }
+
+    .fg-bar {
+      height: 8px;
+      border-radius: 4px;
+      background: #21262d;
+      margin-bottom: 0.5rem;
+      overflow: hidden;
+    }
+
+    .fg-bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 0.5s ease;
+    }
+
+    .fg-history {
+      display: flex;
+      gap: 4px;
+      margin-top: 0.5rem;
+    }
+
+    .fg-dot {
+      width: 20px;
+      height: 20px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.65rem;
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .sentiment-bar-wrap {
+      position: relative;
+      height: 8px;
+      border-radius: 4px;
+      background: #21262d;
+      margin: 0.5rem 0;
+      overflow: hidden;
+    }
+
+    .sentiment-bar-neg { position: absolute; left: 0; top: 0; height: 100%; background: #f85149; border-radius: 4px 0 0 4px; }
+    .sentiment-bar-pos { position: absolute; right: 0; top: 0; height: 100%; background: #3fb950; border-radius: 0 4px 4px 0; }
+    .sentiment-center-line { position: absolute; left: 50%; top: 0; width: 2px; height: 100%; background: #30363d; }
+
+    .sentiment-counts {
+      display: flex;
+      gap: 1rem;
+      font-size: 0.8rem;
+      color: #8b949e;
+      margin-top: 0.5rem;
+    }
+
+    .onchain-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.3rem 0;
+      border-bottom: 1px solid #21262d;
+      font-size: 0.85rem;
+    }
+
+    .onchain-row:last-child { border-bottom: none; }
+    .onchain-key { color: #8b949e; }
+    .onchain-val { color: #e6edf3; font-weight: 600; }
+
+    .reddit-post {
+      font-size: 0.78rem;
+      color: #8b949e;
+      padding: 0.25rem 0;
+      border-bottom: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    .reddit-post:last-child { border-bottom: none; }
+    .reddit-post-title { flex: 1; line-height: 1.4; }
+    .reddit-post-score { color: #3fb950; white-space: nowrap; }
+
   </style>
   <script src="ads-config.js"></script>
 </head>
