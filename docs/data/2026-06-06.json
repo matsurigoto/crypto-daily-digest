@@ -1,0 +1,792 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T06:33:10.571081+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. Travala 讓 AI 代理人使用 USDC 在 Base 預訂酒店，顯示加密貨幣在旅遊業的應用潛力。\n2. 眾議院即將舉行聽證會，討論新的加密稅收提案，對未來政策變化引發市場關注。\n3. Zcash 遭遇重大危機，隱私幣市值大幅下降，專家對未來前景表達擔憂。\n4. 比特幣價格下跌至 $61,469，市場空頭壓力增加，可能引發短期擠壓。\n5. Kraken 推出 SpaceX IPO 的投資機會，吸引投資者目光。\n\n## 📊 市場概況\n今日加密市場氛圍偏向悲觀，主流貨幣普遍下跌。比特幣（BTC）報價 $61,469，24小時內下跌約 2.82%；以太坊（ETH）跌幅更大，報價 $1,593.49，下降 9.22%。其他幣種如 Solana（SOL）和 XRP 也顯示下跌趨勢，市場整體情況不容樂觀。\n\n## 🔍 技術分析解讀\n比特幣的 RSI 指標為 13.11，顯示明顯超賣狀態，短期內可能出現反彈機會，但均線仍表現空頭趨勢，需謹慎觀察。以太坊的 RSI 則更低，為 10.94，顯示賣壓沉重。整體來看，市場仍處於空頭格局，短期回升的可能性較低。\n\n## 😱 市場情緒\n恐懼貪婪指數顯示為 12，屬於極度恐懼區域，顯示投資者情緒悲觀，對未來市場走向感到不安。社群對 Zcash 的崩盤反應強烈，許多投資者選擇觀望，以避免進一步損失。\n\n## ⚠️ 風險提醒\n隨著市場情緒低迷及政策不確定性增加，投資者需特別注意潛在的市場波動風險。尤其是隱私幣的快速變化及政策影響，可能對資本市場造成重大影響。\n\n## 🎯 今日觀察重點\n投資者應關注即將召開的眾議院聽證會和加密稅收提案，這將對市場走勢產生重要影響。同時，需密切留意比特幣及以太坊的價格走勢，確認是否出現反彈的機會。",
+  "news": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Travala lets AI agents book hotels with USDC on Base",
+      "link": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T20:55:27+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Travala lets AI agents book hotels with USDC on Base\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy90cmF2YWxhLWNyeXB0b2N1cnJlbmN5LnBuZw==.png\" /></p><p>Travala’s new protocol lets AI agents search and book hotels with USDC on Base, but travelers still approve the final payment.</p>",
+      "title_zh": "Travala 讓 AI 代理人使用 USDC 在 Base 預訂酒店",
+      "summary_zh": "Travala 推出新功能，允許 AI 代理人使用 USDC 在 Base 平台上預訂酒店，提升用戶體驗。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto tax proposals weighed ahead of Tuesday House hearing",
+      "link": "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T20:41:38+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto tax proposals weighed ahead of Tuesday House hearing\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9ldS1yZWd1bGF0aW9ucy1ldXJvcGUtbmV3LTMzLmpwZw==.jpg\" /></p><p>Among the issues US lawmakers are expected to discuss in a digital asset taxation hearing are “de minimis” reporting exceptions for crypto transactions.</p>",
+      "title_zh": "加密稅收提案在週二眾議院聽證會前受到重視",
+      "summary_zh": "在即將舉行的眾議院聽證會上，加密貨幣稅收提案引起了廣泛關注，可能影響未來的政策方向。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
+      "link": "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
+      "published": "2026-06-05T20:26:17+00:00",
+      "summary": "Fallout from a bug that enabled undetectable Zcash counterfeiting shows that privacy can sometimes present tradeoffs, experts say.",
+      "title_zh": "Zcash 錯誤危機顯示隱私的兩面性，專家表示",
+      "summary_zh": "Zcash 的漏洞危機引發專家討論，強調隱私技術的優缺點及其對用戶的影響。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
+      "link": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T20:24:27+00:00",
+      "summary": "<p>Strategy, Bitmine, and other major treasury firms have seen paper gains evaporate as crypto prices continue sliding.</p>",
+      "title_zh": "Hyperliquid 國庫獨自盈利，傳統加密 DAT 損失數十億",
+      "summary_zh": "在加密市場低迷中，Hyperliquid 的國庫仍然保持盈利，與其他傳統加密資產形成鮮明對比。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
+      "link": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
+      "published": "2026-06-05T20:02:53+00:00",
+      "summary": "Strategy shares tumbled alongside Bitcoin on Friday as the firm's flagship preferred stock also came under pressure.",
+      "title_zh": "策略股下跌至四個月低點，STRC 下滑比特幣跌破 6 萬美元",
+      "summary_zh": "隨著比特幣價格下跌，策略股也遭遇重創，跌至四個月以來的最低點。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?",
+      "link": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T19:28:53+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing? \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWEtYmVhci10cmFwLWFuZC1ob3ctdG8taWRlbnRpZnktaXQtYml0Y29pbjEuanBn.jpg\" /></p><p>Bitcoin bears piled into short positions as BTC price slid to $60,000. Will the $2.6 billion in short lever",
+      "title_zh": "比特幣空頭面臨 26 億美元陷阱，BTC 融資率下降：短期擠壓即將來臨？",
+      "summary_zh": "比特幣融資率的下降可能導致空頭投資者面臨重大損失，市場情況引發短期擠壓的擔憂。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
+      "link": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
+      "published": "2026-06-05T19:27:20+00:00",
+      "summary": "",
+      "title_zh": "為什麼死忠比特幣支持者對抹去 2000 億美元的價格崩潰不感到焦慮",
+      "summary_zh": "儘管市場大幅下跌，許多比特幣支持者仍然保持冷靜，認為長期前景依然樂觀。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
+      "link": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
+      "published": "2026-06-05T19:18:56+00:00",
+      "summary": "The company behind Claude embedded engineers at the NSA for offensive cyber ops, then published a report warning AI could soon build itself without humans in the loop.",
+      "title_zh": "Anthropic 正在幫助 NSA 黑客中國，並希望大家暫停 AI",
+      "summary_zh": "Anthropic 參與 NSA 的行動以對抗中國，同時呼籲業界暫停 AI 的進一步發展以進行反思。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Crash Just Wiped Billions From the Privacy Coin's Market Cap—Can ZEC Recover?",
+      "link": "https://decrypt.co/370184/zcash-crash-wiped-billions-market-cap-can-zec-recover",
+      "published": "2026-06-05T18:25:01+00:00",
+      "summary": "The price of Zcash cratered following the disclosure of a serious vulnerability for the privacy coin. Can ZEC make a comeback anytime soon?",
+      "title_zh": "Zcash 崩盤剛剛抹去數十億隱私幣市值——ZEC 能否恢復？",
+      "summary_zh": "Zcash 的市場價值因崩盤而大幅下降，未來能否恢復成為業界關注的焦點。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kraken offers SpaceX IPO access through xStocks",
+      "link": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T18:17:50+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken offers SpaceX IPO access through xStocks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1rcmFrZW4tc2hha2Vkb3duLWRvZXNudC1tYWtpbmctc3Rha2luZy1hLXNlY3VyaXR5Mi5qcGc=.jpg\" /></p><p>Eligible users in more than 110 markets can register for tokenized SpaceX equity ahead of the company's highly anticipated public listing.\n</p>",
+      "title_zh": "Kraken 通過 xStocks 提供 SpaceX IPO 進入機會",
+      "summary_zh": "Kraken 宣布將通過 xStocks 平台提供對 SpaceX IPO 的投資機會，吸引更多投資者。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
+      "link": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
+      "published": "2026-06-05T18:13:56+00:00",
+      "summary": "The crypto tax bills—the first of their kind to be deliberated by congressional leadership—will be discussed at a House hearing on Tuesday.",
+      "title_zh": "國會推出7項新的加密稅法案：內容如下",
+      "summary_zh": "國會提出七項加密貨幣稅法案，涵蓋多項稅收政策和規範，將影響加密市場的運作。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto tax in Illinois FY2027 budget is one step away from becoming law",
+      "link": "https://cointelegraph.com/news/cryptocurrency-tax-illinois-fy2027-budget-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T18:10:59+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto tax in Illinois FY2027 budget is one step away from becoming law\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG8tcmVwb3J0aW5nLWZhaWx1cmVzLWNhbi1iZS1leHBlbnNpdmUtZXZlbi1jcmltaW5hbDIuanBn.jpg\" /></p><p>The law, part of a budget plan passed by Illinois lawmakers, would put the burden of collecting a 0.2% tax on cry",
+      "title_zh": "伊利諾伊州2027財年預算中的加密稅法案距離成為法律僅一步之遙",
+      "summary_zh": "伊利諾伊州的加密稅法案在預算中獲得支持，可能很快成為法律，影響當地加密交易。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
+      "link": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next",
+      "published": "2026-06-05T18:02:33+00:00",
+      "summary": "",
+      "title_zh": "人工智慧揭露頂級加密網絡的重大缺陷，專家警告銀行可能成為下一個目標",
+      "summary_zh": "AI技術發現了主要加密網絡的安全漏洞，專家擔心這可能會影響銀行業的安全性。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend",
+      "link": "https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares",
+      "published": "2026-06-05T17:57:29+00:00",
+      "summary": "BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.",
+      "title_zh": "湯姆·李的以太坊財庫BitMine以9.5%股息定價優先股",
+      "summary_zh": "湯姆·李的公司BitMine為其以太坊財庫的優先股設定了9.5%的股息，吸引投資者注意。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto Biz: Nobody told Saylor ‘never sell’",
+      "link": "https://cointelegraph.com/news/strategy-bitcoin-sale-clarity-act-jpmorgan-capital-b-fundraising?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T17:04:07+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Nobody told Saylor ‘never sell’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1taWNoYWVsLXNheWxvci1nb3Qtd3JlY2tlZC1idXQtYml0Y29pbi1pbnZlc3RvcnMtbmVlZG50LXBhbmljLmpwZw==.jpg\" /></p><p>Strategy’s Bitcoin sale challenged the “never sell” narrative, while JPMorgan attacked CLARITY and Capital B pursued a huge fundraisi",
+      "title_zh": "加密商業：沒有人告訴Saylor‘永遠不要出售’",
+      "summary_zh": "知名投資者Saylor在加密市場中持續增持，未受到賣出建議的影響，展現其長期信念。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T16:55:50+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regula",
+      "title_zh": "今天加密市場發生了什麼",
+      "summary_zh": "今日加密市場動態更新，涵蓋最新交易、價格變化及重要事件，持續吸引投資者關注。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
+      "link": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T16:55:40+00:00",
+      "summary": "<p>As cryptocurrency-related bills from regulating stablecoins to the market as a whole take center stage — now comes how to tax those assets.</p>",
+      "title_zh": "接下來是稅收：加密稅法案在眾議院財政委員會聽證會前流傳",
+      "summary_zh": "加密稅法案在即將召開的眾議院聽證會前引起關注，可能影響未來的稅收政策。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock-backed tokenization firm Securitize clears key hurdle to go public on NYSE",
+      "link": "https://www.coindesk.com/business/2026/06/05/blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-nyse",
+      "published": "2026-06-05T16:46:28+00:00",
+      "summary": "",
+      "title_zh": "貝萊德支持的代幣化公司Securitize清除關鍵障礙，準備在紐約證券交易所上市",
+      "summary_zh": "Securitize公司在貝萊德的支持下，成功克服上市障礙，將在紐約證券交易所公開交易。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply",
+      "link": "https://www.theblock.co/post/403839/zcash-treasury-cypherpunk-remains-committed-accumulating-5-zec-supply?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T16:46:20+00:00",
+      "summary": "<p>Shares of Cypherpunk Technologies plunged more than 40% following the disclosure of a critical bug that was recently patched in Zcash.</p>",
+      "title_zh": "‘請停止散播恐慌’：Zcash財庫公司Cypherpunk堅持累積5%的ZEC供應量",
+      "summary_zh": "Cypherpunk公司強調其對Zcash的長期承諾，計劃持續累積5%的ZEC供應，抵制市場恐慌。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
+      "link": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T16:44:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctdG8tYnV5LXB1bXBmdW4tcHVtcC10b2tlbi5qcGc=.jpg\" /></p><p>Pump.fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a",
+      "title_zh": "Pump.fun獎勵平台支付用戶紋身代幣並追逐病毒式挑戰",
+      "summary_zh": "Pump.fun平台鼓勵用戶通過紋身代幣和參加挑戰來獲得獎勵，推動社交媒體的病毒式傳播。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ",
+      "link": "https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T16:30:52+00:00",
+      "summary": "<p>Securitize's SPAC merger is expected to close shortly after a CEPT shareholder vote, if approved, later this month.</p>",
+      "title_zh": "Securitize 克服 SEC 登記聲明障礙，為 SECZ 的 NYSE 上市鋪平道路",
+      "summary_zh": "Securitize 成功通過 SEC 的登記聲明，為其在紐約證券交易所上市鋪平道路。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence",
+      "link": "https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash",
+      "published": "2026-06-05T16:15:42+00:00",
+      "summary": "Bitcoin has now fallen more than 50% from its October peak, dipping below $60,000 as the crypto industry reckons with the Zcash vulnerability.",
+      "title_zh": "比特幣因強勁就業數據跌破 60,000 美元，Zcash 崩盤動搖加密貨幣信心",
+      "summary_zh": "比特幣因就業數據強勁而跌破 60,000 美元，Zcash 的崩盤加劇市場的不安。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+      "link": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+      "published": "2026-06-05T16:15:02+00:00",
+      "summary": "Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin. Here’s what you need to know.",
+      "title_zh": "什麼是策略 (MSTR)？比特幣國庫公司",
+      "summary_zh": "MSTR 是專注於比特幣的國庫公司，旨在管理和增值其比特幣資產。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset",
+      "link": "https://cointelegraph.com/news/saylor-bitcoin-disciplined-expansion-demand-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T16:09:40+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1taWNoYWVsLXNheWxvcjIuanBn.jpg\" /></p><p>Michael Saylor’s essay calls for Bitcoin to expand through banks, credit, securities and higher layers while preserving its base layer.</p>",
+      "title_zh": "Saylor 表示比特幣需要「有紀律的擴張」，分析師評估需求重置",
+      "summary_zh": "Saylor 強調比特幣的擴張應該保持紀律，分析師則在評估市場需求的變化。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults",
+      "link": "https://www.theblock.co/post/403829/crypto-council-for-innovation-launches-coalition-to-push-for-regulatory-clarity-on-vaults?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T16:05:02+00:00",
+      "summary": "<p>A new coalition is forming, focused on crypto vaults, an increasingly popular mechanism for depositing digital assets and earning yield.</p>",
+      "title_zh": "加密創新委員會成立聯盟，推動對保險庫的監管明確性",
+      "summary_zh": "加密創新委員會成立新聯盟，旨在促進對加密貨幣保險庫的監管透明度。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Memecoins dogecoin, shiba inu dive 9% as bitcoin nears $60,000",
+      "link": "https://www.coindesk.com/markets/2026/06/05/memecoins-dogecoin-shiba-inu-dive-9-as-bitcoin-nears-usd60-000",
+      "published": "2026-06-05T16:01:00+00:00",
+      "summary": "",
+      "title_zh": "隨著比特幣接近 60,000 美元，迷因幣狗狗幣和柴犬幣下跌 9%",
+      "summary_zh": "隨著比特幣價格接近 60,000 美元，狗狗幣和柴犬幣的價格均下跌 9%。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
+      "link": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
+      "published": "2026-06-05T15:52:15+00:00",
+      "summary": "Rep. Brad Sherman warned that allowing government payments in stablecoins would \"sanctify an alternative to the U.S. dollar.\"",
+      "title_zh": "政府穩定幣支付將助長「逃稅經濟」，立法者警告",
+      "summary_zh": "立法者警告，政府穩定幣的使用可能會促進逃稅行為的增加。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. House tax committee weighs crypto bills, including relief for small transactions",
+      "link": "https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions",
+      "published": "2026-06-05T15:49:13+00:00",
+      "summary": "",
+      "title_zh": "美國眾議院稅務委員會考慮加密貨幣法案，包括小額交易的減稅",
+      "summary_zh": "美國眾議院稅務委員會正在討論一系列加密貨幣法案，旨在為小額交易提供稅收減免。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns",
+      "link": "https://decrypt.co/370127/winklevoss-backed-zcash-treasury-plunges-nearly-40-zec-privacy-bug",
+      "published": "2026-06-05T15:49:08+00:00",
+      "summary": "Cypherpunk Technologies shares tumbled to their lowest point since March as jitters tied to a Zcash bug knocked the Winklevoss-backed firm.",
+      "title_zh": "Winklevoss 支持的 Zcash 國庫因 ZEC 隱私漏洞擔憂暴跌近 40%",
+      "summary_zh": "由 Winklevoss 支持的 Zcash 國庫因隱私漏洞問題而大幅下跌，損失近 40%。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K",
+      "link": "https://cointelegraph.com/markets/bitcoin-approaches-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T15:43:14+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xODA1NDEtYml0Y29pbi1wcmljZS10b2RheS0wMy0xMy0yMDI1LWJ0Yy1idWxscy1hcmUtdGlyZWQtYW5kLWNhbnQtYnJlYWstb3V0LW9mLTgzay5qcGc=.jpg\" /></p><p>Bitcoin sellers were losing steam, market analysis said as on",
+      "title_zh": "比特幣在 BTC 價格下行至 60,300 美元時暗示「賣方疲憊」",
+      "summary_zh": "比特幣價格下行至 60,300 美元，市場出現賣方疲憊的跡象。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Strategy’s Saylor says Bitcoin should avoid choosing between ‘purity and adoption’ as BTC extends losses",
+      "link": "https://www.theblock.co/post/403818/strategy-saylor-bitcoin-avoid-choosing-purity-adoption-btc-extends-losses?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T15:25:02+00:00",
+      "summary": "<p>Strategy Exec Chairman Michael Saylor divided the Bitcoin ecosystem into four camps, saying that each serves a necessary role.</p>",
+      "title_zh": "Strategy 的 Saylor 認為比特幣應避免在「純粹性與採用」之間做選擇，因為 BTC 持續下跌",
+      "summary_zh": "Saylor 強調比特幣不應在純粹性與市場採用之間取捨，儘管其價格仍在下滑。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Morgan Stanley lets clients lend bitcoin and other assets for in-kind spot crypto ETF conversions",
+      "link": "https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T15:06:13+00:00",
+      "summary": "<p>Morgan Stanley Wealth Management and Galaxy Digital have partnered to let eligible clients lend crypto in exchange for crypto ETP shares.</p>",
+      "title_zh": "摩根士丹利允許客戶借出比特幣及其他資產以進行現貨加密 ETF 轉換",
+      "summary_zh": "摩根士丹利開始提供客戶借出比特幣等資產的服務，以支持現貨加密 ETF 的轉換。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Alsobrooks says Clarity Act needs ethics deal before Senate vote",
+      "link": "https://www.coindesk.com/coindesk-news/2026/06/05/alsobrooks-says-clarity-act-needs-ethics-deal-before-senate-vote",
+      "published": "2026-06-05T15:05:55+00:00",
+      "summary": "",
+      "title_zh": "Alsobrooks 表示《透明法案》需在參議院投票前達成倫理協議",
+      "summary_zh": "Alsobrooks 強調在參議院投票前，必須就《透明法案》達成倫理方面的協議。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin loses $60,000, falls to weakest price since October 2024",
+      "link": "https://www.coindesk.com/markets/2026/06/05/bitcoin-loses-usd60-000-falls-to-weakest-price-since-october-2024",
+      "published": "2026-06-05T15:02:28+00:00",
+      "summary": "",
+      "title_zh": "比特幣失去 60,000 美元，跌至自 2024 年 10 月以來的最低價格",
+      "summary_zh": "比特幣價格持續下滑，已跌至自 2024 年 10 月以來的最低點，損失超過 60,000 美元。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP falls toward $1.10 as liquidation-driven selloff pushes token to multi-month lows",
+      "link": "https://www.coindesk.com/markets/2026/06/05/xrp-falls-toward-usd1-10-as-liquidation-driven-selloff-pushes-token-to-multi-month-lows",
+      "published": "2026-06-05T14:53:06+00:00",
+      "summary": "",
+      "title_zh": "XRP 逼近 1.10 美元，因清算驅動的拋售將代幣推至數月低點",
+      "summary_zh": "XRP 受到清算驅動的拋售影響，價格接近 1.10 美元，創下數月來的新低。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Visa tests private stablecoin settlement with Brale, Canton",
+      "link": "https://cointelegraph.com/news/visa-tests-private-stablecoin-settlement-as-institutions-push-blockchain-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T14:45:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Visa tests private stablecoin settlement with Brale, Canton\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jb3VsZC10aG9zZS13aG8tbGVmdC12aXNhLWNvbWUtYmFjay1saXRlY29pbi5wbmc=.png\" /></p><p>Visa is testing private stablecoin settlement on Canton with Brale, exploring whether institutions can use blockchain without exposing sensit",
+      "title_zh": "Visa 測試與 Brale 和 Canton 的私人穩定幣結算",
+      "summary_zh": "Visa 正在測試與 Brale 和 Canton 合作的私人穩定幣結算系統，以探索新支付方式。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Zcash weighs new shielded pool after counterfeiting flaw",
+      "link": "https://cointelegraph.com/news/zcash-new-shielded-pool-orchard-counterfeiting-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T13:18:41+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash weighs new shielded pool after counterfeiting flaw\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10b3AtNS1iaWdnZXN0LW1pbmluZy1mYXJtcy16Y2FzaC5qcGc=.jpg\" /></p><p>Zcash developers are weighing a new shielded pool and turnstile accounting after the Orchard bug raised supply verification questions.</p>",
+      "title_zh": "Zcash 考慮在偽造缺陷後推出新的保護池",
+      "summary_zh": "Zcash 正在評估推出新保護池的可能性，以解決近期發現的偽造問題。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: Bitcoin (BTC) price drops 2.8% as index declines",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines",
+      "published": "2026-06-05T13:10:39+00:00",
+      "summary": "",
+      "title_zh": "CoinDesk 20 表現更新：比特幣 (BTC) 價格下跌 2.8%，指數下滑",
+      "summary_zh": "CoinDesk 20 指數顯示，比特幣價格下跌 2.8%，整體市場表現不佳。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
+      "link": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+      "published": "2026-06-05T13:10:25+00:00",
+      "summary": "The warning from the UK’s Financial Conduct Authority adds pressure to a perps market already under increasing scrutiny from regulators.",
+      "title_zh": "Hyperliquid 遭英國 FCA 警告，加密永久合約面臨審查",
+      "summary_zh": "Hyperliquid 收到英國金融行為監管局的警告，該平台的加密永久合約正受到審查。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin needs one more thing to happen to spark BTC price 'rally:' Analysis",
+      "link": "https://cointelegraph.com/markets/bitcoin-needs-one-more-thing-to-happen-to-spark-btc-price-rally-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T13:00:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin needs one more thing to happen to spark BTC price 'rally:' Analysis\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yMzkzODMtYnRjLXByaWNlLXBhdXNlcy05MGstd2hhdC13aWxsLXRyaWdnZXItbmV3LXllYXItcmFsbHkuanBn.jpg\" /></p><p>Bitcoin whales flipped to support a BTC price rebound, but analysis warned that the Coinb",
+      "title_zh": "分析：比特幣需要再發生一件事才能引發價格「反彈」",
+      "summary_zh": "分析指出，比特幣價格需要某些條件的出現，才能觸發市場的反彈。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. job growth blows past forecasts, setting stage for Fed rate hikes",
+      "link": "https://www.coindesk.com/markets/2026/06/05/u-s-job-growth-blows-past-forecasts-setting-stage-for-fed-rate-hikes",
+      "published": "2026-06-05T12:57:14+00:00",
+      "summary": "",
+      "title_zh": "美國就業增長超出預期，為聯準會加息鋪平道路",
+      "summary_zh": "美國的就業增長數據超出預期，可能促使聯準會考慮加息以應對經濟增長。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bearish zcash bets hit record high as privacy token's price crashes",
+      "link": "https://www.coindesk.com/markets/2026/06/05/bearish-zcash-bets-hit-record-high-as-privacy-token-s-price-crashes",
+      "published": "2026-06-05T12:54:02+00:00",
+      "summary": "",
+      "title_zh": "隱私代幣Zcash的看跌押注創下新高，價格崩跌",
+      "summary_zh": "隨著Zcash價格大幅下跌，市場對其未來的看跌押注達到歷史新高。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown",
+      "link": "https://decrypt.co/370112/morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown",
+      "published": "2026-06-05T12:49:04+00:00",
+      "summary": "The ZCash team hired a hacker to find an exploit in the ZCash protocol, and he exposed a glitch that has been out there for four years.",
+      "title_zh": "早晨快訊：Claude發現大規模ZCash漏洞，範圍未知",
+      "summary_zh": "安全研究員Claude發現ZCash存在重大漏洞，具體影響範圍尚不清楚。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "House GOP eyes summer vote on prediction market restrictions for lawmakers",
+      "link": "https://cointelegraph.com/news/house-gop-summer-vote-ban-lawmakers-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T12:46:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"House GOP eyes summer vote on prediction market restrictions for lawmakers\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGUtcmV2aXZhbC1vZi1nZW5lcmFsLXBhcnRuZXJzaGlwcy1pbi10aGUtYWdlLW9mLXRva2Vub21pY3MtcGFydC0zLmpwZw==.jpg\" /></p><p>House Republicans plan a summer vote on a congressional stock trading ban and new restrictions",
+      "title_zh": "眾議院共和黨計劃夏季投票限制立法者的預測市場",
+      "summary_zh": "美國眾議院共和黨計劃在夏季進行投票，限制立法者參與預測市場的活動。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP: analysts",
+      "link": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T12:45:02+00:00",
+      "summary": "<p>Bitcoin ETFs ended a 13-day outflow streak with $3M inflows, and ETH ETFs snapped a 17-day run ahead of NFP as traders rotate to equity perps.</p>",
+      "title_zh": "比特幣和以太坊ETF結束13天和17天的資金外流，交易者轉向股票期貨",
+      "summary_zh": "分析師指出，隨著交易者轉向股票期貨，比特幣和以太坊ETF的資金外流趨勢終止。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ",
+      "link": "https://cointelegraph.com/news/jpmorgan-citi-bank-of-america-launch-tokenized-deposit-system-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T12:39:32+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWEtY3J5cHRvLXZhdWx0LWFuZC1ob3ctZG9lcy1pdC13b3JrLmpwZw==.jpg\" /></p><p>Some of the largest banks are reportedly launching a tokenized deposit network in early 2027 in response to growing com",
+      "title_zh": "摩根大通和花旗支持的清算所計劃在2027年推出代幣化存款網絡",
+      "summary_zh": "摩根大通和花旗銀行支持的清算所計劃於2027年推出一個新的代幣化存款網絡。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "How low can Bitcoin price go if $60K support fails?",
+      "link": "https://cointelegraph.com/markets/how-low-can-bitcoin-price-go-if-60k-support-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T12:24:23+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How low can Bitcoin price go if $60K support fails?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yNTA0MjktYml0Y29pbi1vcHRpb25zLW1hcmtldC1zdHJ1Y3R1cmUtbGVhbnMtdG93YXJkLTYway1yZXRlc3QtaW4tZmVicnVhcnkuanBn.jpg\" /></p><p>Bitcoin’s downside targets cluster near $50,000, but a larger weekly bearish setup puts a dee",
+      "title_zh": "如果60000美元支撐失敗，比特幣價格能跌到多低？",
+      "summary_zh": "市場分析師探討比特幣在失去60000美元支撐後可能面臨的價格下行風險。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto",
+      "link": "https://www.coindesk.com/tech/2026/06/05/live-updates-bitcoin-below-usd62-000-ahead-of-jobs-data-as-zcash-bug-rocks-crypto",
+      "published": "2026-06-05T12:08:26+00:00",
+      "summary": "",
+      "title_zh": "實時更新：比特幣因就業數據強勁和Zcash漏洞下跌至60000美元",
+      "summary_zh": "比特幣價格因強勁的就業數據和Zcash漏洞影響而下跌至60000美元。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "CME CEO Duffy says new perpetual futures could be ‘disaster waiting to happen’",
+      "link": "https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T12:03:24+00:00",
+      "summary": "<p>CME CEO Terry Duffy warned that U.S.-approved perpetual futures risk retail blowouts and excessive leverage exposure.</p>",
+      "title_zh": "CME首席執行官Duffy表示新永續期貨可能是‘災難的前兆’",
+      "summary_zh": "CME首席執行官Duffy警告新推出的永續期貨合約可能帶來潛在的市場風險。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Arthur Hayes dumps zcash holdings after Orchard Pool vulnerability revealed",
+      "link": "https://www.coindesk.com/markets/2026/06/05/arthur-hayes-dumps-zcash-holdings-after-orchard-pool-vulnerability-revealed",
+      "published": "2026-06-05T11:57:22+00:00",
+      "summary": "",
+      "title_zh": "Arthur Hayes在Orchard Pool漏洞曝光後拋售Zcash持倉",
+      "summary_zh": "加密貨幣投資者Arthur Hayes因Zcash的安全漏洞而決定拋售其持有的Zcash。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million",
+      "link": "https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T11:35:03+00:00",
+      "summary": "<p>ZEC crashed over 50% to around $310 amid Zcash's Orchard bug disclosure and more than $116 million in 24-hour liquidations.</p>",
+      "title_zh": "Zcash 銷售延續超過 50%，因漏洞披露導致清算超過 1 億美元",
+      "summary_zh": "Zcash 的價格因漏洞披露而大幅下跌，清算金額已超過 1 億美元，賣壓持續增加。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Pump.fun's Latest Experiment Is Already Getting Weird",
+      "link": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
+      "published": "2026-06-05T11:33:50+00:00",
+      "summary": "Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”",
+      "title_zh": "Pump.fun 的最新實驗已經變得奇怪",
+      "summary_zh": "Pump.fun 的新實驗引發了奇怪的反應，顯示出加密市場的不可預測性。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin sentiment hit peak bearishness at recent lows, peak bullishness near tops",
+      "link": "https://www.coindesk.com/daybook-us/2026/06/04/bitcoin-sentiment-hit-peak-bearishness-at-recent-lows-peak-bullishness-near-tops",
+      "published": "2026-06-05T11:25:49+00:00",
+      "summary": "",
+      "title_zh": "比特幣情緒在近期低點達到最悲觀，接近高點時達到最樂觀",
+      "summary_zh": "比特幣市場情緒波動劇烈，近期低點顯示出極度悲觀，反之在高點時則表現出極度樂觀。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Forward Industries moves $32M in SOL amid $1B paper loss",
+      "link": "https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T10:59:50+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Forward Industries moves $32M in SOL amid $1B paper loss\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jb3VsZC1jcnlwdG8tZW50ZXItdGhlLW1haW5zdHJlYW0tYXMtYS1tZWFucy1vZi1wYXltZXRzLWFmdGVyLWViYXktaW50ZWdyYXRpb24tYW5kLXBheXBhbC1zdGFibGVjb2luLW5ld3MuanBn.jpg\" /></p><p>Forward Industries moved $31.9 million in SOL to Coinbase Prime ",
+      "title_zh": "Forward Industries 在 10 億美元的紙面損失中轉移 3200 萬美元的 SOL",
+      "summary_zh": "Forward Industries 在面臨巨額損失的情況下，仍然轉移了 3200 萬美元的 SOL。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea police probe Polymarket users over illegal gambling claims: Report",
+      "link": "https://cointelegraph.com/news/south-korean-authorities-first-illegal-gambling-probe-polymarket-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T10:47:17+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea police probe Polymarket users over illegal gambling claims: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9wb2xpY2UtY3JpbWUtYmxhY2stYXNpYW4taW5kaWFuLW1hbi13b21hbi1oYWNrLmpwZw==.jpg\" /></p><p>South Korean police reportedly launched the country’s first illegal gambling probe into local Polymarket users amid electi",
+      "title_zh": "南韓警方調查 Polymarket 用戶涉嫌非法賭博的報導",
+      "summary_zh": "南韓警方針對 Polymarket 用戶展開調查，涉及非法賭博的指控。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’",
+      "link": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
+      "published": "2026-06-05T10:41:59+00:00",
+      "summary": "An Orchard vulnerability that allowed undetectable counterfeiting of ZEC in its shielded pool has reignited debate over privacy coins.",
+      "title_zh": "ZEC 暴跌 38%，因 Zcash 披露「關鍵偽造漏洞」",
+      "summary_zh": "Zcash 的安全漏洞披露導致 ZEC 價格暴跌 38%，市場反應強烈。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
+      "link": "https://www.coindesk.com/markets/2026/06/05/crypto-s-worst-week-since-july-2024-deepens-as-bitcoin-ether-near-critical-price-levels",
+      "published": "2026-06-05T10:39:16+00:00",
+      "summary": "",
+      "title_zh": "自 2024 年 7 月以來，加密貨幣經歷最糟糕的一週，比特幣和以太坊接近關鍵價格水平",
+      "summary_zh": "比特幣和以太坊的價格接近關鍵支撐位，加密市場經歷了自 2024 年 7 月以來最糟糕的一週。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds",
+      "link": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T10:05:44+00:00",
+      "summary": "<p>The Hong Kong Monetary Authority announced the formation of an expert group to advance the development of tokenized bonds.</p>",
+      "title_zh": "香港與摩根大通、匯豐銀行合作成立專家小組以推廣代幣化債券",
+      "summary_zh": "香港政府與摩根大通和匯豐銀行合作，成立專家小組以推動代幣化債券的發展。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Grayscale says bitcoin needs other buyers to find a ‘sustainable bottom’ amid Strategy BTC sale",
+      "link": "https://www.theblock.co/post/403770/grayscale-other-buyers-must-step-in-for-bitcoins-price-to-find-a-sustainable-bottom-after-strategy-btc-sale?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T09:27:29+00:00",
+      "summary": "<p>Grayscale said Strategy's ability to accumulate more bitcoin is limited at the current STRC and MSTR share prices.</p>",
+      "title_zh": "Grayscale 表示比特幣需要其他買家才能找到「可持續底部」，因策略 BTC 銷售",
+      "summary_zh": "Grayscale 指出，為了達到可持續的價格底部，比特幣需要更多的買家進入市場。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan, Bank of America, Citi to start blockchain offensive with shared tokenized network",
+      "link": "https://www.coindesk.com/markets/2026/06/05/jpmorgan-bank-of-america-and-citi-are-going-on-the-blockchain-offensive-with-a-shared-tokenized-network",
+      "published": "2026-06-05T09:16:29+00:00",
+      "summary": "",
+      "title_zh": "摩根大通、美國銀行和花旗銀行將開始區塊鏈攻勢，推出共享代幣化網絡",
+      "summary_zh": "三大銀行計劃推出共享的代幣化網絡，以推動區塊鏈技術的應用和發展。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "South Korean police investigate local Polymarket users on illegal gambling charges: report",
+      "link": "https://www.theblock.co/post/403777/south-korean-police-investigates-local-polymarket-users?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T08:59:09+00:00",
+      "summary": "<p>South Korean Polymarket users could be subject to a fine of up to 10 million Korean won, which is worth around $6,495.</p>",
+      "title_zh": "韓國警方調查當地Polymarket用戶涉嫌非法賭博：報導",
+      "summary_zh": "韓國警方正在調查Polymarket平台的用戶，因涉嫌參與非法賭博活動。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. bitcoin, ether ETFs end record multibillion outflow streak",
+      "link": "https://www.coindesk.com/markets/2026/06/05/bitcoin-and-ether-etfs-end-record-multi-billion-outflow-streak",
+      "published": "2026-06-05T08:53:30+00:00",
+      "summary": "",
+      "title_zh": "美國比特幣、以太坊ETF結束創紀錄的數十億資金外流",
+      "summary_zh": "美國的比特幣和以太坊ETF經歷了創紀錄的資金外流，現在終於停止了這一趨勢。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here's what could happen if bitcoin breaks below $60,000",
+      "link": "https://www.coindesk.com/markets/2026/06/05/here-s-what-could-happen-if-bitcoin-breaks-below-usd60-000",
+      "published": "2026-06-05T07:52:25+00:00",
+      "summary": "",
+      "title_zh": "如果比特幣跌破60,000美元，可能會發生什麼",
+      "summary_zh": "專家分析比特幣若跌破60,000美元，可能引發市場恐慌和進一步下跌。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto billionaires bankroll Nigel Farage's pro-crypto party",
+      "link": "https://cointelegraph.com/news/crypto-billionaires-bankroll-reform-uk-more-than-other-parties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T07:02:59+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto billionaires bankroll Nigel Farage's pro-crypto party\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1mdW5kcmFpc2luZy0xMDEtYS1iZWdpbm5lcnMtZ3VpZGUtb24tcmFpc2luZy1mdW5kcy11c2luZy1jcnlwdG9jdXJyZW5jaWVzLXVrLmpwZw==.jpg\" /></p><p>Tether-linked billionaire Christopher Harborne and BitMEX co-founder Ben Delo donated $9.4 milli",
+      "title_zh": "加密貨幣億萬富翁資助奈傑爾·法拉奇的支持加密政黨",
+      "summary_zh": "多位加密貨幣億萬富翁支持奈傑爾·法拉奇成立的政黨，推動加密貨幣政策。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale",
+      "link": "https://cointelegraph.com/news/strategys-leveraged-bitcoin-model-faces-first-stress-test-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T07:00:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG8tdHJhZGluZy1iYXNpY3MtYS1iZWdpbm5lcnMtZ3VpZGUtdG8tY3J5cHRvY3VycmVuY3ktb3JkZXItdHlwZXMxLTIuanBn.jpg\" /></p><p>“Less Bitcoin on levered DAT balance sheets and more on diversified corporate balance s",
+      "title_zh": "策略的槓桿比特幣模型面臨首次壓力測試：Grayscale",
+      "summary_zh": "Grayscale的槓桿比特幣模型經歷了首次壓力測試，結果引發市場關注。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC",
+      "link": "https://www.coindesk.com/tech/2026/06/05/bitcoin-in-danger-of-dropping-to-usd60-000-with-zcash-bulls-turning-their-backs-on-zec",
+      "published": "2026-06-05T06:18:59+00:00",
+      "summary": "",
+      "title_zh": "比特幣面臨跌至60,000美元的危險，Zcash牛市轉向ZEC",
+      "summary_zh": "比特幣價格下滑，市場情緒轉變，Zcash的支持者開始拋售ZEC。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds",
+      "link": "https://www.theblock.co/learn/403712/what-is-an-xrp-etf?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T06:08:41+00:00",
+      "summary": "<p>An XRP ETF is an exchange-traded fund that tracks the price of XRP. These funds trade on regulated stock exchanges such as the New York Stock Exchange or Nasdaq. Instead of buying XRP on a crypto exchange and holding it in a digital wallet, investors purchase ETF shares through a standard brokerage account. XRP is [&hellip;]</p>",
+      "title_zh": "什麼是XRP ETF？XRP交易所交易基金的完整指南",
+      "summary_zh": "本文提供有關XRP ETF的詳細介紹，幫助投資者了解其運作方式。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%",
+      "link": "https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14",
+      "published": "2026-06-05T06:08:32+00:00",
+      "summary": "",
+      "title_zh": "比特幣因AI交易回落而暴跌至接近62,000美元，HYPE下跌14%",
+      "summary_zh": "隨著AI交易的回落，比特幣價格急劇下跌，HYPE指數也隨之下滑。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Anthropic says self-improving AI may be closer than expected",
+      "link": "https://cointelegraph.com/news/anthropic-ai-self-improvement-agents-recursive-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T06:03:52+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic says self-improving AI may be closer than expected\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9haS1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1kaWdpdGFsLXdvcmxkLWFydGlmaWNpYWwtcGVyc29uLW1hY2hpbmUtbGVhcm5pbmctcm9ib3QtYWRvcHRpb24uanBn.jpg\" /></p><p>Companies have been developing AI very quickly to stay ahead of the market, but \nFav",
+      "title_zh": "Anthropic表示自我改善的AI可能比預期更接近",
+      "summary_zh": "Anthropic公司預測，自我改善的人工智慧技術可能在不久的將來實現。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash plummets 38% as Shielded Labs reveals a major bug that went undetected for four years",
+      "link": "https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years",
+      "published": "2026-06-05T05:43:07+00:00",
+      "summary": "",
+      "title_zh": "Zcash因Shielded Labs揭露四年未被發現的重大漏洞而暴跌38%",
+      "summary_zh": "Zcash價格大幅下跌，因為Shielded Labs發現了一個長期未被注意的重大安全漏洞。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug",
+      "link": "https://cointelegraph.com/news/zec-tanks-30-after-ai-security-review-discovers-critical-zcash-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T05:09:56+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jLW1hbi1mYWxsaW5nLmpwZw==.jpg\" /></p><p>ZEC market capitalization fell by almost $3 billion over the past 24 hours following the disclosure of a critical vulnerability, despite it being patched already. \n</p>",
+      "title_zh": "ZEC 價格下跌 30%，Shielded Labs 揭露無限偽造漏洞的更多細節",
+      "summary_zh": "ZEC 價格因為新發現的漏洞而大幅下跌，市場反應強烈。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
+      "link": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-06-05T04:26:57+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senate Republicans push finance watchdogs to clarify crypto capital rules\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jeW50aGlhLWx1bW1pcy1wb3J0cmFpdC0xLmpwZw==.jpg\" /></p><p>Senator Cynthia Lummis has led a group of lawmakers urging financial regulators for “fair capital treatment for on-balance sheet treatment of digital asset",
+      "title_zh": "參議院共和黨人推動金融監管機構澄清加密資本規則",
+      "summary_zh": "共和黨參議員要求監管機構針對加密貨幣的資本規則提供更明確的指導。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%",
+      "link": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T03:16:08+00:00",
+      "summary": "<p>The vulnerability was fixed within days, and findings suggest that actual exploitation of the bug is unlikely.</p>",
+      "title_zh": "安全研究員發現 Zcash 漏洞，允許「無限」偽造鑄幣；ZEC 價格下跌 31%",
+      "summary_zh": "Zcash 的新漏洞使得無限量鑄幣成為可能，導致 ZEC 價格急劇下滑。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
+      "link": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-05T02:57:24+00:00",
+      "summary": "<p>The initiative would enable tokenized deposits to move instantly and support around-the-clock settlement, the Wall Street Journal reported.</p>",
+      "title_zh": "摩根大通和花旗支持的聯盟計劃於 2027 年初推出代幣化存款網絡：華爾街日報",
+      "summary_zh": "由摩根大通和花旗支持的聯盟計劃在未來幾年內推出新的代幣化存款系統。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 61469,
+      "price_change_24h": -2.82366,
+      "volume_24h": 72871603711,
+      "high_30d": 82145.656068,
+      "low_30d": 61463.503183,
+      "rsi": 13.11,
+      "sma7": 67805.180948,
+      "sma20": 73217.324576,
+      "ema12": 69308.587374,
+      "ema26": 73234.482744,
+      "signal": "RSI超賣 / 均線空頭"
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 1593.49,
+      "price_change_24h": -9.22105,
+      "volume_24h": 39315896263,
+      "high_30d": 2368.837666,
+      "low_30d": 1593.486997,
+      "rsi": 10.94,
+      "sma7": 1865.226136,
+      "sma20": 2009.318842,
+      "ema12": 1902.034282,
+      "ema26": 2029.440348,
+      "signal": "RSI超賣 / 均線空頭"
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 64.22,
+      "price_change_24h": -5.14231,
+      "volume_24h": 6987437410,
+      "high_30d": 97.322835,
+      "low_30d": 64.219417,
+      "rsi": 17.26,
+      "sma7": 74.935403,
+      "sma20": 81.120044,
+      "ema12": 76.41292,
+      "ema26": 81.239543,
+      "signal": "RSI超賣 / 均線空頭"
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 575.81,
+      "price_change_24h": -3.81375,
+      "volume_24h": 2158958306,
+      "high_30d": 718.195301,
+      "low_30d": 575.920271,
+      "rsi": 33.21,
+      "sma7": 652.756102,
+      "sma20": 650.682642,
+      "ema12": 640.528466,
+      "ema26": 648.973327,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.1,
+      "price_change_24h": -4.76223,
+      "volume_24h": 4297950702,
+      "high_30d": 1.484456,
+      "low_30d": 1.101477,
+      "rsi": 20.07,
+      "sma7": 1.234504,
+      "sma20": 1.309667,
+      "ema12": 1.251394,
+      "ema26": 1.311843,
+      "signal": "RSI超賣 / 均線空頭"
+    }
+  ],
+  "signals": {
+    "date": "2026-06-06",
+    "fear_greed": {
+      "value": 12,
+      "classification": "Extreme Fear",
+      "timestamp": "2026-06-05T00:00:00+00:00",
+      "history": [
+        {
+          "value": 12,
+          "classification": "Extreme Fear",
+          "date": "2026-06-05"
+        },
+        {
+          "value": 12,
+          "classification": "Extreme Fear",
+          "date": "2026-06-04"
+        },
+        {
+          "value": 11,
+          "classification": "Extreme Fear",
+          "date": "2026-06-03"
+        },
+        {
+          "value": 23,
+          "classification": "Extreme Fear",
+          "date": "2026-06-02"
+        },
+        {
+          "value": 29,
+          "classification": "Fear",
+          "date": "2026-06-01"
+        },
+        {
+          "value": 28,
+          "classification": "Fear",
+          "date": "2026-05-31"
+        },
+        {
+          "value": 23,
+          "classification": "Extreme Fear",
+          "date": "2026-05-30"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {}
+  }
+}
