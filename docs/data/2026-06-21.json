@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T06:32:02.843978+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. 秘密網絡的Axelar橋接因漏洞被盜467萬美元，且未在七天內被察覺。\n2. 比特幣轉向山寨幣的潮流遭遇崩潰，市場對山寨季的前景感到擔憂。\n3. Andre Cronje及其他兩名高管辭去Sonic Labs董事會職位，導致S代幣價格大幅下跌。\n4. 菲律賓證券交易委員會準備進行RWA代幣化，顯示出對新技術的開放態度。\n5. 恐懼貪婪指數持平在23，顯示市場情緒仍然低迷。\n\n## 📊 市場概況\n今日整體市場氛圍依然偏向消極，主要受比特幣價格回落影響。比特幣（BTC）目前價格為$64,222，24小時上漲1.62%。以太坊（ETH）和Solana（SOL）表現稍好，分別上漲2.04%和6.43%。然而，BNB顯示出空頭訊號，市場整體動能不足，反映出投資者的謹慎和不安。\n\n## 🔍 技術分析解讀\n目前比特幣的RSI為37.64，顯示出市場略為超賣，而均線指標顯示多頭訊號，可能暗示短期內有反彈的機會。以太坊的RSI為41.22，同樣位於低位，表現出一定的買進潛力。Solana的RSI為48.89，接近中性區域，可能預示著後續走勢的變化。BNB則顯示出空頭信號，投資者需謹慎跟進。\n\n## 😱 市場情緒\n目前恐懼貪婪指數為23，屬於極度恐懼區域。這反映出投資者對市場的悲觀情緒，可能因近期安全事件和市場波動加劇。社群情緒普遍低迷，許多投資者表達對未來市場走勢的擔憂，這可能影響到短期內的資金流動。\n\n## ⚠️ 風險提醒\n市場仍存在多種不確定性，包括安全漏洞和高管變動引發的市場反應。投資者需謹慎評估風險，並考慮資金的分散配置，以應對潛在的市場波動。此外，持續關注市場動態及政策變化，以便及時調整投資策略。\n\n## 🎯 今日觀察重點\n關注Axelar橋接漏洞事件的後續影響，及其對其他橋接協議的潛在風險。密切留意比特幣和以太坊的價格走勢，特別是在RSI指標接近超賣區域時的反彈機會。此外，觀察S代幣的表現以及其他市場動態，特別是與RWA代幣化相關的新聞進展。",
+  "news": [
+    {
+      "source": "TheBlock",
+      "title": "Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
+      "link": "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-20T21:57:05+00:00",
+      "summary": "<p>Secret Network says about $770,000 of the stolen funds still sits in the attacker's Axelar wallet, and that Axelar declined its request to freeze it.</p>",
+      "title_zh": "秘密網絡的Axelar橋接因無限鑄造漏洞被盜467萬美元，七天未被察覺",
+      "summary_zh": "Axelar橋接因無限鑄造漏洞被盜取467萬美元，且此漏洞在七天內未被發現。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+      "link": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "published": "2026-06-20T19:09:21+00:00",
+      "summary": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
+      "title_zh": "比特幣轉向山寨幣的潮流崩潰：山寨季是否已經消失？",
+      "summary_zh": "比特幣對山寨幣的轉換減少，引發對山寨季是否仍然存在的討論。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Charles Schwab is working with Cboe to launch S&P 500 ‘yes-or-no’ binary options contracts: WSJ",
+      "link": "https://www.theblock.co/post/405454/charles-schwab-is-working-with-cboe-to-launch-sp-500-yes-or-no-binary-options-contracts-wsj?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-20T19:06:25+00:00",
+      "summary": "<p>The binary contracts would mark the brokerage's first move into prediction-market-style products, a sector that Kalshi and Polymarket already dominate.</p>",
+      "title_zh": "查爾斯·施瓦布與Cboe合作推出標準普爾500的‘是或否’二元選擇合約：華爾街日報",
+      "summary_zh": "查爾斯·施瓦布正與Cboe合作，計劃推出標準普爾500的二元選擇合約。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap—Right as Fable 5 Goes Dark",
+      "link": "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap",
+      "published": "2026-06-20T18:01:04+00:00",
+      "summary": "OpenRouter's compound-model API stacks budget AI models—and beat GPT-5.5 and Claude Opus 4.8 outright in benchmark testing.",
+      "title_zh": "OpenRouter的Fusion承諾提供便宜的Claude Fable級AI——正值Fable 5暫停更新",
+      "summary_zh": "OpenRouter推出Fusion，承諾提供高效能的AI服務，恰逢Fable 5停止更新。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
+      "link": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-20T16:01:05+00:00",
+      "summary": "<p>Sonic Labs said the three \"remain invested in Sonic's success\" but will no longer make business decisions for the Layer 1 network, formerly Fantom.</p>",
+      "title_zh": "Andre Cronje及其他兩人辭去Sonic Labs董事會職位，S代幣交易價格比峰值低97%",
+      "summary_zh": "Sonic Labs董事會成員辭職，因S代幣價格大幅下跌，低於歷史高點的97%。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI is making crypto security cheaper, faster and harder to ignore",
+      "link": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
+      "published": "2026-06-20T15:00:00+00:00",
+      "summary": "",
+      "title_zh": "人工智慧使加密貨幣安全性變得更便宜、更快速且更難忽視",
+      "summary_zh": "AI技術正在降低加密貨幣安全性的成本，提高效率，並引起更多關注。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
+      "link": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
+      "published": "2026-06-20T14:59:51+00:00",
+      "summary": "Activity on the Bitcoin network is surging, CryptoQuant said, but it's not correlating with price movement for its native asset.",
+      "title_zh": "比特幣網絡活動上升，BTC價格幾乎比峰值低50%：CryptoQuant",
+      "summary_zh": "儘管比特幣價格大幅下跌，但網絡活動卻顯示出上升的趨勢。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
+      "link": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "published": "2026-06-20T14:57:41+00:00",
+      "summary": "The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto and blockchain industries.",
+      "title_zh": "加密產業在MiCA 2.0中尋求穩定幣和DeFi修訂",
+      "summary_zh": "加密產業正著眼於穩定幣和DeFi的修訂，以應對MiCA 2.0的挑戰。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
+      "link": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
+      "published": "2026-06-20T13:00:00+00:00",
+      "summary": "",
+      "title_zh": "STRC如何失去其平價：Strategy優先股崩潰的時間線",
+      "summary_zh": "STRC的優先股遭遇崩潰，導致其失去平價，背後有一系列事件。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
+      "link": "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "published": "2026-06-20T11:49:02+00:00",
+      "summary": "The NFT-born franchise is bringing its Vibes Series 3 trading cards to Target stores across the US as it expands into physical products and mainstream retail.",
+      "title_zh": "Pudgy Penguins與Target合作擴大零售足跡，推出交易卡",
+      "summary_zh": "Pudgy Penguins與Target合作，推出交易卡，進一步擴大其零售市場。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Philippine SEC signals readiness for RWA tokenization",
+      "link": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "published": "2026-06-20T07:05:20+00:00",
+      "summary": "Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
+      "title_zh": "菲律賓證券交易委員會表示準備進行RWA代幣化",
+      "summary_zh": "菲律賓證券交易委員會已表達對於資產支持代幣化的準備，可能推動數位資產市場的發展。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+      "link": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "published": "2026-06-20T05:12:43+00:00",
+      "summary": "Two Texas brothers admitted to holding a Minnesota family at gunpoint and forcing the transfer of $8 million in cryptocurrency.",
+      "title_zh": "綁架加密貨幣的罪犯搶劫明尼蘇達州一家人800萬美元認罪",
+      "summary_zh": "三名綁架犯因搶劫一個家庭的加密貨幣而認罪，案件引發社會關注。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
+      "link": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "published": "2026-06-20T01:41:39+00:00",
+      "summary": "Andre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February.",
+      "title_zh": "S代幣因三名前高管辭去Sonic Labs董事會職位而下跌5%",
+      "summary_zh": "S代幣因三名高管辭職而下跌，市場對Sonic Labs的未來表現感到擔憂。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 64222,
+      "price_change_24h": 1.61611,
+      "volume_24h": 17996106860,
+      "high_30d": 77546.337653,
+      "low_30d": 60861.880129,
+      "rsi": 37.64,
+      "sma7": 64667.435009,
+      "sma20": 64061.774979,
+      "ema12": 64460.6185,
+      "ema26": 66607.653897,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 1741.06,
+      "price_change_24h": 2.04127,
+      "volume_24h": 7667139848,
+      "high_30d": 2131.694273,
+      "low_30d": 1568.766143,
+      "rsi": 41.22,
+      "sma7": 1744.899718,
+      "sma20": 1722.778555,
+      "ema12": 1733.8266,
+      "ema26": 1797.397018,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 73.72,
+      "price_change_24h": 6.4276,
+      "volume_24h": 2078052791,
+      "high_30d": 87.149114,
+      "low_30d": 62.157877,
+      "rsi": 48.89,
+      "sma7": 71.905617,
+      "sma20": 69.391505,
+      "ema12": 70.885298,
+      "ema26": 73.023543,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 587.32,
+      "price_change_24h": 1.17463,
+      "volume_24h": 504384652,
+      "high_30d": 718.195301,
+      "low_30d": 571.876112,
+      "rsi": 41.38,
+      "sma7": 597.799724,
+      "sma20": 605.024214,
+      "ema12": 598.773654,
+      "ema26": 613.547384,
+      "signal": "均線空頭"
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.15,
+      "price_change_24h": 1.69413,
+      "volume_24h": 1021540828,
+      "high_30d": 1.371674,
+      "low_30d": 1.093158,
+      "rsi": 40.83,
+      "sma7": 1.179337,
+      "sma20": 1.164678,
+      "ema12": 1.168641,
+      "ema26": 1.203008,
+      "signal": "均線多頭"
+    }
+  ],
+  "signals": {
+    "date": "2026-06-21",
+    "fear_greed": {
+      "value": 23,
+      "classification": "Extreme Fear",
+      "timestamp": "2026-06-20T00:00:00+00:00",
+      "history": [
+        {
+          "value": 23,
+          "classification": "Extreme Fear",
+          "date": "2026-06-20"
+        },
+        {
+          "value": 14,
+          "classification": "Extreme Fear",
+          "date": "2026-06-19"
+        },
+        {
+          "value": 15,
+          "classification": "Extreme Fear",
+          "date": "2026-06-18"
+        },
+        {
+          "value": 22,
+          "classification": "Extreme Fear",
+          "date": "2026-06-17"
+        },
+        {
+          "value": 23,
+          "classification": "Extreme Fear",
+          "date": "2026-06-16"
+        },
+        {
+          "value": 20,
+          "classification": "Extreme Fear",
+          "date": "2026-06-15"
+        },
+        {
+          "value": 18,
+          "classification": "Extreme Fear",
+          "date": "2026-06-14"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {}
+  }
+}
