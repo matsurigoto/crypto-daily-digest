@@ -1,0 +1,189 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T06:34:18.022527+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. 中國與日本的加密詐騙事件引發關注，涉及假冒‘Zksync.jp’代幣。\n2. 加密市場內部訴訟動態，CME對加密狀態的影響值得關注。\n3. AI技術的競爭持續升溫，Inception Labs的Mercury 2成功超越谷歌的DiffusionGemma。\n4. 以太坊最大‘三明治’機器人因諷刺手法損失750萬美元，市場流動性面臨挑戰。\n5. 比特幣價格穩定在64000美元附近，霍爾木茲海峽的地緣政治威脅影響市場情緒。\n\n## 📊 市場概況\n當前加密市場持續受到多重因素影響，主流幣如比特幣（BTC）和以太坊（ETH）價格均出現小幅下滑。比特幣目前報價63583美元，24小時內下跌了約1.03%；以太坊報價1712.56美元，24小時下跌約1.69%。其他幣種如Solana（SOL）與XRP也顯示出相似的趨勢，整體市場情緒偏向保守。\n\n## 🔍 技術分析解讀\n在技術指標方面，比特幣的RSI為36.94，顯示出超賣的情況，而以太坊的RSI為39.95，同樣顯示出一定的賣壓。雖然大多數主要幣種的均線顯示出多頭信號，但這可能是受到近期市場波動的影響。BNB的均線則顯示出空頭訊號，反映出其在當前市場環境中的不穩定性。\n\n## 😱 市場情緒\n當前的恐懼貪婪指數為23，顯示出市場正處於極度恐懼的狀態。這種情緒可能會影響投資者的決策，導致市場流動性減少。社群情緒普遍偏向悲觀，許多投資者對近期價格的波動感到不安，進而影響未來的買賣行為。\n\n## ⚠️ 風險提醒\n市場的不確定性持續存在，特別是受到地緣政治事件與詐騙事件的影響。投資者應該謹慎對待當前的市場動向，特別是對於那些涉及高風險的交易策略。此外，近期的技術面信號也顯示出潛在的回調風險，因此建議投資者隨時關注市場動態。\n\n## 🎯 今日觀察重點\n今天的觀察重點包括比特幣與以太坊的價格走勢，以及霍爾木茲海峽的地緣政治發展對市場的影響。此外，值得注意的是近期的加密詐騙事件及其對市場信心的潛在衝擊，投資者應密切關注相關新聞與技術指標的變化。",
+  "news": [
+    {
+      "source": "TheBlock",
+      "title": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake ‘Zksync.jp’ token: Nikkei",
+      "link": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-21T20:06:58+00:00",
+      "summary": "<p>The linked criminal group allegedly distributed a scam token under the name \"zksync.jp\" to deceive crypto users worldwide, with losses of over $1 million. </p>",
+      "title_zh": "與芬太尼相關的中國網絡與來自日本的加密詐騙有關，涉及假冒‘Zksync.jp’代幣：日經",
+      "summary_zh": "報導指出，中國的芬太尼相關網絡與日本的加密貨幣詐騙活動有關，涉及假冒代幣的交易。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Are perps swaps? A quick look at that CME suit: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
+      "published": "2026-06-21T18:30:00+00:00",
+      "summary": "",
+      "title_zh": "罪犯交換？快速回顧CME訴訟：加密狀態",
+      "summary_zh": "這篇文章探討了CME的訴訟，並分析了罪犯交換的相關問題。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
+      "link": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
+      "published": "2026-06-21T16:01:03+00:00",
+      "summary": "Both models trade word-by-word generation for parallel denoising. Only one of them does it without losing intelligence in the trade.",
+      "title_zh": "Inception Labs的Mercury 2 AI在自己的領域中擊敗谷歌的DiffusionGemma",
+      "summary_zh": "Inception Labs的Mercury 2 AI在人工智慧競賽中超越了谷歌的DiffusionGemma，顯示其技術優勢。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Notorious ‘jaredfromsubway’ MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
+      "link": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-21T15:00:57+00:00",
+      "summary": "<p>An X account using the bot's name claimed a $15 million loss and offered a $1 million bounty, but evidence shows it is a likely impersonator.</p>",
+      "title_zh": "臭名昭著的‘jaredfromsubway’ MEV機器人被抽走約750萬美元的反MEV蜜罐",
+      "summary_zh": "一個知名的MEV機器人遭到攻擊，損失約750萬美元，顯示出加密市場的風險。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
+      "link": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
+      "published": "2026-06-21T13:01:03+00:00",
+      "summary": "New research outlines how chatbot behaviors, including personalization, mirroring, and excessive agreement, reinforce delusions.",
+      "title_zh": "AI‘放大螺旋’可能導致用戶出現妄想，研究顯示",
+      "summary_zh": "一項研究指出，AI的放大效應可能使使用者產生妄想，提醒人們注意其潛在影響。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+      "link": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+      "published": "2026-06-21T07:12:35+00:00",
+      "summary": "",
+      "title_zh": "以諷刺手法剝削的以太坊最大‘三明治’機器人損失750萬美元",
+      "summary_zh": "以太坊最大的三明治機器人因遭到諷刺性攻擊而損失750萬美元，突顯市場的脆弱性。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
+      "link": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+      "published": "2026-06-21T06:46:28+00:00",
+      "summary": "",
+      "title_zh": "比特幣持穩在64000美元附近，霍爾木茲海峽的威脅影響美伊停火談判",
+      "summary_zh": "比特幣價格穩定在64000美元附近，但霍爾木茲海峽的緊張局勢影響了美伊之間的停火談判。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 63583,
+      "price_change_24h": -1.02993,
+      "volume_24h": 16522902316,
+      "high_30d": 77274.401522,
+      "low_30d": 60861.880129,
+      "rsi": 36.94,
+      "sma7": 64365.572453,
+      "sma20": 63673.788002,
+      "ema12": 64316.245083,
+      "ema26": 66194.904391,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 1712.56,
+      "price_change_24h": -1.69469,
+      "volume_24h": 9682228598,
+      "high_30d": 2115.708148,
+      "low_30d": 1568.766143,
+      "rsi": 39.95,
+      "sma7": 1742.946795,
+      "sma20": 1708.158373,
+      "ema12": 1729.974489,
+      "ema26": 1784.810644,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 72.81,
+      "price_change_24h": -1.41665,
+      "volume_24h": 2114940579,
+      "high_30d": 85.635706,
+      "low_30d": 62.157877,
+      "rsi": 47.92,
+      "sma7": 72.068264,
+      "sma20": 68.946439,
+      "ema12": 71.090274,
+      "ema26": 72.708207,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 586.02,
+      "price_change_24h": -0.25556,
+      "volume_24h": 440972167,
+      "high_30d": 718.195301,
+      "low_30d": 571.876112,
+      "rsi": 41.58,
+      "sma7": 593.518875,
+      "sma20": 599.716869,
+      "ema12": 596.809112,
+      "ema26": 610.841823,
+      "signal": "均線空頭"
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.13,
+      "price_change_24h": -2.01898,
+      "volume_24h": 963624328,
+      "high_30d": 1.356868,
+      "low_30d": 1.093158,
+      "rsi": 39.11,
+      "sma7": 1.170998,
+      "sma20": 1.156287,
+      "ema12": 1.162084,
+      "ema26": 1.19388,
+      "signal": "均線多頭"
+    }
+  ],
+  "signals": {
+    "date": "2026-06-22",
+    "fear_greed": {
+      "value": 23,
+      "classification": "Extreme Fear",
+      "timestamp": "2026-06-21T00:00:00+00:00",
+      "history": [
+        {
+          "value": 23,
+          "classification": "Extreme Fear",
+          "date": "2026-06-21"
+        },
+        {
+          "value": 23,
+          "classification": "Extreme Fear",
+          "date": "2026-06-20"
+        },
+        {
+          "value": 14,
+          "classification": "Extreme Fear",
+          "date": "2026-06-19"
+        },
+        {
+          "value": 15,
+          "classification": "Extreme Fear",
+          "date": "2026-06-18"
+        },
+        {
+          "value": 22,
+          "classification": "Extreme Fear",
+          "date": "2026-06-17"
+        },
+        {
+          "value": 23,
+          "classification": "Extreme Fear",
+          "date": "2026-06-16"
+        },
+        {
+          "value": 20,
+          "classification": "Extreme Fear",
+          "date": "2026-06-15"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {}
+  }
+}
