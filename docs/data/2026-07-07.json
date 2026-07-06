@@ -1,0 +1,810 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T07:13:15.825042+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. Grayscale表示其最近的比特幣銷售有助於恢復對融資結構的信心，市場對比特幣的看法有所改善。\n2. BonkDAO因惡意治理攻擊損失2000萬美元，影響了Solana生態系統的穩定性。\n3. 英國外交大臣警告AI發展可能導致的風險，反映出全球對人工智能的擔憂上升。\n4. Ripple獲得全歐洲的MiCA加密服務許可，這對其業務擴展具有重要意義。\n5. 比特幣價格達到數週來的最高點，市場情緒正逐步轉向積極。\n\n## 📊 市場概況\n今日加密貨幣市場整體氛圍略顯樂觀，比特幣價格以$64,212的價位小幅上漲0.55%。以太坊（ETH）與Solana（SOL）也表現良好，分別報價$1,805.95及$82.26。儘管BNB和XRP出現輕微回調，市場仍然對主流幣保持關注，特別是比特幣的強勁反彈吸引了投資者的目光。\n\n## 🔍 技術分析解讀\n根據技術指標，目前比特幣的RSI為61.57，顯示出一定的強勢但仍在空頭訊號中。以太坊的RSI為67.58，表明其處於多頭市場中。Solana的RSI達到71.72，顯示超買狀態，可能需要短期調整。BNB和XRP則面臨空頭壓力，建議投資者謹慎操作。\n\n## 😱 市場情緒\n當前的恐懼貪婪指數為24，顯示出極度恐懼的情緒。在這種情況下，投資者普遍對市場未來走勢感到不安，可能影響短期內的交易行為。社群對比特幣的復甦持樂觀態度，但由於市場波動性較大，仍需保持警覺。\n\n## ⚠️ 風險提醒\n市場仍存在諸多不確定性，尤其是由於法律及政策風險可能影響加密貨幣的發展。特別是BonkDAO的事件提醒我們，治理及安全問題仍是行業的重要挑戰。此外，隨著AI技術的迅速發展，相關政策變化也可能影響市場情緒及走勢。\n\n## 🎯 今日觀察重點\n建議投資者關注比特幣的價格走勢及其對市場情緒的影響，特別是其是否能夠突破近期的阻力位。此外，關注Solana生態系統中的風險事件及其對市場的連鎖反應，以及Ripple在歐洲市場的進展狀況，這些都可能影響未來的投資決策。",
+  "news": [
+    {
+      "source": "TheBlock",
+      "title": "Grayscale says Strategy’s recent bitcoin sales should restore confidence in its financing structure",
+      "link": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T22:10:15+00:00",
+      "summary": "<p>\"Strategy is selling more bitcoin. But this will restore confidence in its financing structure and help bitcoin find a more durable bottom.\"</p>",
+      "title_zh": "Grayscale表示，Strategy最近的比特幣銷售應該能恢復對其融資結構的信心",
+      "summary_zh": "Grayscale認為Strategy的比特幣銷售有助於增強投資者對其財務穩定性的信心。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports",
+      "link": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T21:57:20+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sponsor-screen-traid-bnb-chain.png\" /></p><p>The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.</p>",
+      "title_zh": "前Tether首席資訊官尋求出售穩定幣發行商的股份，彭博社報導",
+      "summary_zh": "前Tether高層計劃出售其在穩定幣發行商的股份，引發市場關注。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out",
+      "link": "https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out",
+      "published": "2026-07-06T21:40:06+00:00",
+      "summary": "",
+      "title_zh": "比特幣的美國儲備仍在進行中，聯邦機構正在討論",
+      "summary_zh": "美國的比特幣儲備計劃仍在發展中，聯邦機構正在進行深入討論。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
+      "link": "https://decrypt.co/372873/bytedance-alibaba-agent-features-china-cracks-down-humanlike-ai",
+      "published": "2026-07-06T21:37:54+00:00",
+      "summary": "Beijing's first rules targeting emotional AI are forcing the country's biggest apps to shut down custom agents.",
+      "title_zh": "字節跳動和阿里巴巴將撤回代理功能，因中國加強對類人AI的打擊",
+      "summary_zh": "隨著中國對類人AI的監管加強，字節跳動和阿里巴巴決定撤回相關功能。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?",
+      "link": "https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T21:06:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-205087-bitcoin-bulls-in-control-as-btc-price-rebounds-to-118k.jpg\" /></p><p>Bitcoin sold off as news of Strategy selling BTC shook investors’ nerve but the quick rebound suggests bulls remain ambitiously positioned.\n</p>",
+      "title_zh": "比特幣從Strategy的BTC銷售中恢復，融資利率達9%：牛市回來了嗎？",
+      "summary_zh": "比特幣在Strategy銷售後回升，融資利率上升至9%，市場對牛市的期待增加。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK Foreign Secretary Warns of 'AI Hiroshima' if Policymakers Don’t Act",
+      "link": "https://decrypt.co/372855/uk-foreign-secretary-warns-ai-hiroshima",
+      "published": "2026-07-06T21:01:03+00:00",
+      "summary": "Yvette Cooper said governments must agree on AI safeguards before frontier systems transform warfare, crime, and society.",
+      "title_zh": "英國外交大臣警告：若政策制定者不採取行動，將面臨'AI廣島'",
+      "summary_zh": "英國外交大臣警告，若不及時制定AI政策，可能會引發嚴重後果。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
+      "link": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
+      "published": "2026-07-06T20:56:52+00:00",
+      "summary": "The Bonk DAO wallet was exploited for roughly $20 million worth of the prominent dog-themed meme coin on Solana.",
+      "title_zh": "Solana Meme Coin Bonk財庫因'惡意'治理攻擊損失2000萬美元",
+      "summary_zh": "Solana的Meme Coin Bonk遭遇治理攻擊，財庫損失高達2000萬美元。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BonkDAO reports $20M theft from ‘malicious governance proposal’",
+      "link": "https://cointelegraph.com/news/bonk-dao-malicious-governance-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T20:55:11+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BonkDAO reports $20M theft from ‘malicious governance proposal’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/news-crypto-studio-bonk.jpg\" /></p><p>The developers behind the memecoin project said they had informed law enforcement after the attack and were working to “recover funds and identify those responsible.” </p>",
+      "title_zh": "BonkDAO報告稱從'惡意治理提案'中盜竊2000萬美元",
+      "summary_zh": "BonkDAO確認遭到惡意治理提案的攻擊，損失達2000萬美元。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T20:03:50+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "今天的加密貨幣市場動態更新，涵蓋重要事件和價格變化。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'We Cannot Vibe Code the Future of Humanity', UN Chief Warns at AI Summit",
+      "link": "https://decrypt.co/372854/we-cannot-vibe-code-future-of-humanity-un-chief-warns-ai",
+      "published": "2026-07-06T19:58:29+00:00",
+      "summary": "António Guterres borrowed a Silicon Valley meme to make the starkest case yet for global AI oversight—then called for an international ban on killer robots.",
+      "title_zh": "聯合國首席警告：'我們無法以代碼塑造人類的未來'，在AI峰會上發言",
+      "summary_zh": "聯合國首席在AI峰會上強調，科技不能取代人類未來的道德和價值觀。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain 'Ambitious' $150K Target",
+      "link": "https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target",
+      "published": "2026-07-06T19:58:25+00:00",
+      "summary": "The financial firm admitted Bitcoin's retrace has been painful, but still holds a lofty year-end price prediction for the top crypto asset.",
+      "title_zh": "比特幣價格達到數週以來的最高點，Bernstein分析師維持150K美元的雄心目標",
+      "summary_zh": "比特幣價格上漲，Bernstein分析師對其未來表現持樂觀態度，目標定在150,000美元。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "President Trump’s strategic bitcoin reserve hits a legal and jurisdictional snag: Bloomberg",
+      "link": "https://www.theblock.co/post/407356/trump-strategic-bitcoin-reserve-hits-legal-jurisdictional-snag-bloomberg?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T19:56:00+00:00",
+      "summary": "<p>President Trump's plans for a strategic bitcoin reserve are hitting a legal and jurisdictional snag, according to reporting from Bloomberg.</p>",
+      "title_zh": "特朗普總統的比特幣儲備遇到法律和管轄權的障礙：彭博社",
+      "summary_zh": "特朗普的比特幣儲備計劃面臨法律挑戰，可能影響其執行和管理。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
+      "link": "https://decrypt.co/372852/yield-guild-kills-crypto-game-publishing-arm-lays-off-35-ai-pivot",
+      "published": "2026-07-06T19:48:59+00:00",
+      "summary": "Yield Guild Games is shutting down its YGG Play division and games like LOL Land, blaming the crypto market downturn and other factors.",
+      "title_zh": "Yield Guild終止加密遊戲出版部，裁員35人以轉向AI",
+      "summary_zh": "Yield Guild決定關閉其加密遊戲出版部，並裁減35名員工，專注於人工智慧領域。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ripple secures full MiCA license for crypto services across Europe",
+      "link": "https://cointelegraph.com/news/ripple-secures-full-mica-license-for-crypto-services-across-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T19:29:13+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple secures full MiCA license for crypto services across Europe\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-why-crypto-refuses-to-comply-with-mica-poland.png\" /></p><p>The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area.</p>",
+      "title_zh": "Ripple獲得全歐洲的MiCA加密服務許可",
+      "summary_zh": "Ripple成功獲得MiCA許可，將在歐洲提供全面的加密服務。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform",
+      "link": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T19:07:24+00:00",
+      "summary": "<p>M1X Global, which worked with the Republic of the Marshall Islands on the issuance of the onchain sovereign bond USDM1, has raised funds.</p>",
+      "title_zh": "Paradigm領投550萬美元的M1X Global種子輪，擴展代幣化主權債務平台",
+      "summary_zh": "Paradigm投資M1X Global，旨在推動其代幣化主權債務平台的成長。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "BonkDAO loses $20 million following ‘malicious governance proposal’ attack",
+      "link": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T18:59:19+00:00",
+      "summary": "<p>The funds have been tracked to crypto exchanges, and South Korea-based Upbit said it has suspended BONK deposits and withdrawals. </p>",
+      "title_zh": "BonkDAO因‘惡意治理提案’攻擊損失2000萬美元",
+      "summary_zh": "BonkDAO遭遇治理提案攻擊，導致重大的財務損失，影響其運營。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Judge revives fraud claim against Barry Silbert, DCG in Genesis Yield lawsuit",
+      "link": "https://www.theblock.co/post/407337/judge-revives-fraud-claim-against-barry-silbert-dcg-genesis-yield-lawsuit?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T18:55:49+00:00",
+      "summary": "<p>The class action centers on Genesis Yield, a lending program that let customers deposit crypto in exchange for interest payments.</p>",
+      "title_zh": "法官恢復對Barry Silbert及DCG的詐騙指控，涉及Genesis Yield訴訟",
+      "summary_zh": "法院重新啟動對Barry Silbert及其公司DCG的詐騙指控，案件進一步發展。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase's AI System Hallucinated a World Cup Result Before the Match Even Started",
+      "link": "https://decrypt.co/372824/coinbase-ai-hallucinated-world-cup-result-before-match",
+      "published": "2026-07-06T18:49:39+00:00",
+      "summary": "Coinbase said it updated its systems after an AI-generated alert incorrectly reported the outcome of the Norway-Brazil match before kickoff.",
+      "title_zh": "Coinbase的AI系統在比賽開始前預測世界杯結果",
+      "summary_zh": "Coinbase的人工智慧系統在比賽前預測了世界杯的結果，引發關注。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Over 150,000 People Signed Up to Masturbate With AI. Here's Why",
+      "link": "https://decrypt.co/372818/people-signed-up-masturbate-ai-joi",
+      "published": "2026-07-06T17:32:38+00:00",
+      "summary": "Joi AI's search for 10 paid \"masturbation consultants\" drew more than 150,000 applicants. Here's what happened.",
+      "title_zh": "超過150,000人報名與AI進行自慰，原因如下",
+      "summary_zh": "一項調查顯示，許多人對與AI互動的自慰行為產生興趣，探討其背後原因。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’",
+      "link": "https://cointelegraph.com/news/bitmine-ether-treasury-chances-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T17:27:21+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-2.jpg\" /></p><p>Bitmine's big buy contrasts with crypto treasury peer Strategy, which reported selling millions of dollars worth of its Bitcoin holdings on Monday.</p>",
+      "title_zh": "Bitmine宣布7400萬美元的以太幣購買，主席表示‘清晰法案通過的機會更大’",
+      "summary_zh": "Bitmine計劃大規模購買以太幣，並對清晰法案的通過持樂觀態度。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "UN agency moves Stellar blockchain payment initiative beyond pilot stage",
+      "link": "https://cointelegraph.com/news/undp-moves-stellar-blockchain-payment-initiative-beyond-pilot-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T17:08:57+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UN agency moves Stellar blockchain payment initiative beyond pilot stage\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cube-blockchain-science-scientist-un-1.png\" /></p><p>The UN Development Programme said blockchain payment pilots in five countries cut costs, improved resilience and will now inform wider use across its humanitarian and development programs.</p>",
+      "title_zh": "聯合國機構將Stellar區塊鏈支付計畫推進至試點階段之外",
+      "summary_zh": "聯合國機構宣布Stellar區塊鏈支付計畫已進入實施階段，將推動全球支付系統的創新。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "TeraWulf shares rise after $19B Anthropic AI lease, JV sale",
+      "link": "https://cointelegraph.com/news/terawulf-shares-rise-after-19b-anthropic-ai-lease-jv-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T16:43:21+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TeraWulf shares rise after $19B Anthropic AI lease, JV sale\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.png\" /></p><p>The Bitcoin miner signed a 20-year AI infrastructure lease with Anthropic and sold its majority stake in a separate AI data center joint venture.</p>",
+      "title_zh": "TeraWulf股價上漲，因19億美元的Anthropic AI租約及合資企業出售",
+      "summary_zh": "TeraWulf的股價因與Anthropic的重大租約和合資企業交易而大幅上升，顯示市場對其前景的信心。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs",
+      "link": "https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T16:34:32+00:00",
+      "summary": "<p>Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.</p>",
+      "title_zh": "Vitalik Buterin提出‘極度精簡’以太坊，將鏈縮減至近零狀態並使用ZK證明",
+      "summary_zh": "以太坊創始人Vitalik Buterin提出新計畫，旨在透過ZK證明技術大幅簡化以太坊鏈的結構。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "AVAX One launches CEO search after leader of its Avalanche treasury pivot steps down",
+      "link": "https://www.theblock.co/post/407309/avax-one-ceo-search-leader-avalanche-treasury-pivot-steps-down?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T16:07:20+00:00",
+      "summary": "<p>SkyBridge founder Anthony Scaramucci backed AVAX One's $550 million Avalanche treasury strategy announced last year.</p>",
+      "title_zh": "AVAX One啟動CEO搜尋，因其Avalanche財庫的領導者辭職",
+      "summary_zh": "AVAX One因其財庫負責人辭職，開始尋找新的首席執行官以引領未來發展。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+      "link": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+      "published": "2026-07-06T16:00:15+00:00",
+      "summary": "",
+      "title_zh": "Circle的USDC在穩定幣交易量競賽中超越Tether，Visa新數據顯示",
+      "summary_zh": "根據Visa的最新數據，Circle的USDC在穩定幣交易量上已經超越了Tether，顯示其增長潛力。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "President Trump says he’s a ‘big crypto guy,’ while distancing himself from family’s crypto ventures",
+      "link": "https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T15:53:22+00:00",
+      "summary": "<p>President Trump called cryptocurrency \"powerful\" during the launch of Trump investment accounts for children.</p>",
+      "title_zh": "特朗普總統表示自己是‘大加密貨幣支持者’，同時與家族的加密業務保持距離",
+      "summary_zh": "特朗普總統強調自己對加密貨幣的支持，但同時與家族的相關業務保持一定距離。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
+      "link": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
+      "published": "2026-07-06T15:47:12+00:00",
+      "summary": "",
+      "title_zh": "策略性出售數億美元比特幣引發資本配置策略的質疑",
+      "summary_zh": "近期數億美元的比特幣出售行為引發市場對其資本配置策略的質疑，投資者關注未來走向。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
+      "link": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
+      "published": "2026-07-06T15:34:33+00:00",
+      "summary": "",
+      "title_zh": "以太坊開發者支持Vitalik Buterin的長期願景，但呼籲加快執行",
+      "summary_zh": "以太坊開發者們對Vitalik的願景表示支持，但同時希望能加快實施進度以應對市場需求。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T15:22:45+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-escrow-services-and-how-do-they-work-strategyb-1.jpg\" /></p><p>Bitcoin wiped out much of its latest gains thanks to a market reaction to Strategy's 3,600 BTC sell-off, but analysis eyed a potential buy announcement in the coming days.</p>",
+      "title_zh": "比特幣價格因策略性BTC出售下跌最多4%，交易者預測2022年夏季重演",
+      "summary_zh": "比特幣價格因大規模出售而下跌，交易者擔心可能重演2022年夏季的市場情況。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Mining Stocks Jump After TeraWulf Signs $19 Billion Lease With Anthropic",
+      "link": "https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic",
+      "published": "2026-07-06T15:15:36+00:00",
+      "summary": "TeraWulf's 20-year lease deal with Anthropic is expected to generate $19 billion in revenue—and major Bitcoin mining stocks are surging.",
+      "title_zh": "比特幣挖礦股票在TeraWulf與Anthropic簽署190億美元租約後上漲",
+      "summary_zh": "TeraWulf與Anthropic的重大租約簽署後，比特幣挖礦相關股票出現顯著上漲，市場反應積極。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Keel jumps 10% after former bitcoin miner hires data center veteran as president",
+      "link": "https://www.theblock.co/post/407300/keel-jumps-10-former-bitcoin-miner-hires-data-center-veteran-president?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T15:01:59+00:00",
+      "summary": "<p>Former Digital Realty executive Ganesh Aiyer will lead Keel's commercial growth and power pipeline expansion.</p>",
+      "title_zh": "Keel 在前比特幣礦工聘請數據中心老將為總裁後股價上漲 10%",
+      "summary_zh": "Keel 公司因聘請數據中心專家為新總裁而股價上漲，顯示市場對其未來發展的信心。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin",
+      "link": "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
+      "published": "2026-07-06T14:41:45+00:00",
+      "summary": "BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.",
+      "title_zh": "湯姆·李的 BitMine 在策略拋售比特幣後增加 7300 萬美元以太坊",
+      "summary_zh": "BitMine 在調整投資策略後，成功增持以太坊，顯示其對以太坊的看好。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
+      "link": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
+      "published": "2026-07-06T14:25:32+00:00",
+      "summary": "",
+      "title_zh": "Securitize 在上市後擁有 4 億美元的資金尋求收購，首席執行官表示",
+      "summary_zh": "Securitize 在公開上市後，計劃利用其資金進行收購，以擴大業務規模。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitmine’s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum’s total supply",
+      "link": "https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T14:15:48+00:00",
+      "summary": "<p>Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.</p>",
+      "title_zh": "Bitmine 的湯姆·李將以太坊的強勁表現與清晰法案的機會掛鉤，因財政部接近以太坊總供應的 5%",
+      "summary_zh": "湯姆·李認為以太坊的表現與清晰法案的通過機會密切相關，影響市場預期。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue",
+      "link": "https://www.theblock.co/post/407282/terawulf-data-center-lease-anthropic-19-billion-revenue?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T14:02:39+00:00",
+      "summary": "<p>Anthropic will lease at TeraWulf's Justified Data site in Hawesville, Kentucky, which is expected to provide 401 MW of IT load.</p>",
+      "title_zh": "TeraWulf 與 Anthropic 簽署 20 年數據中心租約，預計將產生 190 億美元收入",
+      "summary_zh": "TeraWulf 與 Anthropic 的長期合作將為公司帶來可觀的收入增長。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "FCA warns of major shakeup as AI agents meet tokenized money",
+      "link": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T13:50:06+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FCA warns of major shakeup as AI agents meet tokenized money\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/millsreview.png\" /></p><p>The FCA’s vision for agentic AI points toward a financial system where programmable money and tokenized assets could play a much larger role.</p>",
+      "title_zh": "FCA 警告 AI 代理與代幣化貨幣相遇可能引發重大變革",
+      "summary_zh": "FCA 提醒市場，AI 技術與代幣化貨幣的結合可能會帶來行業的重大變革。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
+      "link": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
+      "published": "2026-07-06T13:42:12+00:00",
+      "summary": "",
+      "title_zh": "DeFi 協議 Summer.fi 在 600 萬美元漏洞後暫停 Lazy Summer 金庫",
+      "summary_zh": "因遭遇安全漏洞，Summer.fi 決定暫停其 Lazy Summer 金庫以保護用戶資產。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Russia’s largest bank Sber targets early December crypto wallet launch: report",
+      "link": "https://www.theblock.co/post/407273/russias-largest-bank-sber-targets-early-december-crypto-wallet-launch-report?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T13:20:14+00:00",
+      "summary": "<p>Sberbank plans a crypto wallet and digital depository in Sber apps by early December pending Russia’s new digital asset law.</p>",
+      "title_zh": "俄羅斯最大銀行 Sber 目標在 12 月初推出加密錢包：報導",
+      "summary_zh": "Sber 銀行計劃在年底前推出加密錢包，顯示其對數字貨幣市場的重視。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cantor says Strategy's recovery hinges on restoring STRC to par",
+      "link": "https://www.coindesk.com/markets/2026/07/06/cantor-says-strategy-s-recovery-hinges-on-restoring-strc-to-par",
+      "published": "2026-07-06T13:06:09+00:00",
+      "summary": "",
+      "title_zh": "Cantor 表示策略的復甦取決於將 STRC 恢復至平價",
+      "summary_zh": "Cantor 認為，策略的成功復甦需要將 STRC 的價值恢復到平價水平。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK",
+      "link": "https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T13:00:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-needed-a-massive-education-project-to-fight-hacks-and-scams.jpg\" /></p><p>Crypto exploits rose 59% quarter-on-quarter to $807.5 million in Q2, due partly to the KelpDAO and Drift Protocol exploits, which came at the hands of North Korean hackers.</p>",
+      "title_zh": "加密黑客在上半年下降 47%，但生態系統仍不安全：CertiK",
+      "summary_zh": "儘管加密黑客事件減少，CertiK 警告整體生態系統的安全性仍然堪憂。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact",
+      "link": "https://cointelegraph.com/news/strategy-sells-bitcoin-bernstein-btc-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T12:59:04+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-supply-michael-saylor-2.jpg\" /></p><p>Strategy sold $216 million in Bitcoin to fund its dividend payments, as wealth manager Bernstein maintained its year-end Bitcoin price target of $150,000.</p>",
+      "title_zh": "策略以2.16億美元出售3,588個比特幣以資助股息，保留25.5億美元儲備不變",
+      "summary_zh": "策略公司出售比特幣以資助股息，但仍保持大量資本儲備。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost",
+      "link": "https://www.coindesk.com/business/2026/07/06/bitmine-added-another-usd74-million-in-ether-as-tom-lee-bets-on-clarity-act-boost",
+      "published": "2026-07-06T12:54:37+00:00",
+      "summary": "",
+      "title_zh": "Bitmine再增7400萬美元以太幣，Tom Lee看好Clarity法案的推動",
+      "summary_zh": "Bitmine投資以太幣，Tom Lee預測Clarity法案將帶來積極影響。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
+      "link": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
+      "published": "2026-07-06T12:51:53+00:00",
+      "summary": "Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.",
+      "title_zh": "以太坊在合併後進行最大規模的自我重塑：Vitalik Buterin",
+      "summary_zh": "Vitalik Buterin表示，以太坊正進行重大改造，以提升其功能和效率。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Sells $216M in Bitcoin for Dividends Under 'BTC Monetization Program'",
+      "link": "https://decrypt.co/372797/strategy-sells-216m-in-bitcoin-for-dividends-under-btc-monetization-program",
+      "published": "2026-07-06T12:28:00+00:00",
+      "summary": "The Bitcoin treasury giant sold $216 million worth of Bitcoin to cover preferred payouts, as an $8.3 billion quarterly loss piled up.",
+      "title_zh": "策略在'比特幣貨幣化計劃'下出售2160萬美元比特幣以支付股息",
+      "summary_zh": "策略公司透過比特幣貨幣化計劃出售資產以支付股息。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Strategy sells 3,588 BTC for $216 million, with total bitcoin holdings still underwater",
+      "link": "https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T12:22:55+00:00",
+      "summary": "<p>Strategy's total holdings account for more than 4% of the 21 million bitcoin supply cap — worth around $52.3 billion.</p>",
+      "title_zh": "策略以2.16億美元出售3,588個比特幣，總比特幣持有量仍然虧損",
+      "summary_zh": "儘管出售比特幣獲利，但策略公司的總持有量仍面臨虧損。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million",
+      "link": "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million",
+      "published": "2026-07-06T12:16:28+00:00",
+      "summary": "",
+      "title_zh": "Michael Saylor的策略大幅加快比特幣銷售步伐，籌集2.16億美元",
+      "summary_zh": "Michael Saylor加速比特幣銷售，以籌集資金應對市場挑戰。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline",
+      "link": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T12:15:20+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/european-union-eu-european-parliament-brussels-1.jpg\" /></p><p>Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.</p>",
+      "title_zh": "比利時監管機構在MiCA截止日期後標記6家未經授權的加密貨幣提供商",
+      "summary_zh": "比利時監管機構對未經授權的加密貨幣公司進行了警告和標記。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Crypto Surges Over Holiday Weekend",
+      "link": "https://decrypt.co/372798/morning-minute-crypto-surges-over-holiday-weekend",
+      "published": "2026-07-06T12:09:30+00:00",
+      "summary": "The ETF flows finally flip. Trump defends his billion-dollar crypto payday. And a rare set of signals says a bottom may be forming.",
+      "title_zh": "早安分鐘：假期週末加密貨幣大幅上漲",
+      "summary_zh": "假期期間，加密貨幣市場出現顯著上漲，吸引投資者注意。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia's largest bank plans crypto wallet launch as Moscow clears market path",
+      "link": "https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path",
+      "published": "2026-07-06T11:36:05+00:00",
+      "summary": "",
+      "title_zh": "俄羅斯最大銀行計劃推出加密錢包，莫斯科清理市場路徑",
+      "summary_zh": "俄羅斯最大銀行將推出加密錢包，顯示市場開放的潛力。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SpaceX's Nasdaq 100 inclusion comes with a historical warning",
+      "link": "https://www.coindesk.com/markets/2026/07/06/spacex-s-nasdaq-100-inclusion-comes-with-a-historical-warning",
+      "published": "2026-07-06T11:16:26+00:00",
+      "summary": "",
+      "title_zh": "SpaceX納斯達克100指數的納入伴隨歷史性的警告",
+      "summary_zh": "SpaceX進入納斯達克100指數，但市場專家發出警告。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. inflation outlook underpins bitcoin bulls after best week since March",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march",
+      "published": "2026-07-06T11:15:00+00:00",
+      "summary": "",
+      "title_zh": "美國通脹前景支撐比特幣牛市，創下自三月以來最佳周表現",
+      "summary_zh": "美國通脹預測利好比特幣，促使其在最近一周表現最佳，吸引投資者關注。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "‘Any signs of life?’ Bernstein holds ‘ambitious’ $150K year-end bitcoin target despite 54% drawdown",
+      "link": "https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T10:49:28+00:00",
+      "summary": "<p>Bernstein says bitcoin's 54% drawdown is milder than past cycles, retaining its \"ambitious\" $150K year-end target.</p>",
+      "title_zh": "‘有任何生機嗎？’Bernstein儘管下跌54%，仍持有150K年終比特幣目標",
+      "summary_zh": "Bernstein分析師對比特幣的年終目標保持樂觀，儘管市場面臨重大回調。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness",
+      "link": "https://www.coindesk.com/markets/2026/07/06/crypto-bounces-back-from-the-brink-as-altcoin-optimism-returns-despite-pockets-of-weakness",
+      "published": "2026-07-06T10:44:45+00:00",
+      "summary": "",
+      "title_zh": "加密貨幣從邊緣反彈，儘管仍有弱點，替代幣的樂觀情緒回升",
+      "summary_zh": "隨著替代幣的樂觀情緒回暖，加密市場顯示出反彈的跡象，儘管仍有部分弱勢。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "$60.4K Becomes 'most important area': Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/604k-becomes-most-important-area-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T10:25:20+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$60.4K Becomes 'most important area': Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analysis-psychoanalyst2.jpg\" /></p><p>Bitcoin saw its highest levels in nearly two weeks at the weekly close, but bulls needed a push beyond $65,000 for real trend inflection, said the latest BTC price analysis.</p>",
+      "title_zh": "$60.4K成為‘最重要的區域’：本周比特幣五件事",
+      "summary_zh": "本周比特幣市場關注$60.4K的價位，這被視為關鍵的支撐區域。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.",
+      "link": "https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means",
+      "published": "2026-07-06T10:19:56+00:00",
+      "summary": "",
+      "title_zh": "比特幣的夏普比率降至2022年以來最低，這意味著什麼？",
+      "summary_zh": "比特幣的夏普比率降至新低，顯示出其風險調整後的回報表現不佳。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
+      "link": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant",
+      "published": "2026-07-06T10:01:24+00:00",
+      "summary": "",
+      "title_zh": "Ripple在盧森堡的初步加密資產提供者許可升級為完全合規",
+      "summary_zh": "Ripple在盧森堡的許可獲得升級，標誌著其在歐洲市場的合規性提升。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors",
+      "link": "https://decrypt.co/372794/new-uk-election-funding-rules-could-hit-reforms-crypto-billionaire-donors",
+      "published": "2026-07-06T10:01:06+00:00",
+      "summary": "The crackdown on overseas cash comes after billionaire Tether investor and Reform donor Christopher Harborne registered to vote in the UK.",
+      "title_zh": "英國新選舉資金規則可能影響改革派的加密億萬富翁捐贈者",
+      "summary_zh": "英國的新選舉資金規則可能對加密領域的億萬富翁捐贈者造成影響，改變資金流向。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea weighs action against Polymarket over gambling concerns",
+      "link": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T09:53:34+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea weighs action against Polymarket over gambling concerns \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/courtroomcourtjudgesemen3.jpg\" /></p><p>South Korea’s media and communications review body will hear from Polymarket before deciding whether to issue a corrective request against the prediction market platform.</p>",
+      "title_zh": "南韓考慮對Polymarket採取行動，因賭博擔憂",
+      "summary_zh": "南韓政府因對Polymarket的賭博擔憂而考慮採取法律行動，可能影響其運營。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff",
+      "link": "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff",
+      "published": "2026-07-06T09:39:52+00:00",
+      "summary": "",
+      "title_zh": "Coinbase AI遭反彈，因在比賽開始前錯誤發布世界杯結果",
+      "summary_zh": "Coinbase的AI系統因提前發布世界杯結果而引發用戶不滿，造成信任危機。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
+      "link": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T09:30:56+00:00",
+      "summary": "<p>Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.</p>",
+      "title_zh": "Ripple獲得30個EEA國家的全MiCA CASP授權進行加密服務",
+      "summary_zh": "Ripple成功獲得在30個歐洲經濟區國家提供加密服務的全面授權，擴大其業務範圍。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years",
+      "link": "https://cointelegraph.com/news/dormant-bitcoin-new-york-lawsuit-moved-15-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T09:20:14+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-happened-in-crypto-legal-news-breaking-news.jpg\" /></p><p>A Bitcoin address dormant for nearly 15 years moved $1.9 million in BTC as a New York lawsuit seeks ownership of thousands of inactive holdings.</p>",
+      "title_zh": "與紐約訴訟相關的190萬美元比特幣在近15年後移動",
+      "summary_zh": "一筆與紐約訴訟相關的比特幣資產在沉寂近15年後終於出現動作。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack",
+      "link": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T08:49:56+00:00",
+      "summary": "<p>The attacker reportedly used a $65.4 million flash loan to obtain a $70.9 million redemption on Summer.fi's Lazy Summer Protocol.</p>",
+      "title_zh": "DeFi協議Summer Finance遭到600萬美元的攻擊；分析師指出是閃電貸款攻擊",
+      "summary_zh": "DeFi協議Summer Finance遭遇600萬美元的損失，專家認為是由閃電貸款引發的攻擊所致。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
+      "link": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T08:35:54+00:00",
+      "summary": "<p>The amendments aim to formalize how courts handle the forced execution of civil judgments against cryptocurrency holdings.</p>",
+      "title_zh": "南韓制定針對加密資產扣押和清算的專門程序：報導",
+      "summary_zh": "南韓政府針對加密資產的扣押和清算制定了新的專門程序，以加強監管。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/07/06/fomc-minutes-spacex-joins-nasdaq-100-crypto-week-ahead",
+      "published": "2026-07-06T08:18:05+00:00",
+      "summary": "",
+      "title_zh": "FOMC會議紀要，SpaceX加入納斯達克100：加密貨幣未來一周展望",
+      "summary_zh": "本周的加密貨幣市場將受到FOMC會議紀要和SpaceX加入納斯達克100的影響。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
+      "link": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
+      "published": "2026-07-06T07:44:58+00:00",
+      "summary": "",
+      "title_zh": "Vitalik Buterin表示以太坊正準備進行自合併以來最大的重建",
+      "summary_zh": "以太坊創始人Vitalik Buterin透露，該平台將進行自合併以來最重大的重建工作。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live markets: Bitcoin recoups early decline, rising back above $63,000",
+      "link": "https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins",
+      "published": "2026-07-06T07:43:21+00:00",
+      "summary": "",
+      "title_zh": "即時市場：比特幣回升早期下跌，再次突破63,000美元",
+      "summary_zh": "比特幣在經歷早期的下跌後，價格再次回升並突破63,000美元。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "How Sovereign Wealth Funds Invest in Digital Assets",
+      "link": "https://www.theblock.co/learn/407186/how-sovereign-wealth-funds-invest-in-digital-assets?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T06:14:32+00:00",
+      "summary": "<p>Sovereign wealth funds invest in digital assets mainly through regulated vehicles: spot bitcoin exchange-traded funds (ETFs), publicly traded companies with crypto exposure, blockchain infrastructure firms, and venture capital funds. Direct ownership of bitcoin or other tokens remains uncommon, held back by governance rules, custody requirements, and political accountability. At present, only a small number of [&hellip;]</p>",
+      "title_zh": "主權財富基金如何投資數位資產",
+      "summary_zh": "主權財富基金逐漸將數位資產納入其投資組合，以應對市場變化。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "I am contemplating selling some of my bitcoin for gold, veteran trader Peter Brandt says",
+      "link": "https://www.coindesk.com/markets/2026/07/06/i-am-contemplating-selling-some-of-my-bitcoin-for-gold-veteran-trader-peter-brandt-says",
+      "published": "2026-07-06T06:03:29+00:00",
+      "summary": "",
+      "title_zh": "資深交易員Peter Brandt考慮將部分比特幣出售換取黃金",
+      "summary_zh": "資深交易員Peter Brandt表示，他正在考慮將部分比特幣出售以購買黃金。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nigel Farage accepted gifts from crypto-linked fraudster: Report",
+      "link": "https://cointelegraph.com/news/nigel-farage-accepted-gifts-from-crypto-linked-fraudster-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T06:02:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nigel Farage accepted gifts from crypto-linked fraudster: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-tightens-aml-laws-and-mentions-crypto-as-suspicious.jpg\" /></p><p>Before he was an MP, Nigel Farage was reportedly gifted staff, security and other benefits from George Cottrell, a convicted fraudster involved in a crypto casino.</p>",
+      "title_zh": "Nigel Farage接受來自與加密相關的詐騙者的贈禮：報導",
+      "summary_zh": "報導指出，Nigel Farage曾接受來自一名與加密貨幣相關的詐騙者的贈禮。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Stablecoin transaction volume hits record $1.79T in June",
+      "link": "https://cointelegraph.com/news/stablecoin-transaction-volume-hits-record-179-trillion-in-june-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T05:44:54+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin transaction volume hits record $1.79T in June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analitycs2021-up.jpg\" /></p><p>Stablecoins are maturing and are positioned for even greater reach as the market evolves, said crypto researcher Nick Ruck.</p>",
+      "title_zh": "穩定幣交易量在6月創下1790億美元的紀錄",
+      "summary_zh": "6月份，穩定幣的交易量達到1790億美元，創下歷史新高。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect",
+      "link": "https://cointelegraph.com/news/thousands-of-crypto-wallets-at-risk-from-ill-bloom-vulnerability-coinspect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T05:35:58+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-wallet.jpg\" /></p><p>Thousands of crypto wallets across multiple blockchains could be vulnerable due to weak recovery phrase generation.</p>",
+      "title_zh": "數千個加密錢包因「Ill Bloom」漏洞面臨風險：Coinspect",
+      "summary_zh": "Coinspect報告指出，數千個加密錢包因為「Ill Bloom」漏洞而處於危險之中，需立即採取行動以保護資產。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP rises 3% as $1.14 breakout turns into support test",
+      "link": "https://www.coindesk.com/markets/2026/07/06/xrp-rises-3-as-usd1-14-breakout-turns-into-support-test",
+      "published": "2026-07-06T05:15:01+00:00",
+      "summary": "",
+      "title_zh": "XRP上漲3%，突破1.14美元後進行支撐測試",
+      "summary_zh": "XRP的價格上漲3%，突破1.14美元後，市場正在測試這一水平的支撐性。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether leads crypto's hold above key levels as bitcoin steadies over $63,000",
+      "link": "https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000",
+      "published": "2026-07-06T05:09:07+00:00",
+      "summary": "",
+      "title_zh": "以太幣領漲，加密貨幣穩住關鍵水平，比特幣穩定在63,000美元以上",
+      "summary_zh": "以太幣引領市場，幫助加密貨幣在關鍵水平上穩住，比特幣則保持在63,000美元以上。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Central bankers sound alarms over agentic AI finance risks",
+      "link": "https://cointelegraph.com/news/central-bankers-sound-alarms-over-agentic-ai-finance-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T03:30:19+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Central bankers sound alarms over agentic AI finance risks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know.jpg\" /></p><p>“We need to think about new tools and a different way of working with the [AI] market in a more collaborative way,” says Nikhil Rathi, CEO of the UK’s finance watchdog.\n</p>",
+      "title_zh": "中央銀行家對代理式人工智慧金融風險發出警報",
+      "summary_zh": "中央銀行家們警告，代理式人工智慧在金融領域的應用可能帶來潛在風險，需謹慎應對。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump’s memecoin holders have lost over $3.8B: Report",
+      "link": "https://cointelegraph.com/news/trumps-memecoin-loses-38b-for-nearly-1m-holders-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-06T03:12:14+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump’s memecoin holders have lost over $3.8B: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-china-tariffs.png\" /></p><p>Nansen analysis shows that just under half a million wallets profited on Donald Trump’s memecoin, while the large majority of buyers lost out.</p>",
+      "title_zh": "特朗普的迷因幣持有者損失超過38億美元：報導",
+      "summary_zh": "報導指出，特朗普的迷因幣持有者在市場波動中損失超過38億美元，反映出投資風險。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express",
+      "link": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-07-05T23:35:03+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/asia-express-3.jpg\" /></p><p>Japan's SBI Crypto shuts down 12th largest Bitcoin mining pool in the world, Russia gears up to launch digital ruble despite EU sanctions, and more: Asia Express.</p>",
+      "title_zh": "杜拜成為亞洲加密貨幣中心，台灣通過加密法案：亞洲快報",
+      "summary_zh": "杜拜在亞洲加密貨幣市場中領先，而台灣則通過新法案以促進加密貨幣的發展。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 64212,
+      "price_change_24h": 0.55515,
+      "volume_24h": 37420855354,
+      "high_30d": 66300.958537,
+      "low_30d": 58550.747788,
+      "rsi": 61.57,
+      "sma7": 61915.248892,
+      "sma20": 61932.14571,
+      "ema12": 62129.541472,
+      "ema26": 62021.428896,
+      "signal": "均線空頭"
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 1805.95,
+      "price_change_24h": 0.47899,
+      "volume_24h": 16320403040,
+      "high_30d": 1806.051204,
+      "low_30d": 1564.842843,
+      "rsi": 67.58,
+      "sma7": 1714.473551,
+      "sma20": 1675.612637,
+      "ema12": 1705.345958,
+      "ema26": 1675.745027,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 82.26,
+      "price_change_24h": 0.64741,
+      "volume_24h": 2617015251,
+      "high_30d": 82.273653,
+      "low_30d": 62.157877,
+      "rsi": 71.72,
+      "sma7": 79.871236,
+      "sma20": 74.071456,
+      "ema12": 77.616799,
+      "ema26": 73.74538,
+      "signal": "RSI超買 / 均線多頭"
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 588.08,
+      "price_change_24h": -0.64148,
+      "volume_24h": 799455936,
+      "high_30d": 617.210961,
+      "low_30d": 545.715777,
+      "rsi": 58.08,
+      "sma7": 568.453448,
+      "sma20": 571.64368,
+      "ema12": 572.427921,
+      "ema26": 574.764826,
+      "signal": "均線空頭"
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.15,
+      "price_change_24h": -0.95741,
+      "volume_24h": 1754029423,
+      "high_30d": 1.237659,
+      "low_30d": 1.038645,
+      "rsi": 59.13,
+      "sma7": 1.110414,
+      "sma20": 1.103078,
+      "ema12": 1.111754,
+      "ema26": 1.109378,
+      "signal": "均線多頭"
+    }
+  ],
+  "signals": {
+    "date": "2026-07-07",
+    "fear_greed": {
+      "value": 24,
+      "classification": "Extreme Fear",
+      "timestamp": "2026-07-06T00:00:00+00:00",
+      "history": [
+        {
+          "value": 24,
+          "classification": "Extreme Fear",
+          "date": "2026-07-06"
+        },
+        {
+          "value": 23,
+          "classification": "Extreme Fear",
+          "date": "2026-07-05"
+        },
+        {
+          "value": 22,
+          "classification": "Extreme Fear",
+          "date": "2026-07-04"
+        },
+        {
+          "value": 21,
+          "classification": "Extreme Fear",
+          "date": "2026-07-03"
+        },
+        {
+          "value": 19,
+          "classification": "Extreme Fear",
+          "date": "2026-07-02"
+        },
+        {
+          "value": 11,
+          "classification": "Extreme Fear",
+          "date": "2026-07-01"
+        },
+        {
+          "value": 15,
+          "classification": "Extreme Fear",
+          "date": "2026-06-30"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {}
+  }
+}
