@@ -1,0 +1,297 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T06:13:03.814321+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. Layer 1 區塊鏈 Fogo 停止主網運行，因攻擊者獲得 4 億 FOGO 代幣，影響其流通供應量的 10%。\n2. Polygon 宣布修復近期硬分叉中的安全漏洞，增強網絡安全性。\n3. Stellar 的代幣化實體資產市場增長超過四倍，顯示出市場需求的強勁。\n4. 比特幣的價格跌破 78K 美元，結束了為期 9 天的資金流入潮。\n5. Ripple 正在為量子電腦準備 XPR Ledger，以應對未來的挑戰。\n\n## 📊 市場概況\n當前市場氛圍仍偏向樂觀，主流幣種整體表現穩健。比特幣（BTC）目前報價 $78,203，雖然出現小幅回調，但仍保持在高位。以太坊（ETH）和其他幣種如 Solana（SOL）及幣安幣（BNB）也顯示出穩定的增長趨勢，且交易量保持活躍。\n\n## 🔍 技術分析解讀\n比特幣的相對強弱指數（RSI）為 71.19，顯示出超買情況，可能面臨回調壓力；而均線指標則呈現多頭趨勢，顯示出短期內仍有支持。以太坊的 RSI 為 69.91，接近超買區域，表明市場可能出現調整。Solana 的 RSI 則達到 75.7，顯示出明顯的超買狀態。\n\n## 😱 市場情緒\n目前的恐懼貪婪指數為 68，顯示市場情緒偏向貪婪。這種情緒通常伴隨著價格波動，投資者需保持警覺，因為在貪婪時期，市場可能會出現過度投資的情況。\n\n## ⚠️ 風險提醒\n近期市場面臨多重風險，包括安全漏洞事件及幣種價格的劇烈波動。Fogo 主網的停運事件提醒投資者在選擇投資標的時需謹慎，並隨時關注項目的安全性和可行性。此外，比特幣及其他主流幣的高 RSI 值可能預示著短期內的價格調整風險。\n\n## 🎯 今日觀察重點\n投資者應特別關注比特幣和以太坊的價格走勢，尤其是是否會突破或跌破關鍵支撐位。此外，對於代幣化資產的增長情況及相關政策法規的動向也需密切留意，以便捕捉潛在的市場機會。",
+  "news": [
+    {
+      "source": "TheBlock",
+      "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+      "link": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+      "published": "2026-08-29T21:16:51+00:00",
+      "summary": "The affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident.",
+      "title_zh": "Layer 1 區塊鏈 Fogo 停止主網運行，因攻擊者獲得 4 億 FOGO 代幣，佔流通供應量的 10%",
+      "summary_zh": "Fogo 區塊鏈因遭受攻擊而暫停主網，攻擊者獲得大量代幣，影響其安全性。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "link": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T20:28:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon discloses security flaws fixed in recent hard forks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png\" /></p><p>The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.</p>",
+      "title_zh": "Polygon 公布近期硬分叉修復的安全漏洞",
+      "summary_zh": "Polygon 針對近期的硬分叉修復了多個安全漏洞，以增強平台的安全性。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+      "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+      "published": "2026-08-29T20:15:32+00:00",
+      "summary": "MANTRA Chain, which lost $3.6 million, claimed the patch was only released 20 hours before the attack began and did not identify the flaw it fixed.",
+      "title_zh": "Cosmos Labs 表示錯誤清除了一起 570 萬美元的六鏈黑客事件背後的漏洞",
+      "summary_zh": "Cosmos Labs 承認在處理一起重大黑客事件時犯了錯，影響了其信譽。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "link": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T19:12:42+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stellar tokenized RWA market more than quadruples to nearly $4B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17DHDVASPVRK9KZ8KYFMNK1/hi-how-binance-plans-to-bring-tokenized-us-stocks-3.png\" /></p><p>Stellar’s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.</p>",
+      "title_zh": "Stellar 代幣化實體資產市場增長超過四倍，接近 40 億美元",
+      "summary_zh": "Stellar 的代幣化實體資產市場快速增長，顯示出強勁的市場需求。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+      "link": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+      "published": "2026-08-29T17:31:03+00:00",
+      "summary": "The Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominent voice to a growing bipartisan backlash.",
+      "title_zh": "伯尼·桑德斯誓言立法以'制止群眾和 AI 大規模監控'",
+      "summary_zh": "桑德斯提議立法以保護公民隱私，對抗科技巨頭的監控行為。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "link": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T16:27:28+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock transfer volume jumps 415% in 30 days to $29.5B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png\" /></p><p>Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.</p>",
+      "title_zh": "代幣化股票轉移量在 30 天內激增 415%，達到 295 億美元",
+      "summary_zh": "代幣化股票的交易量大幅上升，顯示出投資者對新型金融工具的興趣。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+      "link": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
+      "published": "2026-08-29T15:31:04+00:00",
+      "summary": "Galaxy Research shows coins untouched for 10-plus years moving at an unusual pace in 2026, with six ancient wallets shifting $40 million in a single 10-day stretch this month.",
+      "title_zh": "比特幣最古老的幣在 2026 年以罕見速度醒來",
+      "summary_zh": "比特幣的老幣在近期出現活躍交易，顯示出市場的變化。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+      "published": "2026-08-29T15:00:00+00:00",
+      "summary": "",
+      "title_zh": "拋棄'數字黃金'：BPI 研究顯示美國人更喜歡控制和微投資",
+      "summary_zh": "研究顯示，普通美國人對於投資方式的偏好正在轉變，重視控制和小額投資。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+      "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "published": "2026-08-29T15:00:00+00:00",
+      "summary": "",
+      "title_zh": "Swift 的 1.5 據兆美元網絡面臨區塊鏈測試",
+      "summary_zh": "Swift 的金融網絡正在接受區塊鏈技術的挑戰，未來可能會改變其運作模式。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+      "link": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+      "published": "2026-08-29T15:00:00+00:00",
+      "summary": "",
+      "title_zh": "下一個兆元貨幣可能不是穩定幣——甚至可能還沒有名字",
+      "summary_zh": "專家預測，未來的貨幣形式可能會超出現有的穩定幣概念，尚未確定具體形式。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
+      "link": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058",
+      "published": "2026-08-29T13:58:02+00:00",
+      "summary": "The fine marks the CFTC's second insider trading case against a federal employee trading event contracts and its second related settlement in four weeks.",
+      "title_zh": "前白宮提詞機操作員因Kalshi交易被判支付172,000美元",
+      "summary_zh": "前白宮提詞機操作員因在提及市場的Kalshi交易被判支付172,000美元，涉及不當交易行為。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+      "link": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
+      "published": "2026-08-29T13:31:04+00:00",
+      "summary": "The roughly $42.5 million cash-and-stock deal adds derivatives, structured products and capital-markets capabilities, while letting NYDIG focus on its power and data-center business.",
+      "title_zh": "BitGo收購NYDIG的機構交易部門以增強衍生品和融資",
+      "summary_zh": "BitGo收購NYDIG的機構交易部門，旨在擴大其在衍生品和融資領域的業務。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized assets are busier than the data shows",
+      "link": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+      "published": "2026-08-29T13:00:00+00:00",
+      "summary": "",
+      "title_zh": "代幣化資產的交易活動超出數據顯示",
+      "summary_zh": "儘管數據顯示交易量不高，代幣化資產的實際交易活動卻顯示出更高的活躍度。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T12:39:59+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "今天的加密貨幣市場動態包括價格波動和重要交易事件，影響市場情緒。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump-promoted brand touts GOLD before token collapse",
+      "link": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T10:53:41+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-promoted brand touts GOLD before token collapse\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M16D9NH0P7JYVR3ND526E5F5/trumps-influence-on-crypto.jpg\" /></p><p>Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%.</p>",
+      "title_zh": "特朗普推廣的品牌在代幣崩潰前宣傳黃金",
+      "summary_zh": "特朗普推廣的品牌在其代幣崩潰前大力宣傳黃金，吸引了投資者的注意。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Stablecoins not credible for payments at scale, BIS chief says",
+      "link": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T08:01:04+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoins not credible for payments at scale, BIS chief says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M166CFV826H6EC9FT9NRRV7E/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe.jpg\" /></p><p>BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules.</p>",
+      "title_zh": "BIS首席表示穩定幣在大規模支付中不具可信度",
+      "summary_zh": "國際結算銀行首席指出，穩定幣在大規模支付中缺乏可信度，需進一步改進。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-08-29T06:47:12+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ2NTH7GFQ2/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-1.jpg\" /></p><p>US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.</p>",
+      "title_zh": "比特幣ETF結束9天資金流入潮，BTC跌破78K美元",
+      "summary_zh": "比特幣ETF的資金流入在BTC價格跌破78,000美元後終止，顯示市場情緒轉變。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+      "published": "2026-08-29T04:30:00+00:00",
+      "summary": "",
+      "title_zh": "十年未動的比特幣錢包轉移4000萬美元，大多數避免交易所",
+      "summary_zh": "十年未動的比特幣錢包最近轉移了4000萬美元，且大多數資金未經交易所處理。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "link": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+      "published": "2026-08-29T02:30:00+00:00",
+      "summary": "",
+      "title_zh": "Ripple為量子電腦準備XRP Ledger，迎接‘Q-Day’的到來",
+      "summary_zh": "Ripple正在為量子電腦的到來做準備，強化XRP Ledger以應對未來的挑戰。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 78203,
+      "price_change_24h": 0.99633,
+      "volume_24h": 15649695580,
+      "high_30d": 80268.374747,
+      "low_30d": 62772.577264,
+      "rsi": 71.19,
+      "sma7": 78644.166662,
+      "sma20": 71027.382214,
+      "ema12": 75738.714134,
+      "ema26": 71772.20146,
+      "signal": "RSI超買 / 均線多頭"
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2452.34,
+      "price_change_24h": 1.03135,
+      "volume_24h": 5595333973,
+      "high_30d": 2514.967578,
+      "low_30d": 1843.443563,
+      "rsi": 69.91,
+      "sma7": 2471.282117,
+      "sma20": 2189.700123,
+      "ema12": 2366.424308,
+      "ema26": 2211.121444,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 104.96,
+      "price_change_24h": 1.11927,
+      "volume_24h": 2397417750,
+      "high_30d": 109.177306,
+      "low_30d": 71.894125,
+      "rsi": 75.7,
+      "sma7": 101.597489,
+      "sma20": 87.689293,
+      "ema12": 96.604688,
+      "ema26": 88.700874,
+      "signal": "RSI超買 / 均線多頭"
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 692.71,
+      "price_change_24h": 0.66135,
+      "volume_24h": 485246456,
+      "high_30d": 712.050388,
+      "low_30d": 574.719791,
+      "rsi": 68.77,
+      "sma7": 700.594647,
+      "sma20": 651.426964,
+      "ema12": 679.905892,
+      "ema26": 651.939409,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.39,
+      "price_change_24h": 1.30414,
+      "volume_24h": 1105806496,
+      "high_30d": 1.520505,
+      "low_30d": 0.992707,
+      "rsi": 64.71,
+      "sma7": 1.441106,
+      "sma20": 1.221097,
+      "ema12": 1.350382,
+      "ema26": 1.247737,
+      "signal": "均線多頭"
+    }
+  ],
+  "signals": {
+    "date": "2026-08-30",
+    "fear_greed": {
+      "value": 68,
+      "classification": "Greed",
+      "timestamp": "2026-08-29T00:00:00+00:00",
+      "history": [
+        {
+          "value": 68,
+          "classification": "Greed",
+          "date": "2026-08-29"
+        },
+        {
+          "value": 73,
+          "classification": "Greed",
+          "date": "2026-08-28"
+        },
+        {
+          "value": 71,
+          "classification": "Greed",
+          "date": "2026-08-27"
+        },
+        {
+          "value": 65,
+          "classification": "Greed",
+          "date": "2026-08-26"
+        },
+        {
+          "value": 74,
+          "classification": "Greed",
+          "date": "2026-08-25"
+        },
+        {
+          "value": 73,
+          "classification": "Greed",
+          "date": "2026-08-24"
+        },
+        {
+          "value": 66,
+          "classification": "Greed",
+          "date": "2026-08-23"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {}
+  }
+}
