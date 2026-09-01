@@ -1,0 +1,728 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T06:14:52.021212+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. Nvidia 投資 35 億美元於聯發科技，進一步擴展其業務範圍。\n2. Robinhood 的去中心化交易所交易量激增至 16 億美元，顯示出市場對去中心化金融的需求。\n3. 幣安推出 1,000 種美國股票和 ETF 的期權，標誌著其在傳統金融領域的進一步擴張。\n4. 英國犯罪機構凍結了 1350 萬美元，涉及英超聯賽的加密贊助商調查。\n5. Cathie Wood的Ark Invest 購買了3700萬美元的比特幣及支付公司Block，顯示出機構投資者的信心。\n\n## 📊 市場概況\n今日加密貨幣市場整體呈現下行趨勢，市場總市值為 2.62 兆美元，BTC 市佔率保持在 59.1%。主流幣如比特幣（BTC）和以太坊（ETH）均出現小幅回落，分別下跌 2.10% 和 2.43%。然而，整體市場氛圍仍然偏向樂觀，許多投資者對未來的增長機會持正面看法。\n\n## 🔍 技術分析解讀\n比特幣（BTC）目前價格為 $77,252，RSI 指標為 66.02，顯示出市場仍有上升潛力，但接近超買區域。以太坊（ETH）則以 $2,415.42 的價格交易，RSI 為 64.18，同樣顯示出多頭市場。SOL 和 BNB 也保持在均線多頭的狀態，顯示出短期內仍有上漲的可能性。整體來看，雖然存在回調風險，但多頭趨勢依然強勁。\n\n## 😱 市場情緒\n當前恐懼貪婪指數為 69，顯示市場情緒偏向貪婪，投資者信心充足，對未來價格上漲持樂觀態度。社群情緒整體向好，雖然技術指標顯示市場可能面臨短期回調，但長期前景依然受到重視，許多投資者仍在尋找進場機會。\n\n## ⚠️ 風險提醒\n儘管市場情緒偏向樂觀，但投資者需注意短期內可能出現的價格回調風險。比特幣及其他主流幣的 RSI 指標接近超買區域，可能引發調整。此外，近期的市場新聞，如英國對加密贊助商的調查，可能影響市場信心，需保持警惕。\n\n## 🎯 今日觀察重點\n關注 Robinhood 去中心化交易所的交易量增長是否會持續，這可能影響市場的整體動向。同時，留意幣安新推出的期權產品對傳統金融市場的影響，以及美國證券交易委員會（SEC）對區塊鏈規則更新的進展，這些因素都可能在未來幾天對市場情緒和價格走勢產生重大影響。",
+  "news": [
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
+      "link": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
+      "published": "2026-09-01T21:31:04+00:00",
+      "summary": "The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.",
+      "title_zh": "Nvidia 投資 35 億美元於聯發科技，擴展業務至 GPU 以外領域",
+      "summary_zh": "Nvidia 宣布對聯發科技進行 35 億美元的投資，以拓展其業務範圍，減少對 GPU 的依賴。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
+      "link": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T21:25:27+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto-backed PAC scales back ad spending in Massachusetts primary\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F9CHX26RTFEYCMMVC55WQZ/hi-pacs-in-crypto-and-blockchain2.jpg\" /></p><p>The $189,000 in media spending to support Representative Jake Auchincloss marked Fairshake’s latest attempt to influence the 2026 elections with funds from the crypto industry.</p>",
+      "title_zh": "加密貨幣支持的政治行動委員會在馬薩諸塞州初選中縮減廣告支出",
+      "summary_zh": "由於資金問題，加密貨幣支持的 PAC 在馬薩諸塞州的初選中減少了廣告投放。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
+      "link": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
+      "published": "2026-09-01T21:01:04+00:00",
+      "summary": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
+      "title_zh": "Robinhood 鏈上去中心化交易所交易量激增至 16 億美元",
+      "summary_zh": "Robinhood 的去中心化交易所交易量達到 16 億美元，顯示出用戶對加密貨幣的興趣持續增長。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
+      "link": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T20:42:29+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance expands TradFi push with options on 1,000 US stocks, ETFs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1FC2WR1JDBZ2YXX51TY5S5E/man-office-screen-computer02.png\" /></p><p>The launch gives eligible non-US users access to physically settled options on more than 1,000 US stocks and ETFs through a single Binance account.</p>",
+      "title_zh": "幣安擴大傳統金融推進，提供 1,000 種美國股票和 ETF 的期權",
+      "summary_zh": "幣安推出 1,000 種美國股票和 ETF 的期權，進一步擴大其在傳統金融市場的影響力。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
+      "link": "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
+      "published": "2026-09-01T20:31:05+00:00",
+      "summary": "Bitcoin has lost ground in eight of the last 13 Septembers. The stock market's had the same problem since 1928. Here's the case for the curse, what broke it last year, and what's coming in the next round.",
+      "title_zh": "什麼是「紅色九月」？比特幣的詛咒，以及華爾街為何也有相同的詛咒",
+      "summary_zh": "「紅色九月」是指比特幣在九月的歷史表現不佳，華爾街也面臨類似的挑戰。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
+      "link": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T20:14:12+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK crime agency froze $13.5M amid probe into Premier League crypto sponsor\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F30K3TFNEHQA4RAGQF4Y0F/official-clerk-document-screen-regulation-gambling.jpg\" /></p><p>UK authorities froze $13.5 million in cash following a January 2025 order from the Westminster Magistrates’ Court as part of an investigation into Sorare.</p>",
+      "title_zh": "英國犯罪機構在對英超聯賽加密贊助商的調查中凍結 1350 萬美元",
+      "summary_zh": "英國當局因調查英超聯賽的加密贊助商而凍結了 1350 萬美元的資金。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
+      "link": "https://decrypt.co/377099/dropbox-security-breach",
+      "published": "2026-09-01T20:01:05+00:00",
+      "summary": "Attackers reportedly registered Lenovo IDs using victims’ email addresses, allowing them to sign into existing Dropbox accounts without their passwords.",
+      "title_zh": "Dropbox 安全漏洞：黑客通過身份驗證缺陷訪問帳戶",
+      "summary_zh": "Dropbox 發生安全漏洞，黑客利用身份驗證缺陷成功訪問多個用戶帳戶。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T20:00:17+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "今天的加密貨幣市場動態包括價格波動和新政策的影響，值得關注。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules",
+      "link": "https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911",
+      "published": "2026-09-01T19:33:37+00:00",
+      "summary": "Test memecoin purchases were coded as \"digital media\" rather than crypto, earning credit card points despite card network restrictions.",
+      "title_zh": "在 Robinhood 錢包上使用信用卡購買迷因幣，似乎繞過了卡網絡的加密規則",
+      "summary_zh": "Robinhood 錢包允許用戶用信用卡購買迷因幣，可能規避了傳統支付網絡的加密貨幣規範。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
+      "link": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
+      "published": "2026-09-01T19:29:12+00:00",
+      "summary": "Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export controls forced Anthropic to pull Fable 5 offline for 18 days",
+      "title_zh": "Anthropic 發布 Claude Fable 5.1，性能超過前代的兩倍",
+      "summary_zh": "Anthropic 推出 Claude Fable 5.1，該版本在關鍵基準測試中表現超過前代產品的兩倍。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall",
+      "link": "https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall",
+      "published": "2026-09-01T18:22:09+00:00",
+      "summary": "Bitcoin just had one its best months in years amid a price rally that broke the crypto winter pattern. But the charts tell a complicated story.",
+      "title_zh": "比特幣的下一步：看漲押注面臨歷史性阻礙",
+      "summary_zh": "比特幣市場的看漲情緒遭遇歷史性阻力，未來走勢仍不明朗。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
+      "published": "2026-09-01T18:11:02+00:00",
+      "summary": "Cumulative market capitalization for these companies is up 10% since mid-August and hovers around $340 billion.",
+      "title_zh": "加密貨幣財庫公司市值達3400億美元，替代幣DATs表現優異",
+      "summary_zh": "隨著替代幣DATs的強勁表現，加密貨幣財庫公司的總市值達到3400億美元。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
+      "link": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
+      "published": "2026-09-01T18:03:47+00:00",
+      "summary": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
+      "title_zh": "Solana Treasury DeFi發展公司計劃籌集2000萬美元以購買更多SOL",
+      "summary_zh": "Solana Treasury DeFi發展公司正尋求籌集2000萬美元，以增持SOL代幣。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+      "link": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T17:52:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC proposes broad update to decades-old transfer agent rules with blockchain nod\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EXXYQ2VJS2X4FWYBFN0RBX/sec-v-ripple.png\" /></p><p>The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure.</p>",
+      "title_zh": "美國證券交易委員會提議對數十年來的轉讓代理規則進行廣泛更新，並考慮區塊鏈",
+      "summary_zh": "SEC計劃更新過時的轉讓代理規則，以適應區塊鏈技術的發展。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
+      "link": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T17:39:48+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi issues first lifetime ban for Republican politician over insider bets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EQEQR2GJNM98QNW5X01NM1/hi-crypto-ban.jpg\" /></p><p>The prediction platform permanently banned George Santos and issued a three-year suspension for Laurie Buckhout after investigations into using insider information on event contracts.</p>",
+      "title_zh": "Kalshi對共和黨政治家因內幕交易發出首個終身禁令",
+      "summary_zh": "Kalshi對一名共和黨政治家因涉嫌內幕交易而實施了終身禁令。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
+      "link": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
+      "published": "2026-09-01T17:16:01+00:00",
+      "summary": "The SEC is seeking to update its rules for transfer agents to keep pace with new technology, including blockchain and tokenization.",
+      "title_zh": "SEC尋求更新1970年代的轉讓代理規則，以適應區塊鏈時代",
+      "summary_zh": "SEC希望對過去的轉讓代理規則進行更新，以符合當前的區塊鏈技術需求。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "link": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T16:39:12+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERC5JF5XKZ3F15CXNCAGXJ/hi-what-is-a-decentralized-money-market-and-how-does-it-work-stablecoin-1.jpg\" /></p><p>The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, with a euro-denominated offering next.</",
+      "title_zh": "美國銀行、花旗、摩根士丹利等21家機構計劃推出穩定幣",
+      "summary_zh": "多家大型金融機構計劃推出穩定幣，以擴展其數字貨幣業務。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
+      "link": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
+      "published": "2026-09-01T16:26:10+00:00",
+      "summary": "X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.",
+      "title_zh": "X數據洩漏？用戶收到大量未請求的密碼重置郵件",
+      "summary_zh": "用戶反映收到大量未請求的密碼重置郵件，疑似數據洩漏事件。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
+      "link": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
+      "published": "2026-09-01T16:13:28+00:00",
+      "summary": "The investment firm bought 456,059 Block shares across three ETFs and added $3.4 million in Circle stock.",
+      "title_zh": "Cathie Wood的Ark Invest購買3700萬美元比特幣及支付公司Block",
+      "summary_zh": "Ark Invest在比特幣和支付公司Block上進行了3700萬美元的投資。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethena launches USDe payments app, offers 6% rewards",
+      "link": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T16:06:58+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethena launches USDe payments app, offers 6% rewards\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ESRB24SSYCV2PQDNVNCJ2Z/blockchain-coin-crypto-payment-logistics.png\" /></p><p>The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized rewards of up to 6%.</p>",
+      "title_zh": "Ethena推出USDe支付應用，提供6%獎勵",
+      "summary_zh": "Ethena新推出的USDe支付應用為用戶提供高達6%的獎勵。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Cango shares plunge 20% after bitcoin miner reports $81.6 million Q2 loss",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
+      "published": "2026-09-01T15:48:19+00:00",
+      "summary": "Cango scaled back its mining fleet in the second quarter as revenue fell and the company focused on efficiency.",
+      "title_zh": "Cango 股價暴跌 20%，因比特幣礦工報告第二季虧損 8160 萬美元",
+      "summary_zh": "Cango 的股價因比特幣礦業公司報告大幅虧損而大幅下跌，投資者信心受挫。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "link": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+      "published": "2026-09-01T15:36:27+00:00",
+      "summary": "",
+      "title_zh": "花旗、高盛及其他全球銀行和資產管理公司攜手合作穩定幣計畫",
+      "summary_zh": "多家全球金融機構聯手推動穩定幣的發展，旨在提升數字貨幣的穩定性和應用。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+      "link": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T15:34:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stays flat as global bond bear market rages on, pushing JGB to high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERT8K3Y6NFNXZSMH683SYG/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-2.jpg\" /></p><p>Global bond yields hit multi-decade highs today as Japan’s 10-year JGB yield reached a 30-year peak, keeping Bitcoin steady near $78,000.</p>",
+      "title_zh": "比特幣持平，全球債券熊市持續，推高日本國債收益率",
+      "summary_zh": "在全球債券市場動盪中，比特幣價格保持穩定，投資者關注日本國債的收益變化。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+      "link": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
+      "published": "2026-09-01T15:28:29+00:00",
+      "summary": "",
+      "title_zh": "Robinhood 新的加密網絡創造現金，推高 Arbitrum 代幣",
+      "summary_zh": "Robinhood 的新加密平台表現出色，帶動 Arbitrum 代幣價格飆升，吸引市場關注。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Musk’s X hit by wave of unsolicited password reset emails",
+      "link": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
+      "published": "2026-09-01T14:59:12+00:00",
+      "summary": "",
+      "title_zh": "馬斯克的 X 遭遇大量未經請求的密碼重置郵件",
+      "summary_zh": "馬斯克的社交媒體平台 X 面臨安全問題，使用者收到大量可疑的密碼重置請求。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
+      "link": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
+      "published": "2026-09-01T14:39:55+00:00",
+      "summary": "The actor’s lawyers spent six months negotiating the contract for “Bitcoin: Killing Satoshi” in order to “protect” her performance.",
+      "title_zh": "蓋爾·加朵為比特幣電影中的 AI 使用辯護：'與其合作，否則就會被淘汰'",
+      "summary_zh": "蓋爾·加朵強調在比特幣電影中使用 AI 的重要性，呼籲業界適應新技術。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitcoin and gold move in lockstep as debasement trade gains more steam",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
+      "published": "2026-09-01T14:26:02+00:00",
+      "summary": "Bitcoin's 90-day Pearson correlation coefficient with gold hits all-time high while the Fear and Greed Index sits at 68.",
+      "title_zh": "比特幣和黃金同步走勢，貶值交易勢頭增強",
+      "summary_zh": "比特幣和黃金的價格走勢緊密相連，反映出市場對貶值交易的持續關注。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Fake Claude desktop app spreads crypto-stealing malware",
+      "link": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T14:00:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fake Claude desktop app spreads crypto-stealing malware\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EK7VS1ZRRC1VAJANKBB54F/bug-error-hack-red-mistake-malwire-1.jpg\" /></p><p>RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents.</p>",
+      "title_zh": "假冒 Claude 桌面應用程式散播加密盜竊惡意軟體",
+      "summary_zh": "一款假冒的桌面應用程式被發現散播惡意軟體，危害用戶的加密資產安全。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+      "link": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+      "published": "2026-09-01T13:56:44+00:00",
+      "summary": "",
+      "title_zh": "Firelight 籌集 800 萬美元，擴展業務超越 XRP，旨在讓 DeFi 對金融科技公司更友好",
+      "summary_zh": "Firelight 獲得資金支持，計劃拓展 DeFi 業務，降低金融科技公司的進入門檻。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
+      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
+      "published": "2026-09-01T13:55:26+00:00",
+      "summary": "",
+      "title_zh": "比特幣進入 'Rektember'，加息風險與季節性因素威脅漲勢",
+      "summary_zh": "比特幣面臨加息風險和季節性影響，市場對其未來漲勢表示擔憂。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
+      "link": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T13:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Does the Bitcoin rally mean we haven’t wasted our lives in crypto?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M147DZTCHD31BVRCJN6E980E/magazinedoes-paper-bitcoin-and-derivatives-mean-there-is-an-unlimited-supply.jpg\" /></p><p>Crypto is showing signs of life again, but its biggest wins look different from what early believers imagined. After a decade of building, has it all bee",
+      "title_zh": "比特幣的反彈是否意味著我們在加密貨幣上沒有浪費生命？",
+      "summary_zh": "比特幣價格的上漲引發了人們對於過去投資加密貨幣的價值的反思。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Silhouette debuts RFQ trading for xStocks on Hyperliquid",
+      "link": "https://www.theblock.co/news/business/2026-09-01-silhouette-debuts-rfq-trading-for-xstocks-on-hyperliquid-413226",
+      "published": "2026-09-01T13:30:00+00:00",
+      "summary": "Silhouette launched RFQ trading for xStocks on Hyperliquid, allowing market makers to compete for tokenized equity trades settled onchain.",
+      "title_zh": "Silhouette 在 Hyperliquid 上推出 xStocks 的 RFQ 交易",
+      "summary_zh": "Silhouette 宣布在 Hyperliquid 平台上推出 xStocks 的報價請求交易功能。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
+      "link": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
+      "published": "2026-09-01T13:15:35+00:00",
+      "summary": "",
+      "title_zh": "Ethena 透過高收益儲蓄、卡片和支付將穩定幣推向日常銀行業務",
+      "summary_zh": "Ethena 旨在將穩定幣融入日常金融服務，提供高收益儲蓄和支付解決方案。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
+      "link": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T13:13:05+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Asia sees digital asset custody infrastructure deals from Ripple, Coincheck\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EG26S32G2XE8D4ZV6W68FM/hi-coin-japan-metro-crypto.jpg\" /></p><p>Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.</p>",
+      "title_zh": "亞洲看到 Ripple 和 Coincheck 的數字資產保管基礎設施交易",
+      "summary_zh": "Ripple 和 Coincheck 在亞洲進行了多項數字資產保管基礎設施的交易，顯示市場需求。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kast launches stablecoin-powered business platform after $80M raise",
+      "link": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T13:00:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kast launches stablecoin-powered business platform after $80M raise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DR788HHX4D0SDFTZCJG3HN/stable.jpg\" /></p><p>Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.\n</p>",
+      "title_zh": "Kast 在籌集 8000 萬美元後推出穩定幣驅動的商業平台",
+      "summary_zh": "Kast 宣布推出一個以穩定幣為基礎的商業平台，並成功籌集了 8000 萬美元資金。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe",
+      "link": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
+      "published": "2026-09-01T12:37:10+00:00",
+      "summary": "",
+      "title_zh": "英國犯罪機構在加密犯罪調查中凍結英超聯賽 1350 萬美元賬戶",
+      "summary_zh": "英國的加密犯罪調查導致英超聯賽的一個賬戶被凍結，涉及金額達 1350 萬美元。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Saylor’s Back Buying Bitcoin",
+      "link": "https://decrypt.co/377014/morning-minute-saylors-back-buying-bitcoin",
+      "published": "2026-09-01T12:21:23+00:00",
+      "summary": "Strategy somehow threaded the needle of buying Bitcoin and STRC while also raising cash. Now how will the market respond?",
+      "title_zh": "晨間快訊：Saylor 重返比特幣購買行列",
+      "summary_zh": "知名投資者 Saylor 再次進場購買比特幣，顯示其對市場的信心。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "South Korea Arrests Four Over Crypto Payments to Syrian Terror Group",
+      "link": "https://decrypt.co/377015/south-korea-arrests-four-over-crypto-payments-to-syrian-terror-group",
+      "published": "2026-09-01T12:16:24+00:00",
+      "summary": "Police say the ringleader also took crypto from the group and sent back 11 used cars and two excavators, a first for Korean investigators.",
+      "title_zh": "南韓逮捕四人因向敘利亞恐怖組織進行加密支付",
+      "summary_zh": "南韓警方逮捕四名嫌疑人，因涉嫌向敘利亞恐怖組織提供加密貨幣支付。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
+      "link": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
+      "published": "2026-09-01T12:11:44+00:00",
+      "summary": "",
+      "title_zh": "Hut 8 的德州電力基地位於 Anthropic 的 350 億美元 AI 交易內部",
+      "summary_zh": "Hut 8 的電力設施成為 Anthropic 大型 AI 交易的一部分，顯示其戰略重要性。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
+      "link": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T12:01:08+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lazarus Group-linked addresses move $30M through Hyperliquid\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ECEA4C5T8RQGQMN13AT1TY/hi-who-is-the-lazarus-group-the-hackers-behind-billion-dollar-heists.jpg\" /></p><p>Crypto wallets linked to the OFAC-sanctioned Lazarus Group moved $30 million in digital assets through Hyperliquid, weeks after regulators said they were working on a ",
+      "title_zh": "與 Lazarus Group 相關的地址透過 Hyperliquid 轉移 3000 萬美元",
+      "summary_zh": "與知名黑客組織 Lazarus Group 相關的地址在 Hyperliquid 平台上進行了 3000 萬美元的資金轉移。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ethena launches Ethena Pay app on Avalanche, offering up to 6% yield and 10% cashback",
+      "link": "https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225",
+      "published": "2026-09-01T12:00:02+00:00",
+      "summary": "Ethena Labs has launched the beta of Ethena Pay, a new self-custodial money app built on Avalanche, across 48 countries.",
+      "title_zh": "Ethena 在 Avalanche 上推出 Ethena Pay 應用程式，提供高達 6% 的收益和 10% 現金回饋",
+      "summary_zh": "Ethena Pay 應用程式在 Avalanche 平台上推出，吸引投資者以高收益和現金回饋的優惠。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitcoin defies oil price spike and rising Fed hike bets after best August since 2017",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-defies-oil-price-spike-and-rising-fed-hike-bets-after-best-august-since-2017-413218",
+      "published": "2026-09-01T11:33:23+00:00",
+      "summary": "Bitcoin has held up despite higher oil prices and growing expectations for a September Fed rate hike, with Friday's jobs report next in focus.",
+      "title_zh": "比特幣在油價飆升和美聯儲加息預期上升後仍表現強勁，創下自 2017 年以來最佳八月",
+      "summary_zh": "儘管面臨油價上漲和加息預期，比特幣仍表現出色，創下自 2017 年以來的最佳表現。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy",
+      "link": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
+      "published": "2026-09-01T11:28:45+00:00",
+      "summary": "The proposed screen would cut three companies from MSCI's global indexes in November, with Strategy the largest by some distance.",
+      "title_zh": "Saylor 呼籲 MSCI 刪除「歧視性」規則，該規則將刪除策略",
+      "summary_zh": "Saylor 對 MSCI 提出呼籲，要求取消影響策略的歧視性規則，以促進公平競爭。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
+      "published": "2026-09-01T11:15:00+00:00",
+      "summary": "",
+      "title_zh": "美國試圖影響日本的貨幣政策，但無法用比特幣達成",
+      "summary_zh": "美國希望對日本的貨幣政策施加影響，但比特幣未能成為有效的工具。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
+      "link": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T10:56:41+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E661NCT1TRWRA3HD65CEX3/blockchainweek2020uk1-1.jpg\" /></p><p>The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.</p>",
+      "title_zh": "倫敦證券交易所與 Kraken 母公司合作推出英國股票代幣化：FT",
+      "summary_zh": "倫敦證券交易所與 Kraken 母公司合作，推動英國股票的代幣化進程。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+      "link": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+      "published": "2026-09-01T10:35:21+00:00",
+      "summary": "",
+      "title_zh": "新加坡提議對穩定幣發行者實施 100% 儲備和禁止收益",
+      "summary_zh": "新加坡政府提出新規，要求穩定幣發行者保持全額儲備並禁止產生收益。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion",
+      "link": "https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213",
+      "published": "2026-09-01T10:33:52+00:00",
+      "summary": "TradFi perpetual futures volume reached approximately $433.4 billion on Binance in August, up roughly 15 times since January.",
+      "title_zh": "幣安新增 1,000 只美國股票和 ETF 的期權，月度 TradFi 永續交易量達 4330 億美元",
+      "summary_zh": "幣安擴大其產品線，新增大量美國股票和 ETF 的期權，交易量激增。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
+      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
+      "published": "2026-09-01T10:29:00+00:00",
+      "summary": "",
+      "title_zh": "比特幣在 78,000 美元附近整合，Arbitrum 在 Robinhood 鏈上收入激增 30%",
+      "summary_zh": "比特幣價格穩定在 78,000 美元附近，Arbitrum 的收入因 Robinhood 鏈而大幅上升。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+      "link": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T10:00:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3FQ7QVW5EGFFBWY7YXEK7/bitfinex-s.png\" /></p><p>Five equity-backed notes issued through Luxembourg’s ORO II fund will trade against dollars, USDT and Bitcoin for eligible non-US investors.</p>",
+      "title_zh": "Bitfinex Securities 上市與策略、Metaplanet 相關的代幣化票據",
+      "summary_zh": "Bitfinex Securities 正式上市與策略和 Metaplanet 相關的代幣化票據，擴大其金融產品。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Singapore weighs recognizing some foreign-issued stablecoins",
+      "link": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T09:55:11+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Singapore weighs recognizing some foreign-issued stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3MSKNNCKBC04B5EH6ZER3/sponsored-marina-bay-sand-singapore-light-water11.jpg\" /></p><p>Singapore is considering allowing jointly issued cross-border stablecoins into its regulatory regime, revisiting its earlier decision to restrict the framework to domestic issuance.</p>",
+      "title_zh": "新加坡考慮承認某些外國發行的穩定幣",
+      "summary_zh": "新加坡政府正在評估是否承認某些外國發行的穩定幣，以促進金融創新。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report",
+      "link": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
+      "published": "2026-09-01T09:46:27+00:00",
+      "summary": "The sum was the first payment under a $163 million deal with the Messi-backed fantasy card game, now facing a gambling prosecution.",
+      "title_zh": "英國國家犯罪署凍結索拉爾向英超聯發送的1360萬美元：報導",
+      "summary_zh": "英國國家犯罪署凍結了索拉爾向英超聯發送的資金，涉及金額達1360萬美元。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned",
+      "link": "https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208",
+      "published": "2026-09-01T09:39:20+00:00",
+      "summary": "Payward will tokenize 100 London-listed stocks as xStocks, with LSE 24 to support trading, subject to regulatory approval.",
+      "title_zh": "克拉肯母公司Payward將對100隻倫敦上市股票進行代幣化，計劃在LSE進行24次交易",
+      "summary_zh": "Payward計劃將100隻倫敦上市股票代幣化，並在倫敦證券交易所進行多次交易。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
+      "link": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
+      "published": "2026-09-01T09:29:33+00:00",
+      "summary": "",
+      "title_zh": "策略以6.35億美元回購STRC，因永久優先股滯後於100美元面值",
+      "summary_zh": "策略公司以6.35億美元回購STRC，因其永久優先股表現不佳。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes",
+      "link": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
+      "published": "2026-09-01T08:35:57+00:00",
+      "summary": "",
+      "title_zh": "即時更新：比特幣下跌，油價因伊朗新攻擊飆升至三個月高點",
+      "summary_zh": "比特幣價格下滑，同時油價因伊朗的攻擊事件上漲至三個月來的最高點。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+      "link": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
+      "published": "2026-09-01T07:49:16+00:00",
+      "summary": "",
+      "title_zh": "倫敦證券交易所將與Payward合作，將最大的英國股票上鏈",
+      "summary_zh": "倫敦證券交易所計劃與Payward合作，將主要英國股票進行區塊鏈化。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
+      "link": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T07:47:13+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DY16J8V7YX1BYDHMX0HB5A/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-1.jpg\" /></p><p>Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investment round into Polymarket, which would value the platform at $21 billion, just below ",
+      "title_zh": "特朗普之子相關的1789資本主導Polymarket的10億美元融資：報導",
+      "summary_zh": "1789資本主導了Polymarket的10億美元融資，與特朗普之子有關聯。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs",
+      "link": "https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201",
+      "published": "2026-09-01T07:03:29+00:00",
+      "summary": "MSCI opened a new consultation targeting companies that have operating assets lower than 50% of its total assets.",
+      "title_zh": "策略對MSCI提案作出反擊，稱其對DATs具有‘歧視性’",
+      "summary_zh": "策略公司對MSCI的提案表示反對，認為該提案對數字資產交易所存在歧視。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
+      "link": "https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello",
+      "published": "2026-09-01T06:52:10+00:00",
+      "summary": "",
+      "title_zh": "OpenAI的‘信任我們’TIME封面對AI牛市提出舊警告",
+      "summary_zh": "OpenAI的TIME封面引發對AI市場潛在風險的警示，提醒投資者保持警惕。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
+      "published": "2026-09-01T04:57:33+00:00",
+      "summary": "Last month, Ark had purchased a bulk of Block shares after its second-quarter results that raised its full-year profit forecast to $12.5 billion",
+      "title_zh": "Ark Invest購買價值3700萬美元的Jack Dorsey的Block Inc股份",
+      "summary_zh": "Ark Invest最近購入了Jack Dorsey的Block Inc公司3700萬美元的股份。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
+      "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T04:48:47+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DMR8D8Q7DJ0ETNYGBE2SEM/bitco-etf.png\" /></p><p>Ether ETFs extended their inflow streak to 11 trading sessions, while XRP and Solana funds each logged a 10th consecutive positive session.</p>",
+      "title_zh": "貝萊德推動2.17億美元比特幣ETF反彈，其他替代幣基金持續增長",
+      "summary_zh": "貝萊德的比特幣ETF出現2.17億美元的反彈，替代幣基金表現持續強勁。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+      "published": "2026-09-01T04:30:28+00:00",
+      "summary": "",
+      "title_zh": "比特幣穩定在78,000美元以上，HYPE領漲主要幣種因鷹派美聯儲預期下滑",
+      "summary_zh": "比特幣價格保持在78,000美元以上，HYPE表現突出，主要加密貨幣因美聯儲的鷹派預期而下滑。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+      "link": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+      "published": "2026-09-01T04:19:54+00:00",
+      "summary": "",
+      "title_zh": "特朗普之子公司以210億美元估值主導10億美元Polymarket募資：報導",
+      "summary_zh": "特朗普之子公司的公司在210億美元的估值下，成功主導了10億美元的Polymarket募資。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+      "link": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
+      "published": "2026-09-01T03:49:39+00:00",
+      "summary": "",
+      "title_zh": "CME的XRP期貨市場份額上升，該代幣一周內漲幅達40%",
+      "summary_zh": "隨著XRP代幣在一周內上漲40%，CME的XRP期貨市場份額也隨之增加。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+      "link": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-01T03:49:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand SEC proposes retail access to regulated overseas crypto derivatives\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DH1WEZ277YHH7XH1QMY4YC/regulations-thailand-crypto.jpg\" /></p><p>Thailand’s SEC seeks comments on rules requiring retail-accessible overseas crypto derivatives to trade on qualifying, centrally cleared exchanges.</p>",
+      "title_zh": "泰國證券交易委員會提議零售投資者可接觸受監管的海外加密衍生品",
+      "summary_zh": "泰國證券交易委員會提出新提案，允許零售投資者進入受監管的海外加密衍生品市場。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
+      "link": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190",
+      "published": "2026-09-01T03:46:02+00:00",
+      "summary": "The Nasdaq-listed company intends to use the proceeds to acquire more Solana and crypto-related investments.",
+      "title_zh": "DeFi發展公司提議發行2000萬美元的優先股以購買更多SOL",
+      "summary_zh": "DeFi發展公司計劃發行2000萬美元的優先股，以擴大其SOL的持有量。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows",
+      "link": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136",
+      "published": "2026-08-31T22:21:03+00:00",
+      "summary": "Robinhood Chain DEX volume hit a record in the month of August as utility tokens gain ground on memecoins.",
+      "title_zh": "Robinhood鏈每日去中心化交易所交易量創紀錄達9.89億美元，TVL增長",
+      "summary_zh": "Robinhood鏈的每日去中心化交易所交易量達到9.89億美元，顯示出其總鎖倉價值的增長。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 77252,
+      "price_change_24h": -2.10268,
+      "volume_24h": 29818977343,
+      "high_30d": 80268.374747,
+      "low_30d": 62843.703685,
+      "rsi": 66.02,
+      "sma7": 78400.275072,
+      "sma20": 73158.797279,
+      "ema12": 76548.362668,
+      "ema26": 72930.243761,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2415.42,
+      "price_change_24h": -2.43275,
+      "volume_24h": 12291720048,
+      "high_30d": 2514.967578,
+      "low_30d": 1858.537697,
+      "rsi": 64.18,
+      "sma7": 2459.44126,
+      "sma20": 2273.389178,
+      "ema12": 2392.913371,
+      "ema26": 2254.791897,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 99.7,
+      "price_change_24h": -3.59672,
+      "volume_24h": 3333451009,
+      "high_30d": 109.177306,
+      "low_30d": 72.63054,
+      "rsi": 63.74,
+      "sma7": 103.627871,
+      "sma20": 91.557494,
+      "ema12": 98.539009,
+      "ema26": 91.305688,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 680.87,
+      "price_change_24h": -1.61282,
+      "volume_24h": 691224923,
+      "high_30d": 712.050388,
+      "low_30d": 587.816539,
+      "rsi": 62.01,
+      "sma7": 694.279848,
+      "sma20": 663.007824,
+      "ema12": 682.00231,
+      "ema26": 658.617736,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.35,
+      "price_change_24h": -2.43427,
+      "volume_24h": 1991605171,
+      "high_30d": 1.520505,
+      "low_30d": 0.992707,
+      "rsi": 57.82,
+      "sma7": 1.392018,
+      "sma20": 1.273783,
+      "ema12": 1.355423,
+      "ema26": 1.272199,
+      "signal": "均線多頭"
+    }
+  ],
+  "signals": {
+    "date": "2026-09-02",
+    "fear_greed": {
+      "value": 69,
+      "classification": "Greed",
+      "timestamp": "2026-09-01T00:00:00+00:00",
+      "history": [
+        {
+          "value": 69,
+          "classification": "Greed",
+          "date": "2026-09-01"
+        },
+        {
+          "value": 62,
+          "classification": "Greed",
+          "date": "2026-08-31"
+        },
+        {
+          "value": 69,
+          "classification": "Greed",
+          "date": "2026-08-30"
+        },
+        {
+          "value": 68,
+          "classification": "Greed",
+          "date": "2026-08-29"
+        },
+        {
+          "value": 73,
+          "classification": "Greed",
+          "date": "2026-08-28"
+        },
+        {
+          "value": 71,
+          "classification": "Greed",
+          "date": "2026-08-27"
+        },
+        {
+          "value": 65,
+          "classification": "Greed",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {
+      "btc_dominance": 59.1,
+      "total_market_cap_usd": 2619903409189.06,
+      "active_cryptocurrencies": 19472,
+      "btc_circulating_supply": 20078290.0,
+      "btc_max_supply": 21000000.0,
+      "btc_supply_ratio": 95.61,
+      "btc_volume_24h": 29833008128
+    }
+  }
+}
