@@ -1,0 +1,738 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T06:15:16.520379+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. 銀行團體要求在《清晰法案》中對穩定幣進行限制，反映出對市場穩定性的擔憂。\n2. 比特幣價格突破79,000美元，顯示出市場的強勁回升。\n3. 白宮加密顧問對《清晰法案》的即將投票表示樂觀，預示著政策可能會進一步推動市場發展。\n4. Robinhood計劃贖回股票代幣並調整投票權，可能影響其用戶的信心與市場動態。\n5. 加密貨幣市場整體情緒偏向貪婪，顯示投資者的信心正在回暖。\n\n## 📊 市場概況\n今日加密貨幣市場整體呈現上漲趨勢，比特幣（BTC）價格突破79,000美元，顯示出強勁的市場買盤。以太坊（ETH）也上漲至$2,552.36，市場情緒向好。除了比特幣及以太坊外，其他主流幣如BNB和XRP也有不同程度的增長。整體市場情況反映出投資者對未來的信心增強，特別是在即將投票的《清晰法案》背景下。\n\n## 🔍 技術分析解讀\n從目前的技術指標來看，比特幣的相對強弱指數（RSI）為65.72，顯示出稍微超買的情況，短期內可能面臨回調壓力。以太坊的RSI為68.09，雖然仍在多頭區域，但也需注意可能的回調風險。SOL和XRP的RSI分別為62.69和65.63，均顯示出市場仍然有上升潛力，但同樣不可忽視短期調整的可能性。總體而言，均線訊號顯示比特幣與SOL呈現空頭趨勢，而以太坊與BNB則顯示多頭信號。\n\n## 😱 市場情緒\n目前的恐懼貪婪指數為57，顯示出市場情緒偏向貪婪。這反映出投資者對市場未來的預期持樂觀態度，購買意願提升。然而，過度的貪婪情緒也可能導致市場泡沫的風險，因此投資者需保持警惕，隨時關注市場動態和政策變化。\n\n## ⚠️ 風險提醒\n儘管當前市場情緒回暖，但仍需注意政策風險和市場波動。特別是在《清晰法案》即將投票的背景下，如果出現意外的政策變化，可能會對市場造成影響。此外，近期的價格上漲已使得部分幣種進入超買區域，投資者應謹慎評估持倉風險，避免盲目追高。\n\n## 🎯 今日觀察重點\n今日重點關注《清晰法案》的投票進展及其對市場的影響。此外，投資者應持續關注比特幣和以太坊的價格走勢，特別是在重要的支撐與阻力位附近的表現。同時，密切追蹤Robinhood及其他平台的動向，以評估其對市場情緒的潛在影響。",
+  "news": [
+    {
+      "source": "Decrypt",
+      "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
+      "link": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
+      "published": "2026-09-14T21:46:04+00:00",
+      "summary": "Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
+      "title_zh": "銀行要求更多：貿易團體要求在《清晰法案》中限制穩定幣",
+      "summary_zh": "貿易團體呼籲對穩定幣實施更嚴格的限制，以提高市場透明度和穩定性。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Where the Clarity Act stands ahead of Tuesday’s Senate vote",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720",
+      "published": "2026-09-14T21:32:37+00:00",
+      "summary": "The Senate heads into a consequential vote Tuesday on sweeping cryptocurrency legislation, but does it have enough support to pass?",
+      "title_zh": "《清晰法案》在週二參議院投票前的現狀",
+      "summary_zh": "在即將舉行的參議院投票前，《清晰法案》的進展和爭議引發廣泛關注。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
+      "link": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
+      "published": "2026-09-14T21:16:04+00:00",
+      "summary": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
+      "title_zh": "OpenAI的山姆·奧特曼警告人類可能失去對AI的控制",
+      "summary_zh": "奧特曼警告，隨著AI技術的快速發展，人類可能面臨失去控制的風險。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
+      "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
+      "published": "2026-09-14T21:05:13+00:00",
+      "summary": "",
+      "title_zh": "Robinhood計劃在受到批評後進行股票代幣的贖回和投票權安排",
+      "summary_zh": "Robinhood響應外界批評，計劃為其股票代幣提供贖回和投票權選項。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+      "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T20:54:10+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken brings DeFi yield to tokenized stocks and ETFs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GSWMB1C2Z7PZH9MAVV9T6X/hi-crypto-market-trading-1-breaking-news.png\" /></p><p>Kraken’s new xStocks vaults let investors earn yield on tokenized versions of Nvidia and major US stock market ETFs by lending the assets in DeFi markets.</p>",
+      "title_zh": "Kraken將DeFi收益引入代幣化股票和ETF",
+      "summary_zh": "Kraken推出新服務，將去中心化金融收益應用於代幣化股票和ETF，擴大投資選擇。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T20:41:38+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "加密貨幣市場今日動態更新，涵蓋重要事件和價格變化。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says",
+      "link": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687",
+      "published": "2026-09-14T20:21:52+00:00",
+      "summary": "The chain’s TVL has climbed to nearly $1 billion since its July 1 launch, while daily DEX volume reached $1.88 billion Sunday.",
+      "title_zh": "分析師表示，Robinhood Chain的快速增長受到四個關鍵因素驅動",
+      "summary_zh": "分析師指出，Robinhood Chain的增長受益於市場需求、技術創新等四大因素。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
+      "link": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
+      "published": "2026-09-14T20:07:41+00:00",
+      "summary": "Aboard Air Force One, the president threw his support behind the AI-powered license plate readers that have drawn a Senate investigation and a pledged bill from Bernie Sanders.",
+      "title_zh": "特朗普表示他「喜歡」群眾監控攝像頭，儘管受到兩黨反對",
+      "summary_zh": "特朗普表達對監控技術的支持，儘管面臨來自兩黨的強烈反對聲音。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702",
+      "published": "2026-09-14T19:29:41+00:00",
+      "summary": "The White House's top crypto advisor says he feels \"very good\" about an initial vote in the Senate on cryptocurrency legislation on Tuesday.",
+      "title_zh": "白宮加密顧問在週二的《清晰法案》投票前感到「非常好」",
+      "summary_zh": "白宮加密顧問對即將進行的《清晰法案》投票持樂觀態度，期待法案通過。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+      "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
+      "published": "2026-09-14T19:21:58+00:00",
+      "summary": "",
+      "title_zh": "特朗普在世界自由金融的代幣中800萬美元的股份現在有了可出售的時間表",
+      "summary_zh": "特朗普的投資計劃進一步明朗，預計其在世界自由金融的股份將很快可供出售。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
+      "link": "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct",
+      "published": "2026-09-14T19:07:28+00:00",
+      "summary": "Mustafa Suleyman's AI unit wants feedback for six weeks before the document guides model training in 2027.",
+      "title_zh": "微軟公布「人文主義AI」行為準則，邀請公眾提出意見",
+      "summary_zh": "微軟推出新行為準則，鼓勵公眾參與討論，以改進人文主義AI的發展方向。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
+      "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T18:56:28+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tops $79K, oil falls as Trump says Iran war could end\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GMDWFDT25SQYFK0HHP7F8E/oil-bitcoin-petrol-2.jpg\" /></p><p>Bitcoin’s price rose toward $80,000 after US President Donald Trump hinted that the US-Iran war would end, pushing oil prices lower.</p>",
+      "title_zh": "比特幣突破79,000美元，油價下跌，特朗普稱伊朗戰爭可能結束",
+      "summary_zh": "比特幣價格上漲至79,000美元，油價因特朗普的言論而下滑，市場反應強烈。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
+      "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
+      "published": "2026-09-14T18:34:09+00:00",
+      "summary": "",
+      "title_zh": "白宮加密貨幣顧問表示，特朗普在妥協中放棄「歷史性」倫理權力",
+      "summary_zh": "白宮顧問指出，特朗普在與民主黨的妥協中，放棄了重要的倫理權力。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+      "link": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
+      "published": "2026-09-14T18:26:04+00:00",
+      "summary": "The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
+      "title_zh": "特朗普稱自己是AI所需的唯一「護欄」，批評Anthropic並捍衛數據中心",
+      "summary_zh": "特朗普強調自己在AI發展中的重要性，並對競爭對手提出批評。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
+      "link": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
+      "published": "2026-09-14T18:01:35+00:00",
+      "summary": "Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares.",
+      "title_zh": "BitFuFu的比特幣產量在八月回升，CleanSpark小幅上升，Canaan下滑",
+      "summary_zh": "BitFuFu在八月的比特幣產量回升，CleanSpark也有所增長，而Canaan則出現下滑。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+      "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+      "published": "2026-09-14T17:51:20+00:00",
+      "summary": "",
+      "title_zh": "隨著參議院準備投票通過CLARITY法案，銀行加劇穩定幣獎勵競爭",
+      "summary_zh": "銀行業在穩定幣獎勵上展開激烈競爭，期待CLARITY法案的通過。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
+      "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T17:50:12+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive adds 469 Bitcoin to reach 25,000 BTC treasury\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GEQRXMNZKPZF714Z603E41/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-1.png\" /></p><p>Strive’s latest Bitcoin purchase was funded entirely through its SATA preferred stock as the company continues its rapid climb among corporate BTC holders.</p>",
+      "title_zh": "Strive新增469比特幣，達到25,000 BTC的金庫",
+      "summary_zh": "Strive成功增加469比特幣，總金庫達到25,000 BTC，顯示其增長潛力。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
+      "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T17:42:04+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act faces state AGs opposition ahead of key Senate vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GDBD5FKT1AWY6RJ5BB9EEC/regulation-semen-lot-of-papers-clarity-act-1.jpg\" /></p><p>Trump’s ethics concession addresses one hurdle for the crypto bill, but 18 state attorneys general say the revised legislation would weaken state oversight.</p>",
+      "title_zh": "CLARITY法案在關鍵參議院投票前面臨州檢察長的反對",
+      "summary_zh": "CLARITY法案在即將到來的參議院投票中遭遇州檢察長的強烈反對。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+      "link": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
+      "published": "2026-09-14T17:40:04+00:00",
+      "summary": "AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.",
+      "title_zh": "比特幣上漲，AI放緩導致Nvidia、Intel及其他芯片股下跌",
+      "summary_zh": "比特幣價格上漲，與此同時，AI行業放緩影響了多家芯片公司的股價。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
+      "link": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
+      "published": "2026-09-14T17:25:06+00:00",
+      "summary": "Ethics and banking concessions have improved the crypto bill’s prospects, analysts say, but Democratic support remains uncertain.",
+      "title_zh": "Bernstein表示，加密市場「絕對沒有考慮到」CLARITY法案的驚喜",
+      "summary_zh": "Bernstein分析師指出，加密市場尚未反映CLARITY法案可能帶來的影響。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "S&P Global backs Kaiko as Series B reaches $110M",
+      "link": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T16:17:52+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"S&amp;P Global backs Kaiko as Series B reaches $110M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GA9N8SV4RP2PV1J1A9GWVD/hi-crypto-market-trading-trader-breaking-news.png\" /></p><p>The investment brings together major financial institutions as Kaiko expands its data infrastructure for tokenized securities and onchain financial markets.</p>",
+      "title_zh": "標準普爾全球支持Kaiko，B輪融資達1.1億美元",
+      "summary_zh": "標準普爾全球公司對數據平台Kaiko的支持，幫助其B輪融資成功達到1.1億美元。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
+      "link": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
+      "published": "2026-09-14T16:02:25+00:00",
+      "summary": "The purchase brings the company closer to its goal of owning 5% of Ethereum’s supply, with most of its tokens earning staking rewards.",
+      "title_zh": "Bitmine新增6800萬美元以太坊，持有量接近600萬ETH",
+      "summary_zh": "Bitmine在其以太坊持有量接近600萬ETH的情況下，新增6800萬美元的投資。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
+      "published": "2026-09-14T15:57:01+00:00",
+      "summary": "",
+      "title_zh": "17位州檢察總長的兩黨聯盟敦促參議院拒絕Clarity法案",
+      "summary_zh": "來自17個州的檢察總長聯合呼籲參議院拒絕Clarity法案，顯示出對該法案的廣泛反對。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
+      "link": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T15:55:59+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20KSZECABXAPAY6J96Y7ZX7/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-4.jpg\" /></p><p>Bitmine now has more than 5 million ETH staked, turning most of its Ether holdings into a recurring income stream as it continues to acc",
+      "title_zh": "Bitmine預計從158億美元的加密資產中獲得3.34億美元的年質押收入",
+      "summary_zh": "Bitmine預測其158億美元的加密資產將帶來每年3.34億美元的質押收入。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
+      "link": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
+      "published": "2026-09-14T15:41:46+00:00",
+      "summary": "The Bitcoin treasury firm slowed its preferred-stock buyback from last week's $176 million pace and left its 845,050 BTC untouched, per a Monday SEC filing.",
+      "title_zh": "Strategy回購1.39億美元的STRC，比特幣堆積第二周凍結",
+      "summary_zh": "Strategy公司回購了價值1.39億美元的STRC，並且其比特幣持有在第二周內凍結。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass",
+      "link": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
+      "published": "2026-09-14T15:22:51+00:00",
+      "summary": "Republicans' \"last, best and final offer\" wins Trump's backing on stronger ethics rules and concedes on DeFi and stablecoin sticking points, but it's unclear if enough Democrats will cross over Tuesday.",
+      "title_zh": "特朗普為何支持Clarity法案中的更嚴格倫理規則，以及加密產業的看法",
+      "summary_zh": "特朗普對Clarity法案中的倫理規則表示支持，但加密產業認為該法案仍有通過的可能性。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Why are AI’s biggest companies suddenly asking to slow down?",
+      "link": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T15:18:46+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why are AI’s biggest companies suddenly asking to slow down?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2G1M9RG81KG7CSFP69XNX5A/hi-what-is-chaosgpt-an-ai-tool-that-wants-to-destroy-humanity.jpg\" /></p><p>AI’s biggest labs are suddenly calling for a slower pace of development. Is it because AI risks are catching up with the technology, or because the economics of the race are ",
+      "title_zh": "為何AI的最大公司突然要求放慢腳步？",
+      "summary_zh": "多家大型AI公司近期呼籲放慢發展速度，引發業界對AI風險的關注。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Strive reaches 25,000 BTC milestone with latest $36.6 million purchase",
+      "link": "https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631",
+      "published": "2026-09-14T15:15:51+00:00",
+      "summary": "The latest acquisition marks a slowdown from the prior week, when Strive purchased 1,375 BTC for approximately $109 million.",
+      "title_zh": "Strive以最新的3660萬美元購買達成25000 BTC里程碑",
+      "summary_zh": "Strive公司通過最新的3660萬美元交易，成功達成25000 BTC的持有里程碑。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
+      "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
+      "published": "2026-09-14T15:10:29+00:00",
+      "summary": "",
+      "title_zh": "Clarity法案在預測市場上的機率上升，但仍面臨長路",
+      "summary_zh": "儘管Clarity法案在預測市場上機率上升，但其通過仍然面臨重重挑戰。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-ny-attorney-general-james-bipartisan-push-against-clarity-act-initial-senate-vote-414635",
+      "published": "2026-09-14T14:43:34+00:00",
+      "summary": "New York Attorney General Letitia James led a group of 17 bipartisan attorneys general urging lawmakers to vote against crypto legislation.",
+      "title_zh": "紐約檢察總長詹姆斯在初步參議院投票前領導兩黨推動反對Clarity法案",
+      "summary_zh": "紐約檢察總長詹姆斯帶領兩黨聯盟，積極反對Clarity法案，並準備在參議院進行初步投票。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM",
+      "link": "https://www.theblock.co/news/markets/2026-09-14-defi-development-corp-expands-solana-treasury-2-39-million-sol-sets-300-million-chad-atm-414633",
+      "published": "2026-09-14T14:40:16+00:00",
+      "summary": "The Solana treasury company established a $300 million at-the-market offering for its CHAD perpetual preferred stock.",
+      "title_zh": "DeFi發展公司擴大Solana金庫至239萬SOL，設立3億美元CHAD自動提款機",
+      "summary_zh": "DeFi發展公司增資Solana金庫，並推出3億美元的CHAD自動提款機，顯示其擴張計劃。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
+      "link": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
+      "published": "2026-09-14T14:37:56+00:00",
+      "summary": "",
+      "title_zh": "共識會議第三年移師香港，擴大對AI的關注",
+      "summary_zh": "共識會議將在香港舉行，並加強對人工智慧的討論與探索，顯示其重要性。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
+      "link": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
+      "published": "2026-09-14T14:37:21+00:00",
+      "summary": "What had been written off is now very back alive ahead of a key vote on Tuesday, followed by a pivotal FOMC on Wednesday. Big week ahead...",
+      "title_zh": "早安快訊：隨著特朗普同意道德條款，清晰法案的機會激增",
+      "summary_zh": "特朗普同意清晰法案中的道德條款，使該法案的通過機會大幅上升。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Don’t let perfect be the enemy of Clarity",
+      "link": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
+      "published": "2026-09-14T14:34:56+00:00",
+      "summary": "",
+      "title_zh": "不要讓完美成為清晰的敵人",
+      "summary_zh": "在追求清晰的過程中，過度追求完美可能會阻礙進展，需適度妥協。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
+      "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
+      "published": "2026-09-14T14:27:48+00:00",
+      "summary": "",
+      "title_zh": "這是特朗普同意的修訂版清晰法案道德條款",
+      "summary_zh": "特朗普已同意修訂版的清晰法案道德條款，為法案的推進鋪平道路。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
+      "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
+      "published": "2026-09-14T14:06:28+00:00",
+      "summary": "",
+      "title_zh": "Kaiko將B輪融資擴展至1.1億美元，與標普全球、法國巴黎銀行合作",
+      "summary_zh": "數據公司Kaiko成功擴大B輪融資，吸引標普全球及法國巴黎銀行的投資。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "MetaMask Adds New Wallet Protections Against Crypto Scams",
+      "link": "https://decrypt.co/378117/metamask-adds-wallet-protections",
+      "published": "2026-09-14T14:01:04+00:00",
+      "summary": "MetaMask’s latest safeguards flag suspicious transfers and stop transactions that don’t match their previews.",
+      "title_zh": "MetaMask新增錢包保護措施以防止加密詐騙",
+      "summary_zh": "MetaMask推出新功能，增強用戶錢包的安全性，以防範加密貨幣詐騙。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+      "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T13:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fragmented regulations limit stablecoin adoption in international finance: WTO head\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2G0YC6M7V2K2DGBYCT9YS2P/cross-border-transaction-stablecoin-swift-1.jpg\" /></p><p>Stablecoins may reduce trade finance friction, fragmented regulatory regimes limit their adoption to just 3% of global payments, according to the World Trade Organizatio",
+      "title_zh": "碎片化的法規限制穩定幣在國際金融中的採用：WTO負責人",
+      "summary_zh": "世界貿易組織負責人指出，法規的碎片化對穩定幣的國際應用造成障礙。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
+      "link": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T13:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HYPE price could suffer as Binance takes its revenue: Alice Liu\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EQBXGXVCXHB5FJG3RJFAZP/alice-liu.png\" /></p><p>Token buybacks have pushed Hyperliquid to all time highs, but Alice Liu from CoinMarketCap warns that Binance poses a threat to the revenue stream it depends on to pay for them. </p>",
+      "title_zh": "HYPE價格可能受到影響，因Binance獲取其收入：Alice Liu",
+      "summary_zh": "分析師Alice Liu警告，Binance的收入獲取可能會對HYPE價格造成負面影響。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitmine adds 27,180 ETH as adviser Tom DeMark sees sharp move in coming weeks",
+      "link": "https://www.theblock.co/news/business/2026-09-14-bitmine-adds-27180-eth-as-adviser-tom-demark-sees-sharp-move-in-coming-weeks-414621",
+      "published": "2026-09-14T13:20:51+00:00",
+      "summary": "Bitmine added 27,180 ETH, taking its holdings to 5.96 million as advisor Tom DeMark forecasts a sharp upward move.",
+      "title_zh": "Bitmine新增27,180 ETH，顧問Tom DeMark預測未來幾周將有劇烈變動",
+      "summary_zh": "Bitmine增持大量ETH，顧問預測市場在未來幾周內將出現顯著波動。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million",
+      "link": "https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618",
+      "published": "2026-09-14T13:13:06+00:00",
+      "summary": "BNP Paribas, Nasdaq Ventures, RBC, Coinbase Ventures, DRW Venture Capital and several others joined the extension round.",
+      "title_zh": "標準普爾全球領投加密數據公司Kaiko的戰略投資，將B輪融資擴展至1.1億美元",
+      "summary_zh": "標準普爾全球加碼投資Kaiko，顯示對加密數據市場的信心，B輪融資總額達1.1億美元。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+      "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
+      "published": "2026-09-14T12:58:42+00:00",
+      "summary": "",
+      "title_zh": "Bitmine新增6800萬美元以太幣，Tom Lee預見更多上漲催化劑",
+      "summary_zh": "Bitmine增持以太幣，分析師Tom Lee預測市場將出現更多利好因素，推動價格上漲。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged",
+      "link": "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603",
+      "published": "2026-09-14T12:08:37+00:00",
+      "summary": "Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $66 billion.",
+      "title_zh": "Strategy回購1.39億美元的STRC股票，比特幣持有量保持不變",
+      "summary_zh": "Strategy公司進行大規模回購STRC股票，並選擇不改變其比特幣持有策略。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+      "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+      "published": "2026-09-14T12:08:35+00:00",
+      "summary": "",
+      "title_zh": "狗狗幣ETF面臨買家困境，而競爭對手XRP和Solana基金吸引30億美元資金",
+      "summary_zh": "狗狗幣ETF銷售疲軟，與此同時，XRP和Solana基金卻成功吸引大量資金流入。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
+      "published": "2026-09-14T12:07:19+00:00",
+      "summary": "",
+      "title_zh": "特朗普同意更嚴格的倫理規則以拯救Clarity Act加密法案：美聯社",
+      "summary_zh": "特朗普為了推進Clarity Act法案，接受了更嚴格的倫理規範，顯示其對加密市場的重視。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "link": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
+      "published": "2026-09-14T11:58:28+00:00",
+      "summary": "",
+      "title_zh": "英國金融行為監管局考慮豁免代幣化黃金的基金規則以保護倫敦市場",
+      "summary_zh": "FCA考慮對代幣化黃金進行豁免，以促進倫敦金融市場的競爭力和吸引力。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
+      "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+      "published": "2026-09-14T11:44:21+00:00",
+      "summary": "",
+      "title_zh": "即時更新：比特幣接近79,000美元，股票市場縮小跌幅",
+      "summary_zh": "比特幣價格上漲接近79,000美元，股市跌幅縮小，顯示市場回暖跡象。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+      "link": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T11:38:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU cyber rules put crypto wallet makers on 24-hour reporting clock\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FR3T0NEB8ZH35X810AQSMA/european-union-eu-european-parliament-brussels-2.jpg\" /></p><p>Crypto wallet providers must submit an early vulnerability report within 24 hours and a full notification within 72 hours of exploits, or risk administrative fines of as much as $17",
+      "title_zh": "歐盟網絡安全規則要求加密錢包製造商24小時內報告",
+      "summary_zh": "歐盟新規定要求加密錢包製造商在24小時內報告安全事件，提升市場透明度。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
+      "published": "2026-09-14T11:15:00+00:00",
+      "summary": "",
+      "title_zh": "加密市場表現優於預期，因對減緩AI發展的呼聲影響科技股",
+      "summary_zh": "加密市場在科技股疲軟的背景下表現出色，顯示出其相對韌性。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
+      "link": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
+      "published": "2026-09-14T11:01:05+00:00",
+      "summary": "SEBI and the RBI's \"Demat 2.0\" pilot issues corporate bonds as digital tokens and settles them with the wholesale digital rupee, with three companies already raising about $107 million.",
+      "title_zh": "印度開始對6200億美元的企業債券市場進行代幣化",
+      "summary_zh": "印度啟動企業債券市場的代幣化進程，旨在提高市場流動性和透明度。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+      "published": "2026-09-14T10:09:41+00:00",
+      "summary": "",
+      "title_zh": "比特幣漲至78,000美元，數位貨幣避開AI拋售",
+      "summary_zh": "比特幣價格上漲至78,000美元，顯示出數位貨幣市場在AI拋售中保持穩定。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T10:02:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FNBW97VVK5XYKANMB2SP3G/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act-1.jpg\" /></p><p>Bitcoin traders brace for volatility as the CLARITY Act awaits a Senate vote to move forward and the Fed is due to announce its latest rate decis",
+      "title_zh": "CLARITY法案投票與美聯儲加息相遇：本週比特幣五件事",
+      "summary_zh": "本週比特幣市場將受到CLARITY法案投票和美聯儲加息的影響，投資者需密切關注。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+      "link": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T09:55:35+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FK6GAEQRFQBFCE1EBGAMG5/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it-1.jpg\" /></p><p>Symbiosis is offering a 20% bounty for information leading to asset recovery after the hacker refused to return the stolen funds for the same white-hat bounty.</p>",
+      "title_zh": "Symbiosis表示從橋接黑客攻擊中恢復15 BTC，提供20%獎金",
+      "summary_zh": "Symbiosis成功恢復15枚比特幣，並對提供線索的個人給予20%的獎金。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
+      "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
+      "published": "2026-09-14T09:43:45+00:00",
+      "summary": "",
+      "title_zh": "TikTok開發商字節跳動安排296億美元貸款以推動AI雄心",
+      "summary_zh": "字節跳動為了擴展其AI業務，成功安排了一筆高達296億美元的貸款。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593",
+      "published": "2026-09-14T09:36:08+00:00",
+      "summary": "The analysts argued crypto markets currently have a bearish bias ahead of Tuesday's cloture vote and Wednesday's Federal Reserve decision.",
+      "title_zh": "Bernstein認為CLARITY法案進展超出市場預期，任何正面驚喜都未被計入",
+      "summary_zh": "Bernstein分析師指出CLARITY法案的進展超出預期，市場尚未反映任何潛在的正面驚喜。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
+      "published": "2026-09-14T09:29:57+00:00",
+      "summary": "",
+      "title_zh": "美聯儲、英國央行、日本央行利率決策：加密貨幣未來一週",
+      "summary_zh": "未來一週，加密貨幣市場將受到美聯儲、英國央行和日本央行利率決策的影響。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO",
+      "link": "https://www.theblock.co/news/markets/2026-09-14-td-cowen-sees-90-upside-for-bitcoin-treasury-firm-smarter-web-following-proposed-more-preferred-ipo-414590",
+      "published": "2026-09-14T09:29:39+00:00",
+      "summary": "TD Cowen raised its Smarter Web price target after its proposed MORE preferred IPO, citing broader funding options and capital efficiency.",
+      "title_zh": "TD Cowen預測比特幣財庫公司Smarter Web在提議的‘MORE’優先IPO後有90%上漲潛力",
+      "summary_zh": "TD Cowen預測，Smarter Web在提議的IPO後，將有90%的增長潛力，吸引投資者注意。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
+      "link": "https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs",
+      "published": "2026-09-14T09:01:03+00:00",
+      "summary": "The Crypto Valley pioneer is moving up to 60 Zug jobs to Bratislava or Vietnam as it pivots from a Swiss crypto specialist into a global wealth manager.",
+      "title_zh": "比特幣瑞士公司將在海外轉型中裁減多達一半的瑞士工作崗位",
+      "summary_zh": "比特幣瑞士公司計劃在海外轉型過程中裁減多達一半的瑞士員工，面臨重組挑戰。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "UK FCA seeks views on fund rule exemptions for tokenized gold",
+      "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T08:57:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK FCA seeks views on fund rule exemptions for tokenized gold\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FH25D983BQTGVJMM116BR7/hi-fintech-in-the-united-kingdom-after-brexit-fca.jpg\" /></p><p>The FCA said uncertainty over whether some tokenized gold products fall under UK fund rules could affect adoption and investor access.</p>",
+      "title_zh": "英國金融行為監管局徵求對代幣化黃金基金規則豁免的意見",
+      "summary_zh": "英國金融行為監管局正在徵求對代幣化黃金相關基金規則豁免的市場意見。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "South Korean investors push for fourth crypto tax delay as regulators stand firm",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581",
+      "published": "2026-09-14T08:31:06+00:00",
+      "summary": "A petition to postpone the planned digital asset gains tax in South Korea reached its threshold of 50,000 signatures.",
+      "title_zh": "韓國投資者推動第四次加密稅延遲，監管機構堅持立場",
+      "summary_zh": "韓國投資者要求延遲第四次加密貨幣稅收，但監管機構仍然堅持其政策立場。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
+      "published": "2026-09-14T08:07:16+00:00",
+      "summary": "",
+      "title_zh": "比特幣逆勢上漲，因AI安全問題影響股市",
+      "summary_zh": "儘管科技股遭遇拋售，比特幣仍然逆勢上漲，顯示出市場對AI安全問題的擔憂。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T07:07:54+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FBNSP9ZVJVG90ENN5CFBQ3/etf-weekly-update.png\" /></p><p>ARKB, GBTC and IBIT led Bitcoin ETF withdrawals, while BlackRock’s ETHA pushed Ether ETFs into weekly inflows.</p>",
+      "title_zh": "比特幣ETF每週減少4.63億美元，以太坊ETF增長1.97億美元",
+      "summary_zh": "在一週內，比特幣ETF資金流出4.63億美元，而以太坊ETF則獲得1.97億美元的資金流入。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "King Charles to host AI chiefs amid industry call to slow development",
+      "link": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T05:16:59+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"King Charles to host AI chiefs amid industry call to slow development\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2F5CNAA48QPT8RT0AZSR8XX/ai-meeting.jpg\" /></p><p>The gathering comes days after Dario Amodei and Sam Altman called for greater restraint at the AI frontier, warning that rapidly improving systems could pose increasingly difficult-to-control risks.</p>",
+      "title_zh": "查爾斯國王將主持AI領袖會議，呼籲行業放慢發展",
+      "summary_zh": "查爾斯國王將與AI領域的領袖會面，討論如何應對行業快速發展帶來的挑戰。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T04:55:28+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood CEO says issuers should not have veto over tokenized stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2F1FZKPWK4E0T4E9EXZKH52/robin-the-hood.png\" /></p><p>Robinhood CEO Vlad Tenev said issuers should be involved if tokenized products change shareholder rights or company obligations, but not when they create separate instruments backed by shares.</p>",
+      "title_zh": "Robinhood CEO表示發行者不應對代幣化股票擁有否決權",
+      "summary_zh": "Robinhood的首席執行官強調，發行者不應該對代幣化股票的交易擁有否決權，維護市場公平性。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions",
+      "link": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
+      "published": "2026-09-14T04:24:37+00:00",
+      "summary": "President Donald Trump agreed to ethics restrictions on the bill, which would limit officials and their spouses from crypto-related dealings.",
+      "title_zh": "參議院共和黨人發布‘最終版’清晰法案草案，特朗普接受大部分倫理條款",
+      "summary_zh": "參議院共和黨人公布了清晰法案的最終草案，特朗普同意大多數倫理條款，推進立法進程。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
+      "link": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T03:22:49+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Republicans send ‘final’ CLARITY Act offer to Democrats\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg\" /></p><p>The 635-page revised proposal includes Trump-backed ethics provisions and comes just two days before a key procedural vote.</p>",
+      "title_zh": "美國共和黨向民主黨發送‘最終版’清晰法案提議",
+      "summary_zh": "美國共和黨向民主黨提出了清晰法案的最終提議，期待雙方能達成共識。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Revolut attackers threaten daily customer data leaks",
+      "link": "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T00:54:08+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut attackers threaten daily customer data leaks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EP9WWPA3TQ0VSDG71BW9GG/data-leak.jpg\" /></p><p>Attackers reportedly published identity documents and selfies belonging to Revolut customers and threatened to release more data each day until the fintech pays.</p>",
+      "title_zh": "Revolut攻擊者威脅每日洩露客戶數據",
+      "summary_zh": "Revolut的客戶面臨風險，攻擊者威脅將每日洩露客戶數據，增加了安全隱患。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-14T00:15:37+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EK46FSXWXQTA0ENWV5Z0W4/three-figures-no-text.png\" /></p><p>Crypto’s moment of CLARITY finally arrives with a key Senate vote on Tuesday. AI swarm fears prompt development slowdown, with some predicting big falls in AI stock prices.</p>",
+      "title_zh": "加密貨幣歷史上最大的週？群體恐慌促使AI放緩：持幣者摘要",
+      "summary_zh": "本週可能成為加密貨幣歷史上最重要的一週，因群體恐慌促使AI發展放緩。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 78802,
+      "price_change_24h": 2.43734,
+      "volume_24h": 32731914549,
+      "high_30d": 81264.70153,
+      "low_30d": 62843.703685,
+      "rsi": 65.72,
+      "sma7": 77624.969421,
+      "sma20": 78490.607688,
+      "ema12": 77900.135758,
+      "ema26": 76262.600467,
+      "signal": "均線空頭"
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2552.36,
+      "price_change_24h": 2.53049,
+      "volume_24h": 16498935986,
+      "high_30d": 2552.357144,
+      "low_30d": 1874.401898,
+      "rsi": 68.09,
+      "sma7": 2494.181062,
+      "sma20": 2475.748884,
+      "ema12": 2485.068912,
+      "ema26": 2403.299915,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 103.4,
+      "price_change_24h": 3.21957,
+      "volume_24h": 3498734470,
+      "high_30d": 109.177306,
+      "low_30d": 74.547746,
+      "rsi": 62.69,
+      "sma7": 101.489983,
+      "sma20": 102.786601,
+      "ema12": 101.587267,
+      "ema26": 98.241946,
+      "signal": "均線空頭"
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 724.11,
+      "price_change_24h": 0.80387,
+      "volume_24h": 1005531263,
+      "high_30d": 766.409288,
+      "low_30d": 602.462922,
+      "rsi": 59.82,
+      "sma7": 725.348152,
+      "sma20": 716.632728,
+      "ema12": 721.72403,
+      "ema26": 703.518752,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.45,
+      "price_change_24h": 7.85994,
+      "volume_24h": 4285714531,
+      "high_30d": 1.520505,
+      "low_30d": 0.992707,
+      "rsi": 65.63,
+      "sma7": 1.379764,
+      "sma20": 1.39171,
+      "ema12": 1.383585,
+      "ema26": 1.341772,
+      "signal": "均線空頭"
+    }
+  ],
+  "signals": {
+    "date": "2026-09-15",
+    "fear_greed": {
+      "value": 57,
+      "classification": "Greed",
+      "timestamp": "2026-09-14T00:00:00+00:00",
+      "history": [
+        {
+          "value": 57,
+          "classification": "Greed",
+          "date": "2026-09-14"
+        },
+        {
+          "value": 61,
+          "classification": "Greed",
+          "date": "2026-09-13"
+        },
+        {
+          "value": 63,
+          "classification": "Greed",
+          "date": "2026-09-12"
+        },
+        {
+          "value": 56,
+          "classification": "Greed",
+          "date": "2026-09-11"
+        },
+        {
+          "value": 69,
+          "classification": "Greed",
+          "date": "2026-09-10"
+        },
+        {
+          "value": 66,
+          "classification": "Greed",
+          "date": "2026-09-09"
+        },
+        {
+          "value": 69,
+          "classification": "Greed",
+          "date": "2026-09-08"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {}
+  }
+}
