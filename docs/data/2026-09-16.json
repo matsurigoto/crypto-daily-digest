@@ -1,0 +1,792 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T06:15:04.197009+08:00",
+  "summary": "# 加密貨幣每日彙整報告\n\n## 📰 今日重點摘要\n1. 美國參議院的清晰法案在投票中失敗，對加密產業的監管推動造成重大影響。\n2. 加密市場對清晰法案未能通過的反應顯著，主要加密貨幣價格普遍下滑。\n3. Coinbase支持的加密團體對失敗的清晰法案表示擔憂，並警告可能的中期選舉後果。\n4. 英國央行官員指出穩定幣的增長可能會加強美元的主導地位。\n5. Robinhood前工程師因涉嫌在加密上市上進行詐騙而被美國司法部起訴。\n\n## 📊 市場概況\n今日加密貨幣市場整體氛圍偏空，主要加密貨幣價格普遍下滑。比特幣（BTC）價格下降至$75,393，24小時跌幅達4.36%。以太坊（ETH）表現相對較弱，價格為$2,388.66，跌幅達6.49%。Solana（SOL）和XRP的跌幅亦顯著，分別下滑6.48%及11.68%。市場情緒雖然偏向貪婪，但在清晰法案未能通過的影響下，市場穩定性受到挑戰。\n\n## 🔍 技術分析解讀\n比特幣目前的RSI指標為55.2，顯示出市場略微超買，並且均線訊號顯示為空頭，預示著可能的進一步回調。以太坊的RSI為55.94，反映出多頭趨勢，儘管價格有所下滑。Solana和XRP的RSI分別為53.89和51.09，均顯示出空頭趨勢，需密切關注技術支撐位的破位情況。\n\n## 😱 市場情緒\n恐懼貪婪指數目前為69，顯示市場情緒偏向貪婪。這代表投資者對市場的信心較高，但在清晰法案失敗的背景下，市場可能面臨短期的波動。社群對於即將到來的中期選舉及其可能影響的法律框架感到不安，投資者需保持警覺。\n\n## ⚠️ 風險提醒\n由於清晰法案未能通過，市場可能面臨進一步的政策不確定性及價格震盪，特別是在主要加密貨幣的投資方面。投資者需注意市場情緒的快速變化，並考慮到潛在的風險和市場調整。\n\n## 🎯 今日觀察重點\n投資者應關注美國參議院未來的監管動向及政策聲明，特別是與加密貨幣相關的法律框架。此外，需密切追蹤比特幣和以太坊的技術指標變化，以判斷市場是否會出現反彈或持續回調的可能性。",
+  "news": [
+    {
+      "source": "CoinDesk",
+      "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+      "published": "2026-09-15T21:58:48+00:00",
+      "summary": "",
+      "title_zh": "加密產業的清晰法案出現多位指揮者脫軌",
+      "summary_zh": "清晰法案的失敗顯示出加密產業面臨的多重挑戰與困難。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
+      "link": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
+      "published": "2026-09-15T21:46:03+00:00",
+      "summary": "Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fallout could run deeper than one hike.",
+      "title_zh": "華爾街押注美聯儲加息：這對比特幣、債券和特朗普意味著什麼",
+      "summary_zh": "市場對美聯儲加息的預期將影響比特幣和債券的走勢，並可能影響特朗普的政治前景。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "‘This one stings’: Clarity Act fails procedural Senate vote — is crypto’s biggest regulatory push dead?",
+      "link": "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135",
+      "published": "2026-09-15T21:24:18+00:00",
+      "summary": "A procedural vote to advance landmark digital asset legislation failed spectacularly on Tuesday, leaving the crypto industry crushed.",
+      "title_zh": "‘這讓人痛心’：清晰法案在參議院程序投票中失敗——加密最大的監管推動是否已死？",
+      "summary_zh": "清晰法案的失敗使加密貨幣的監管前景變得更加不明朗，業界感到失望。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+      "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T21:23:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS paper finds major gap in Bitcoin onchain transfer estimates\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KD2EQC101MZQX67TJ3JJQB/hi-statistical-indicators-for-crypto-investments.png\" /></p><p>A BIS study found widely used crypto metrics can obscure economic activity, with measurement challenges spanning Bitcoin, Ethereum and stablecoins.\n</p>",
+      "title_zh": "國際清算銀行報告發現比特幣鏈上轉移估算存在重大差距",
+      "summary_zh": "研究指出比特幣的鏈上轉移數據存在顯著的估算誤差，影響市場信心。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
+      "link": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
+      "published": "2026-09-15T21:10:06+00:00",
+      "summary": "The Coinbase-backed Stand With Crypto will add senators’ votes to its scorecards as it rallies crypto voters ahead of November’s elections.",
+      "title_zh": "Coinbase支持的加密團體警告清晰法案失敗後的中期選舉報復",
+      "summary_zh": "隨著清晰法案的失敗，加密團體擔心未來中期選舉可能面臨的政策反彈。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
+      "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T20:37:34+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks slide after CLARITY Act fails to advance in Senate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJH6XJV6JTEGJY5Q2A9NA/hi-intel-research.png\" /></p><p>Circle and Coinbase shares fell about 10% as the failed Senate vote weighed on crypto-linked equities, with Bitcoin miners and treasury companies also declining.</p>",
+      "title_zh": "加密股票在清晰法案未能在參議院推進後下滑",
+      "summary_zh": "清晰法案的失敗導致加密相關股票大幅下跌，投資者情緒受到影響。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+      "link": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
+      "published": "2026-09-15T20:09:19+00:00",
+      "summary": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
+      "title_zh": "OpenAI的Brockman表示安全問題已經減緩其最先進的AI工作",
+      "summary_zh": "安全考量成為OpenAI推進其尖端人工智慧研究的主要障礙。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto stocks sink after Senate rejects Clarity Act",
+      "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
+      "published": "2026-09-15T20:03:17+00:00",
+      "summary": "",
+      "title_zh": "加密股票在參議院拒絕清晰法案後暴跌",
+      "summary_zh": "參議院對清晰法案的拒絕引發加密股票市場的劇烈反應，投資者信心受挫。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T19:53:13+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣發生了什麼",
+      "summary_zh": "今日加密市場動態多變，投資者需密切關注市場走勢。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
+      "link": "https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides",
+      "published": "2026-09-15T19:18:29+00:00",
+      "summary": "The Senate fell short of the 60 votes needed to advance the crypto industry's marquee bill Tuesday. Bitcoin dropped as the no tally mounted, but the move stopped well short of panic.",
+      "title_zh": "加密市場反應：比特幣因清晰法案未能通過參議院而下滑",
+      "summary_zh": "比特幣價格因清晰法案的失敗而下跌，市場情緒變得更加謹慎。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto industry reacts after Clarity Act fails Senate vote",
+      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
+      "published": "2026-09-15T19:06:31+00:00",
+      "summary": "",
+      "title_zh": "加密產業對清晰法案未能通過參議院投票的反應",
+      "summary_zh": "加密產業對清晰法案在參議院未能通過表示失望，呼籲進一步的政策支持。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Clarity Act preliminary vote falls short in Senate amid ethics fight over Trump’s crypto wealth",
+      "link": "https://www.theblock.co/news/regulation/2026-09-15-clarity-act-preliminary-vote-falls-short-in-senate-amid-ethics-fight-over-trumps-crypto-wealth-415010",
+      "published": "2026-09-15T18:57:00+00:00",
+      "summary": "An initial vote to try to push the Clarity Act closer to becoming law fell flat amid opposition to President Trump's crypto wealth.",
+      "title_zh": "清晰法案初步投票在參議院因特朗普的加密財富倫理爭議而失敗",
+      "summary_zh": "清晰法案的初步投票因政治爭議而未能獲得足夠支持，顯示出立法過程的挑戰。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
+      "link": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
+      "published": "2026-09-15T18:54:10+00:00",
+      "summary": "The crypto market structure bill failed to receive enough votes to advance in the Senate.",
+      "title_zh": "清晰法案在參議院停滯，加密法案未能通過關鍵投票",
+      "summary_zh": "清晰法案在參議院遭遇阻礙，未能通過關鍵投票，讓加密法規的未來充滿不確定性。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+      "published": "2026-09-15T18:50:58+00:00",
+      "summary": "",
+      "title_zh": "加密清晰法案在美國參議院投票中失敗",
+      "summary_zh": "加密清晰法案在參議院的投票中遭遇失敗，反映出立法支持的不足。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US Senate fails to advance CLARITY Act",
+      "link": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T18:46:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate fails to advance CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2K3DC5KWJ1X6BP5W0XSQ09S/x-hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act.png\" /></p><p>The failed procedural vote leaves the CLARITY Act facing an uncertain future after months of negotiations over crypto oversight and ethics provisions.</p>",
+      "title_zh": "美國參議院未能推進清晰法案",
+      "summary_zh": "美國參議院未能推進清晰法案，顯示出加密貨幣監管的複雜性和挑戰。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
+      "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
+      "published": "2026-09-15T18:02:05+00:00",
+      "summary": "",
+      "title_zh": "Solana貸款平台Kamino任命金融科技老將Michael Weisz為首席執行官，計劃大規模擴展美國市場",
+      "summary_zh": "Kamino任命Michael Weisz為CEO，計劃在美國市場進行大規模擴展，顯示出其增長潛力。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
+      "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T17:53:04+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg\" /></p><p>A Bank of England policy maker said digital dollars could expand access to the US currency while turning stablecoin issuers into bigger buyers of gover",
+      "title_zh": "英國央行官員表示穩定幣增長可能提升美元主導地位及美國財政部需求",
+      "summary_zh": "穩定幣的增長可能進一步強化美元的主導地位，並增加對美國財政部的需求。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "DOJ charges Robinhood former engineers with front-running crypto listings on Hyperliquid",
+      "link": "https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865",
+      "published": "2026-09-15T17:50:23+00:00",
+      "summary": "According to prosecutors, the two took positions in tokens ahead of Robinhood’s public listing announcements between 2025 and 2026.",
+      "title_zh": "美國司法部指控Robinhood前工程師在Hyperliquid上進行加密上市的前置交易",
+      "summary_zh": "美國司法部對Robinhood的前工程師提出指控，涉及在加密上市中進行不當交易。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Sen. Elizabeth Warren says she wants a crypto bill, but the Clarity Act just isn’t it",
+      "link": "https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869",
+      "published": "2026-09-15T17:49:30+00:00",
+      "summary": "Sen. Elizabeth Warren says she remains determined to get a crypto bill signed into law — even if she doesn’t support the current Clarity Act.",
+      "title_zh": "參議員伊莉莎白·沃倫表示她希望有一項加密法案，但清晰法案並不符合她的期望",
+      "summary_zh": "沃倫參議員對清晰法案表示不滿，強調需要更符合需求的加密法案。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+      "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+      "published": "2026-09-15T17:49:23+00:00",
+      "summary": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
+      "title_zh": "Robinhood工程師因涉嫌加密上市交易詐騙而被起訴",
+      "summary_zh": "Robinhood的工程師因涉嫌在加密上市交易中進行詐騙而面臨法律指控。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
+      "link": "https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
+      "published": "2026-09-15T17:43:01+00:00",
+      "summary": "The Wyoming Republican says the final text hands Democrats more than 120 of their own demands, including sweeping new ethics rules, as the Senate holds a make-or-break cloture vote Tuesday afternoon.",
+      "title_zh": "克拉里提法案的關鍵時刻，稱為「比特幣參議員」的盧米斯表示",
+      "summary_zh": "盧米斯呼籲立即通過克拉里提法案，強調這是促進加密貨幣法規的重要時機。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance adds 11 US-listed ETFs to wealth management offering",
+      "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T17:22:04+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance adds 11 US-listed ETFs to wealth management offering\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZT31WJSAPCWV4C5T6FJ1R/hi-bitcoin-etf-sec-deadline-on-nov-5-not-a-decision-on-etfs-but-deadline-for-the-public-to-submit-a-review-clarifying-piece.png\" /></p><p>The crypto exchange is expanding its traditional finance offerings with 11 US-listed exchange-traded funds focus",
+      "title_zh": "幣安新增11種美國上市ETF至財富管理產品",
+      "summary_zh": "幣安擴展其財富管理服務，新增11種美國上市的交易所交易基金（ETF）。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
+      "link": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
+      "published": "2026-09-15T17:06:03+00:00",
+      "summary": "Prosecutors allege two Chinese companies used Binance accounts to launder oil proceeds benefiting Iran’s government and military.",
+      "title_zh": "美國尋求沒收6100萬美元與涉嫌伊朗石油計劃相關的加密貨幣",
+      "summary_zh": "美國政府計劃沒收與一項涉嫌的伊朗石油計劃相關的6100萬美元加密貨幣。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
+      "link": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains",
+      "published": "2026-09-15T16:34:35+00:00",
+      "summary": "The proposal would overhaul federal tax treatment of digital assets but still requires approval from Congress.",
+      "title_zh": "加密貨幣期待已久的「微不足道」稅收減免本週將進行眾議院審議",
+      "summary_zh": "眾議院將對加密貨幣的「微不足道」稅收減免進行審議，這對行業影響深遠。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T16:02:01+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JWDC9JXEQB4J55MT31ZEK2/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.jpg\" /></p><p>Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act vote, while surging bond yields pressured risk assets across the board.</p>",
+      "title_zh": "比特幣價格跌至75.6K美元的九月低點，全球債券達到數十年高點",
+      "summary_zh": "比特幣價格回落至75.6K美元，與全球債券收益率上升形成鮮明對比。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
+      "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T15:50:49+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRTG1Y6S9M2Y37M3XPJ1PC/hi-arbitrum-a-beginners-guide-to-the-next-generation-layer-2-for-ethereum-1.jpg\" /></p><p>Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum’s economics and drive ARB sharply higher by",
+      "title_zh": "渣打銀行表示，Arbitrum可能在2030年前超越比特幣和以太坊",
+      "summary_zh": "渣打銀行預測，Arbitrum在未來幾年內可能會超越比特幣和以太坊的表現。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
+      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
+      "published": "2026-09-15T15:50:23+00:00",
+      "summary": "",
+      "title_zh": "克拉里提法案面臨失望，除非參議院最後一刻改變",
+      "summary_zh": "克拉里提法案的推進似乎遭遇困難，除非參議院在最後一刻作出改變。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitcoin price recovery unlikely to lure AI-focused miners back, CoinShares says",
+      "link": "https://www.theblock.co/news/markets/2026-09-15-bitcoin-price-recovery-unlikely-lure-ai-focused-miners-back-coinshares-says-414844",
+      "published": "2026-09-15T15:37:47+00:00",
+      "summary": "Publicly listed BTC miners produced bitcoin at an average ex-tax cash cost of roughly $75,500 in in the second quarter.",
+      "title_zh": "CoinShares表示，比特幣價格回升不太可能吸引AI專注的礦工回歸",
+      "summary_zh": "CoinShares預測，即使比特幣價格回升，專注於AI的礦工也不會回到市場。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+      "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T15:21:26+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRVDXPPS1RFJ7HQKY6AX30/hi-transactions-stopped-danger-1.jpg\" /></p><p>An MEV bot known as “Yoink” front-ran an attacker attempting to exploit a custom Safe module, capturing the stolen rsETH before Kelp temporarily froze the receiving address.</p>",
+      "title_zh": "ETH錢包漏洞反噬，MEV機器人捕獲770萬美元，Kelp凍結地址",
+      "summary_zh": "ETH錢包的安全漏洞導致MEV機器人獲利770萬美元，Kelp因此凍結相關地址。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
+      "link": "https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote",
+      "published": "2026-09-15T15:08:07+00:00",
+      "summary": "Democrats are pushing for further concessions as Republicans insist their latest text is their final offer ahead of today’s 60-vote test.",
+      "title_zh": "民主黨在關鍵參議院投票前「改變規則」以支持克拉里提法案",
+      "summary_zh": "在關鍵的參議院投票前，民主黨對克拉里提法案的支持策略進行了調整。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Sinks as the Senate's Clarity Act Showdown Looms",
+      "link": "https://decrypt.co/378233/bitcoin-sinks-senate-clarity-act-showdown",
+      "published": "2026-09-15T14:58:57+00:00",
+      "summary": "Bitcoin just gave back its entire post-golden-cross rally in one red candle, with a make-or-break Senate vote landing this afternoon and the Fed staring down a rate hike.",
+      "title_zh": "比特幣因參議院的清晰法案對決而下跌",
+      "summary_zh": "隨著參議院清晰法案的對決臨近，比特幣價格出現下滑，市場情緒不佳。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Lead Senate Republican Lummis rejects Democratic counteroffer as Clarity Act vote nears",
+      "link": "https://www.theblock.co/news/regulation/2026-09-15-senate-republican-lummis-rejects-democratic-counteroffer-clarity-act-vote-414850",
+      "published": "2026-09-15T14:38:13+00:00",
+      "summary": "Hours ahead of an initial vote on the Clarity Act, Senate Republicans are pushing back against a counterproposal from fellow Democrats.",
+      "title_zh": "參議院主要共和黨人盧米斯拒絕民主黨的反提案，清晰法案投票迫在眉睫",
+      "summary_zh": "盧米斯拒絕民主黨的提案，清晰法案的投票時刻即將來臨，政治局勢緊張。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "European Central Bank calls for merchants to participate in digital euro pilot",
+      "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
+      "published": "2026-09-15T14:15:06+00:00",
+      "summary": "",
+      "title_zh": "歐洲中央銀行呼籲商家參與數位歐元試點",
+      "summary_zh": "歐洲中央銀行鼓勵商家參與數位歐元的試點計畫，以促進數位貨幣的使用。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
+      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
+      "published": "2026-09-15T14:13:44+00:00",
+      "summary": "",
+      "title_zh": "清晰法案的通過機率因共和黨拒絕民主黨反提案而暴跌",
+      "summary_zh": "共和黨對民主黨反提案的拒絕使得清晰法案的通過機率大幅下降。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
+      "link": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
+      "published": "2026-09-15T14:05:47+00:00",
+      "summary": "The odds of the Clarity Act passing have fully reversed their recent move, and crypto majors have reversed alongside. Is there any hope left for the bill to pass?",
+      "title_zh": "早晨快訊：清晰法案的通過機率在民主黨反擊後下滑",
+      "summary_zh": "民主黨的反擊使得清晰法案的通過機率出現明顯下滑，市場關注未來動向。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+      "link": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+      "published": "2026-09-15T13:43:50+00:00",
+      "summary": "",
+      "title_zh": "黑客將25美分的比特幣轉換為460億個假BTC代幣",
+      "summary_zh": "一名黑客利用DeFi橋將少量比特幣轉換為大量假代幣，顯示出安全性的漏洞。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+      "link": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T13:37:31+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDT payments feature in Polish energy giant’s failed $230M oil deal: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg\" /></p><p>Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023.</p>",
+      "title_zh": "美國USDT支付在波蘭能源巨頭230億美元的石油交易中失敗：金融時報",
+      "summary_zh": "波蘭能源巨頭的230億美元石油交易因USDT支付問題而失敗，影響市場信心。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
+      "link": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
+      "published": "2026-09-15T13:25:52+00:00",
+      "summary": "",
+      "title_zh": "渣打銀行預測Arbitrum的ARB將上漲70倍至10美元，因羅賓漢鏈收入",
+      "summary_zh": "渣打銀行預測Arbitrum的ARB代幣將大幅上漲，主要受到羅賓漢鏈收入的推動。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
+      "link": "https://decrypt.co/378203/ai-slowdown-us-china-pressure",
+      "published": "2026-09-15T13:00:05+00:00",
+      "summary": "Atlantic Council experts argue corporate pledges need enforceable safety standards, while U.S.–China distrust limits prospects for an international agreement.",
+      "title_zh": "為何AI放緩可能在商業和美中壓力下崩潰",
+      "summary_zh": "AI技術的放緩可能因商業需求和美中緊張關係而面臨崩潰的風險。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
+      "link": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
+      "published": "2026-09-15T12:00:06+00:00",
+      "summary": "",
+      "title_zh": "為確保經濟創新持久，我們必須立即通過清晰法案",
+      "summary_zh": "專家呼籲立即通過清晰法案，以確保經濟創新的持續發展。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "House committee releases sweeping crypto tax bill ahead of Wednesday markup",
+      "link": "https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824",
+      "published": "2026-09-15T11:52:36+00:00",
+      "summary": "Among its provisions is a $10 exception for certain fees paid in crypto, along with provisions covering stablecoins, mining, and staking.",
+      "title_zh": "眾議院委員會在週三標記前發布全面的加密稅法案",
+      "summary_zh": "眾議院委員會推出新的加密稅法案，預計將在週三進行標記，影響加密貨幣市場的稅收政策。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold",
+      "link": "https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821",
+      "published": "2026-09-15T11:50:30+00:00",
+      "summary": "Standard Chartered sees Arbitrum at $10 by 2030, projecting a roughly 70-fold increase as tokenization grows and TradFi firms move onchain.",
+      "title_zh": "渣打銀行預測Arbitrum到2030年底將達到10美元，漲幅70倍",
+      "summary_zh": "渣打銀行對Arbitrum的未來持樂觀態度，預計其價格將在2030年前大幅上漲。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+      "published": "2026-09-15T11:15:44+00:00",
+      "summary": "",
+      "title_zh": "如果《明確法案》進展，Ether、Solana和XRP可能會上漲",
+      "summary_zh": "專家認為，隨著《明確法案》的推進，Ether、Solana和XRP的價格有望上升。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+      "link": "https://decrypt.co/378183/solana-defi-development-corp-chad",
+      "published": "2026-09-15T11:01:04+00:00",
+      "summary": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
+      "title_zh": "Solana財政公司DeFi Dev Corp推出3億美元CHAD以購買更多SOL",
+      "summary_zh": "DeFi Dev Corp計劃通過推出3億美元的CHAD來增持Solana（SOL）代幣。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why banks should stop worrying and learn to love the Clarity Act",
+      "link": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
+      "published": "2026-09-15T11:00:00+00:00",
+      "summary": "",
+      "title_zh": "為何銀行應停止擔憂並學會喜愛《明確法案》",
+      "summary_zh": "專家建議銀行應該適應《明確法案》，這將有助於促進加密貨幣的合法化和發展。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
+      "link": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
+      "published": "2026-09-15T11:00:00+00:00",
+      "summary": "",
+      "title_zh": "Velocity將A輪融資擴展至4800萬美元，估值達2億美元，獲Visa、Circle和Ripple支持",
+      "summary_zh": "Velocity成功擴大A輪融資，吸引多家知名企業的支持，顯示出市場對其業務的信心。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
+      "published": "2026-09-15T10:41:35+00:00",
+      "summary": "",
+      "title_zh": "隨著《明確法案》的機會減少，比特幣回吐週一的漲幅",
+      "summary_zh": "比特幣因市場對《明確法案》的信心減弱而回落，失去了週一的漲幅。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+      "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+      "published": "2026-09-15T10:27:55+00:00",
+      "summary": "",
+      "title_zh": "一個簡單的編碼錯誤讓黑客從加密錢包中盜取780萬美元",
+      "summary_zh": "由於編碼錯誤，黑客成功盜取了780萬美元的加密資產，提醒業界注意安全問題。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
+      "link": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
+      "published": "2026-09-15T10:06:40+00:00",
+      "summary": "",
+      "title_zh": "尼格爾·法拉奇支持的Stack BTC計劃以1600萬美元收購一家金商以資助比特幣購買",
+      "summary_zh": "Stack BTC計劃收購金商，旨在利用資金進一步增持比特幣，顯示出對加密市場的信心。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US House crypto tax package omits mining, staking reward deferral",
+      "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T10:04:21+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US House crypto tax package omits mining, staking reward deferral\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J6TX6A7KEPZNSA4AMER8KE/regulations-us-tax.jpg\" /></p><p>The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged.</p>",
+      "title_zh": "美國眾議院的加密稅包裹省略了挖礦和質押獎勵的延期",
+      "summary_zh": "新的加密稅法案未包括挖礦和質押獎勵的延期，可能影響相關行業的發展。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+      "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T09:40:27+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum, Base wallet standards talks fail, Ethlabs researcher says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J4CY20932Q9DX6CEYR4793/robotethereum.jpg\" /></p><p>Ethereum and Base are pursuing different account abstraction designs after talks failed, according to Ethlabs researcher Derek Chiang.</p>",
+      "title_zh": "以太坊、Base 錢包標準會談失敗，Ethlabs 研究員表示",
+      "summary_zh": "以太坊和 Base 錢包的標準會談未能達成共識，對未來發展造成影響。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum",
+      "link": "https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807",
+      "published": "2026-09-15T09:35:02+00:00",
+      "summary": "Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.",
+      "title_zh": "Tonkeeper 重新品牌為 Keeper，支持包括比特幣和以太坊在內的 7 個網絡",
+      "summary_zh": "Tonkeeper 更名為 Keeper，並擴展支持多達 7 種區塊鏈網絡，增強用戶體驗。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ark Invest sells $14 million in Circle, trims Coinbase as crypto stocks rally",
+      "link": "https://www.theblock.co/news/business/2026-09-15-ark-invest-sells-circle-coinbase-414811",
+      "published": "2026-09-15T09:32:31+00:00",
+      "summary": "The Cathie Wood-led investment firm routinely adds and trims its crypto stock holdings throughout the year.",
+      "title_zh": "Ark Invest 出售 1400 萬美元 Circle 股票，減持 Coinbase 隨加密股反彈",
+      "summary_zh": "Ark Invest 在加密貨幣股市回暖之際，出售部分 Circle 股票並減持 Coinbase。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
+      "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
+      "published": "2026-09-15T09:30:58+00:00",
+      "summary": "",
+      "title_zh": "香港加密貨幣交易所 CoinEx 在營運 9 年後將停止運作",
+      "summary_zh": "CoinEx 宣布結束營運，這對香港的加密貨幣市場造成影響。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
+      "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T09:30:31+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J63GGEEN1J9P0Q9KPEPHYH/hodler-investment-bitcoin.jpg\" /></p><p>Bitcoin short-term holders approached a full month in partial profit as analysis saw improving odds of an enduring bullish BTC price reversal.</p>",
+      "title_zh": "比特幣短期持有者在牛市機會改善下，迎來 30 天盈利連續期",
+      "summary_zh": "隨著市場情緒回暖，比特幣短期持有者連續 30 天實現盈利。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
+      "link": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
+      "published": "2026-09-15T09:01:05+00:00",
+      "summary": "The asset manager funded the entire purchase through preferred stock, pushing SATA's notional value past $1 billion for the first time.",
+      "title_zh": "Strive 的比特幣儲備在購買 3660 萬美元後達到 25000 BTC",
+      "summary_zh": "Strive 透過大規模購買，將其比特幣儲備提升至 25000 BTC。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
+      "link": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T08:46:35+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0JSDM845NTQMSBRH4G509/stablecoin-tetherr.png\" /></p><p>Tether froze $61.19 million across 10 Tron addresses in 2025 that prosecutors allege were connected to black-market Iranian oil proceeds.</p>",
+      "title_zh": "美國尋求 6100 萬美元 USDT，涉嫌與制裁的伊朗石油銷售有關",
+      "summary_zh": "美國政府追查與伊朗石油銷售相關的 USDT 資金，涉案金額高達 6100 萬美元。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Solana more than triples transaction size limit with mainnet upgrade",
+      "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T08:18:53+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana more than triples transaction size limit with mainnet upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0C2PCAGZC7WZDC6R7BJFX/hi-solana-ecosystem-expands-institutional-push-with-europe-focused-research-arm-1.jpg\" /></p><p>Solana raised its transaction size limit to 4,096 bytes, giving developers more room for zero-knowledge proofs and transactions with multiple sign",
+      "title_zh": "Solana 透過主網升級將交易大小限制提高三倍以上",
+      "summary_zh": "Solana 進行主網升級，顯著提高交易大小限制，提升網絡效率。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum",
+      "link": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
+      "published": "2026-09-15T07:05:03+00:00",
+      "summary": "Users get confidential access to 12 existing Morpho vaults on Ethereum, while another four have been created as confidential-only products.",
+      "title_zh": "Zama 擴展保密 Morpho 系列，首個金庫達到 4000 萬美元，推出以太坊私密交換",
+      "summary_zh": "Zama 推出新的 Morpho 產品線，並在以太坊上啟動私密交換功能。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Clarity Act fails in Senate, sending crypto lower",
+      "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
+      "published": "2026-09-15T06:37:24+00:00",
+      "summary": "",
+      "title_zh": "即時更新：清晰法案在參議院失敗，加密貨幣市場下跌",
+      "summary_zh": "清晰法案在參議院未能通過，導致加密貨幣市場出現下跌。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto exchange CoinEx to shut down after 9 years, citing market slump",
+      "link": "https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788",
+      "published": "2026-09-15T06:22:17+00:00",
+      "summary": "The exchange blamed a long market slump, shrinking volume and liquidity, and rising regulatory and compliance costs.",
+      "title_zh": "加密貨幣交易所 CoinEx 宣布在運營九年後關閉，原因為市場低迷",
+      "summary_zh": "CoinEx 宣布因市場萎縮將停止運營，結束九年的歷程。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+      "link": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
+      "published": "2026-09-15T05:58:41+00:00",
+      "summary": "",
+      "title_zh": "XRP Ledger 距離啟動下一次重大支付升級僅差一票",
+      "summary_zh": "XRP Ledger 即將進行重要升級，只需再獲得一票支持。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
+      "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T05:32:12+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HQJ6Z513GQZPG3QPPMTZFF/clarity.png\" /></p><p>Banking groups also said the GOP’s final text leaves stablecoin reward loopholes, while tribal gaming interests warn that its prediction market provisions threaten tribal sovereignty.</p>",
+      "title_zh": "CLARITY 法案的通過機率降至 16%，主要民主黨人抵制共和黨的‘最終’提議",
+      "summary_zh": "CLARITY 法案面臨挑戰，民主黨人對共和黨的提議持保留態度。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Balancer proposes winding down protocol and distributing treasury to BAL holders",
+      "link": "https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782",
+      "published": "2026-09-15T05:29:13+00:00",
+      "summary": "The proposal comes six months after corporate entity Balancer Labs shut down operations, citing a 2025 exploit that drained $128 million.",
+      "title_zh": "Balancer 提議結束協議並將財庫分配給 BAL 持有者",
+      "summary_zh": "Balancer 計劃結束其協議，並將資金分配給持有者。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+      "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+      "published": "2026-09-15T05:12:06+00:00",
+      "summary": "",
+      "title_zh": "美國司法部要求 6100 萬美元，指控伊朗的加密貨幣洗錢黑市石油銷售",
+      "summary_zh": "美國司法部針對伊朗的洗錢行為提出索賠，金額高達6100萬美元。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ethereum, Base developers abandon effort to align account abstraction proposals",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775",
+      "published": "2026-09-15T04:35:26+00:00",
+      "summary": "The talks to align two proposals, EIP-8130 and EIP-8141, fell short of a shared standard after the two sides diverged on priorities.",
+      "title_zh": "以太坊和 Base 開發者放棄協調帳戶抽象提案的努力",
+      "summary_zh": "以太坊和 Base 的開發者決定不再推進帳戶抽象的協調工作。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
+      "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+      "published": "2026-09-15T04:34:10+00:00",
+      "summary": "",
+      "title_zh": "Solana 交易量增長超過三倍，縮小與以太坊的差距",
+      "summary_zh": "Solana 的交易量大幅增長，逐漸縮小與以太坊的差距。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
+      "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T04:19:16+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HV2WP39A13M6VPCXQJBABW/single-leaf-on-tree-balance.png\" /></p><p>CoinEx said falling trading volumes and liquidity, along with rising regulatory and compliance costs, had exceeded “reasonable boundaries,” with withdrawals remaining open until Dec. 22.</",
+      "title_zh": "CoinEx 宣布在九年後停止運營，原因為‘顯著’的加密貨幣收縮",
+      "summary_zh": "CoinEx 因市場收縮而決定結束九年的運營。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
+      "link": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
+      "published": "2026-09-15T04:09:01+00:00",
+      "summary": "",
+      "title_zh": "民主黨向共和黨發送 CLARITY 法案條款的反提議",
+      "summary_zh": "民主黨針對 CLARITY 法案提出反提議，試圖達成共識。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance",
+      "link": "https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768",
+      "published": "2026-09-15T04:01:48+00:00",
+      "summary": "Prosecutors alleged that two Chinese companies used Binance to launder those funds to Iran and its proxies.",
+      "title_zh": "美國司法部要求 6100 萬美元，追查在幣安洗錢的伊朗石油銷售所得",
+      "summary_zh": "美國司法部針對在幣安進行的伊朗石油洗錢行為提出索賠。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
+      "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T03:33:23+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Balancer eyes wind-down after restructuring fails to revive revenue \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HHXN4JX4VQKB9WX83V8K8J/single-leaf-on-tree-balancer.jpg\" /></p><p>Balancer cut costs and shipped new products after restructuring, but Marcus Hardt says v3 failed to replace legacy revenue as November’s $128 million exploit continued to weigh on adoption. </p>",
+      "title_zh": "Balancer 在重組未能恢復收入後考慮結束運營",
+      "summary_zh": "Balancer 因重組失敗，面臨結束運營的選擇，顯示出其財務狀況的困難。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
+      "published": "2026-09-15T03:27:38+00:00",
+      "summary": "",
+      "title_zh": "美國眾議院小組在本週聽證會前分享加密貨幣稅法案",
+      "summary_zh": "美國眾議院小組針對加密貨幣的稅法案進行討論，為即將舉行的聽證會做準備。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
+      "published": "2026-09-15T03:23:28+00:00",
+      "summary": "",
+      "title_zh": "比特幣跌至77,800美元，隨著參議院CLARITY法案投票臨近及油價上漲",
+      "summary_zh": "比特幣價格下滑，與參議院即將進行的CLARITY法案投票及油價上漲有關。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
+      "link": "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-09-15T00:46:15+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2H8AP988B45330TXZG3C9KM/republicans-vs-democrats.jpg\" /></p><p>Some Democrats remain dissatisfied with the bill’s crypto ethics provisions and will be sending a counterproposal just hours before a key procedural vote. </p>",
+      "title_zh": "民主黨對共和黨的‘最終’CLARITY提議提出反提案：Politico",
+      "summary_zh": "民主黨針對共和黨的CLARITY提議提出反提案，顯示出雙方在政策上的分歧。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 75393,
+      "price_change_24h": -4.35621,
+      "volume_24h": 39303854902,
+      "high_30d": 81264.70153,
+      "low_30d": 62843.703685,
+      "rsi": 55.2,
+      "sma7": 77098.301781,
+      "sma20": 78277.909963,
+      "ema12": 77431.483826,
+      "ema26": 76137.808372,
+      "signal": "均線空頭"
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2388.66,
+      "price_change_24h": -6.49322,
+      "volume_24h": 19333505534,
+      "high_30d": 2525.267262,
+      "low_30d": 1874.401898,
+      "rsi": 55.94,
+      "sma7": 2474.819771,
+      "sma20": 2467.908762,
+      "ema12": 2465.071343,
+      "ema26": 2398.920672,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 96.78,
+      "price_change_24h": -6.48262,
+      "volume_24h": 3782216519,
+      "high_30d": 109.177306,
+      "low_30d": 74.547746,
+      "rsi": 53.89,
+      "sma7": 100.421449,
+      "sma20": 102.478174,
+      "ema12": 100.726074,
+      "ema26": 98.004499,
+      "signal": "均線空頭"
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 710.61,
+      "price_change_24h": -1.89344,
+      "volume_24h": 986695594,
+      "high_30d": 766.409288,
+      "low_30d": 602.462922,
+      "rsi": 56.54,
+      "sma7": 718.818899,
+      "sma20": 716.579757,
+      "ema12": 719.431542,
+      "ema26": 703.317567,
+      "signal": "均線多頭"
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.28,
+      "price_change_24h": -11.67648,
+      "volume_24h": 5649396141,
+      "high_30d": 1.520505,
+      "low_30d": 0.992707,
+      "rsi": 51.09,
+      "sma7": 1.356365,
+      "sma20": 1.38326,
+      "ema12": 1.364123,
+      "ema26": 1.334532,
+      "signal": "均線空頭"
+    }
+  ],
+  "signals": {
+    "date": "2026-09-16",
+    "fear_greed": {
+      "value": 69,
+      "classification": "Greed",
+      "timestamp": "2026-09-15T00:00:00+00:00",
+      "history": [
+        {
+          "value": 69,
+          "classification": "Greed",
+          "date": "2026-09-15"
+        },
+        {
+          "value": 57,
+          "classification": "Greed",
+          "date": "2026-09-14"
+        },
+        {
+          "value": 61,
+          "classification": "Greed",
+          "date": "2026-09-13"
+        },
+        {
+          "value": 63,
+          "classification": "Greed",
+          "date": "2026-09-12"
+        },
+        {
+          "value": 56,
+          "classification": "Greed",
+          "date": "2026-09-11"
+        },
+        {
+          "value": 69,
+          "classification": "Greed",
+          "date": "2026-09-10"
+        },
+        {
+          "value": 66,
+          "classification": "Greed",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {}
+  }
+}
