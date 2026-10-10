@@ -56,7 +56,8 @@ def fetch_all_market_data(coin_ids: list) -> dict:
             "price_change_percentage": "24h",
         }
         resp = request_with_retry(market_url, params=market_params, timeout=15)
-        return {item["id"]: item for item in resp.json()}
+        fetched_at = datetime.now(TZ_TPE).isoformat()
+        return {item["id"]: {**item, "_fetched_at": fetched_at} for item in resp.json()}
     except Exception as e:
         print(f"[CoinGecko] 批次市場資料抓取失敗: {e}")
         return {}
@@ -138,7 +139,10 @@ def process_coin(symbol: str, coin_id: str, market_info: dict) -> dict:
     prices = fetch_coin_chart(coin_id)
 
     if not market_info or not prices:
-        return {"symbol": symbol, "error": "資料抓取失敗"}
+        return {
+            "symbol": symbol, "error": "資料抓取失敗",
+            "data_quality": {"source": "CoinGecko", "status": "missing", "observed_at": None, "fetched_at": None},
+        }
 
     rsi = calc_rsi(prices)
     sma7 = calc_sma(prices, 7)
@@ -162,6 +166,12 @@ def process_coin(symbol: str, coin_id: str, market_info: dict) -> dict:
         "ema12": ema12,
         "ema26": ema26,
         "signal": signal,
+        "data_quality": {
+            "source": "CoinGecko",
+            "status": "available",
+            "observed_at": market_info.get("last_updated"),
+            "fetched_at": market_info.get("_fetched_at"),
+        },
     }
 
 

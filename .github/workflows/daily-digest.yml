@@ -25,6 +25,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
+      - name: Validate trend data and charts
+        run: |
+          python -m unittest discover -s scripts -p "test_*.py"
+          node --test scripts/test_trends.cjs
+
       - name: Fetch news
         env:
           CRYPTOPANIC_API_KEY: ${{ secrets.CRYPTOPANIC_API_KEY }}
@@ -48,6 +53,9 @@ jobs:
 
       - name: Cleanup old data
         run: python scripts/cleanup_old_data.py
+
+      - name: Build compact trend history
+        run: python scripts/build_trends.py
 
       - name: Commit and push data
         run: |

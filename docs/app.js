@@ -7,6 +7,13 @@
   const btnNext = document.getElementById('btn-next');
   const dateDisplay = document.getElementById('date-display');
   const appContent = document.getElementById('app-content');
+  let reportRevision = 0;
+  const trends = window.CryptoTrends.createController(document.getElementById('trend-content'), function () {
+    return fetch('data/trends.json').then(function (res) {
+      if (!res.ok) throw new Error('Trend history HTTP ' + res.status);
+      return res.json();
+    });
+  });
 
   // ── Utilities ──────────────────────────────────────────────────────────────
 
@@ -94,6 +101,7 @@
         '<div class="fg-label" style="color:' + color + '">' + label + '</div>' +
         '<div class="fg-bar"><div class="fg-bar-fill" style="width:' + fg.value + '%;background:' + color + '"></div></div>' +
         '<div class="fg-history">' + histDots + '</div>' +
+        '<p class="trend-note">來源：<a href="https://alternative.me/crypto/fear-and-greed-index/" target="_blank" rel="noopener noreferrer">Alternative.me</a>（BTC）</p>' +
         '</div>';
     }
 
@@ -236,24 +244,36 @@
   // ── Data loading ───────────────────────────────────────────────────────────
 
   function loadReport(dateStr) {
+    const revision = ++reportRevision;
+    trends.load(dateStr);
     dateDisplay.textContent = dateStr;
     appContent.innerHTML = '<div class="empty-state"><div class="icon">⏳</div><p>載入中...</p></div>';
 
     var url = 'data/' + dateStr + '.json';
     fetch(url)
       .then(function (res) {
-        if (!res.ok) throw new Error('not found');
+        if (!res.ok) {
+          const error = new Error('Report HTTP ' + res.status);
+          error.status = res.status;
+          throw error;
+        }
         return res.json();
       })
       .then(function (data) {
+        if (revision !== reportRevision) return;
         var html = renderSignals(data.signals) +
                    renderMarket(data.market) +
                    renderSummary(data.summary) +
                    renderNews(data.news);
         appContent.innerHTML = html || renderEmpty(dateStr);
       })
-      .catch(function () {
-        appContent.innerHTML = renderEmpty(dateStr);
+      .catch(function (error) {
+        if (revision !== reportRevision) return;
+        if (error.status === 404) appContent.innerHTML = renderEmpty(dateStr);
+        else {
+          console.error('Daily report failed:', error);
+          appContent.innerHTML = '<div class="empty-state"><p>日報載入失敗，請稍後重新選取日期。</p></div>';
+        }
       });
   }
 

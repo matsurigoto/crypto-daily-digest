@@ -334,6 +334,37 @@
     .reddit-post-title { flex: 1; line-height: 1.4; }
     .reddit-post-score { color: #3fb950; white-space: nowrap; }
 
+    .trend-controls { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 0.75rem; }
+    .trend-controls select, #trend-retry {
+      background: #21262d; color: #e6edf3; border: 1px solid #30363d;
+      border-radius: 6px; padding: 0.45rem; font: inherit;
+    }
+    .trend-note { color: #8b949e; font-size: 0.82rem; line-height: 1.7; margin-bottom: 0.75rem; }
+    .trend-note a { color: #58a6ff; }
+    .trend-panel { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1rem; margin: 1rem 0; }
+    .trend-panel h2 { font-size: 1rem; margin-bottom: 0.75rem; }
+    .trend-chart-wrap { overflow-x: auto; }
+    .trend-chart { width: 100%; min-width: 540px; display: block; }
+    .trend-chart text { fill: #8b949e; font-size: 11px; }
+    .trend-chart circle:hover { r: 5; }
+    .trend-legend { display: flex; flex-wrap: wrap; gap: 1rem; font-size: 0.82rem; margin: 0.75rem 0; }
+    .trend-swatch { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 0.4rem; }
+    .trend-data { margin-top: 0.75rem; font-size: 0.82rem; }
+    .trend-data summary { cursor: pointer; color: #58a6ff; padding: 0.5rem 0; }
+    .trend-table-wrap { overflow-x: auto; max-height: 320px; }
+    .trend-data table { border-collapse: collapse; width: 100%; white-space: nowrap; }
+    .trend-data th, .trend-data td { text-align: right; border-bottom: 1px solid #30363d; padding: 0.5rem; }
+    .trend-data th:first-child { text-align: left; }
+    .quality-grid, .return-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 0.75rem; }
+    .quality-card, .return-card { border: 1px solid #30363d; border-radius: 6px; padding: 0.75rem; font-size: 0.78rem; line-height: 1.7; overflow-wrap: anywhere; }
+    .quality-card div { color: #8b949e; }
+    .quality-badge { display: block; color: #e3b341; margin: 0.35rem 0; }
+    .return-card strong { font-size: 0.95rem; }
+    @media (max-width: 480px) {
+      .trend-panel { padding: 0.65rem; }
+      .quality-grid, .return-grid { grid-template-columns: 1fr 1fr; }
+      .trend-controls label { display: flex; align-items: center; gap: 0.4rem; }
+    }
   </style>
   <script src="ads-config.js"></script>
 </head>
@@ -351,6 +382,7 @@
       <span class="date-label" id="date-display"></span>
     </div>
 
+    <div id="trend-content" class="section" aria-label="每日快照趨勢分析"></div>
     <div id="app-content">
       <div class="empty-state">
         <div class="icon">⏳</div>
@@ -359,6 +391,7 @@
     </div>
   </div>
 
+  <script src="trends.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
