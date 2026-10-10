@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T06:15:57.017917+08:00",
+  "summary": "# 加密貨幣每日彙整報告\n\n## 📰 今日重點摘要\n1. **以太坊 ETF 資金流出**：以太坊 ETF 連續九天出現資金流出，顯示市場對以太坊的投資情緒持續低迷。\n2. **壽險公司籌資**：由 Sam Altman 支持的壽險公司Meanwhile 完全依賴比特幣，剛籌集3750萬美元，顯示比特幣在傳統金融中的影響力逐漸增強。\n3. **市場流動性回升**：經過去年10月的快速崩盤後，比特幣和以太坊的流動性已重建，但山寨幣仍面臨市場風險。\n4. **穩定幣與消費者意願**：Visa調查顯示近一半亞太消費者願意在2031年前使用穩定幣，反映市場對穩定幣的接受度提高。\n5. **XRP Ledger 修補漏洞**：XRP Ledger 修補了十年舊漏洞，可能無中生有創造數十億美元的XRP，為市場帶來新的機會。\n\n## 📊 市場概況\n今日整體市場氛圍偏向謹慎，總市值約為2.82萬億美元，顯示出穩定的增長潛力。比特幣（BTC）價格為$82974，漲幅0.72%；以太坊（ETH）則小幅上漲1.13%，目前價格為$2507.3。與此同時，Solana（SOL）維持增長，價格上漲至$110.3，顯示出其在市場中的穩定性。\n\n## 🔍 技術分析解讀\n根據今日技術指標，比特幣的RSI為54.3，顯示出市場仍有一定的上漲潛力，但均線訊號為空頭，暗示短期內可能面臨回調壓力。以太坊的RSI為43.56，顯示出其相對疲弱，且均線訊號同樣為空頭。Solana和BNB的RSI均在中間區域，表明市場情緒不明確，需密切關注未來走勢。\n\n## 😱 市場情緒\n今日恐懼貪婪指數為64，顯示市場情緒處於貪婪區域，這可能會吸引更多投資者進場，但同時也需警惕過熱的市場風險。比特幣的市場佔有率為59.1%，顯示出其在市場中的主導地位仍然強勁。社群情緒普遍樂觀，但需注意近期的資金流出情況。\n\n## ⚠️ 風險提醒\n儘管市場情緒偏向貪婪，但以太坊和其他主要山寨幣的均線空頭訊號顯示出潛在的回調風險。投資者應保持警惕，尤其是在市場波動加劇的情況下，切勿盲目跟風投資。同時，隨著資金流出情況的加劇，市場可能會面臨更大的下行壓力。\n\n## 🎯 今日觀察重點\n- 觀察以太坊 ETF 的資金流出情況是否持續，可能影響以太坊的未來走勢。\n- 注意比特幣與山寨幣的流動性變化，以評估市場整體健康狀況。\n- 密切關注壽險公司Meanwhile的業務進展，及其對比特幣的依賴程度，可能成為未來市場的風向標。\n- 追蹤XRP Ledger的修補進展，這可能對XRP的長期價值產生重大影響。",
+  "news": [
+    {
+      "source": "TheBlock",
+      "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+      "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "published": "2026-10-10T18:35:25+00:00",
+      "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
+      "title_zh": "Kalshi 正在調查在特朗普新聞秘書人選公告前的賭注：華爾街日報",
+      "summary_zh": "Kalshi 正在調查在特朗普選擇新聞秘書之前所下的賭注，可能涉及內幕消息的問題。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "published": "2026-10-10T17:01:03+00:00",
+      "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jurisdiction.",
+      "title_zh": "CFTC 在新規則中劃分預測市場與賭博的界限",
+      "summary_zh": "CFTC 新規則明確區分預測市場與賭博，旨在加強監管和保護消費者。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+      "published": "2026-10-10T16:01:04+00:00",
+      "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.",
+      "title_zh": "這家由 Sam Altman 支持的壽險公司完全依賴比特幣，並剛籌集 3750 萬美元",
+      "summary_zh": "這家壽險公司以比特幣運作，成功籌集資金，顯示加密貨幣在保險業的潛力。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+      "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+      "published": "2026-10-10T15:10:37+00:00",
+      "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
+      "title_zh": "以太坊 ETF 連續九天資金流出，Solana 基金打破 14 週資金流入紀錄",
+      "summary_zh": "以太坊 ETF 面臨資金流出挑戰，而 Solana 基金則創下資金流入的新高。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+      "link": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+      "published": "2026-10-10T15:01:03+00:00",
+      "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up.",
+      "title_zh": "這裡有一種預測 AI 聊天機器人何時會變壞的方法",
+      "summary_zh": "研究人員提出了一種新方法，旨在預測 AI 聊天機器人可能出現的負面行為。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+      "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+      "published": "2026-10-10T13:01:03+00:00",
+      "summary": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
+      "title_zh": "法國委員會支持穩定幣交換稅和加密退出稅，隨後拒絕預算",
+      "summary_zh": "法國委員會在支持加密稅收政策後，卻拒絕了相關預算，顯示政策的矛盾。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-10T12:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "今天的加密貨幣市場動態包括價格變化和重要事件，影響投資者情緒。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "published": "2026-10-10T12:00:00+00:00",
+      "summary": "",
+      "title_zh": "在 10/10 快速崩盤一年後，比特幣和以太坊流動性已重建，但山寨幣仍面臨風險",
+      "summary_zh": "儘管比特幣和以太坊的流動性恢復，但山寨幣市場仍然存在不穩定的風險。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "published": "2026-10-10T12:00:00+00:00",
+      "summary": "",
+      "title_zh": "代幣化商品超越黃金，貸款和石油開啟新市場",
+      "summary_zh": "代幣化商品的興起促使市場多樣化，貸款和石油成為新的投資機會。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-10T11:52:14+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Justin Sun says Tron’s post-quantum cryptography has gone live on testnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JTDX55MBW63WXCMHPNB3P5/justin-sun.png\" /></p><p>“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.</p>",
+      "title_zh": "Justin Sun 表示 Tron 的後量子密碼學已在測試網上啟用",
+      "summary_zh": "Justin Sun 宣布 Tron 成功實現後量子密碼學，提升了其安全性和技術前瞻性。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "published": "2026-10-10T11:00:00+00:00",
+      "summary": "",
+      "title_zh": "比特幣190億美元的警鐘：閃電崩盤一年後，加密貨幣學到了什麼？",
+      "summary_zh": "比特幣在經歷了一次重大崩盤後，市場反應及學習狀況成為焦點，投資者關注未來的風險管理。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tech chief says EU can fend off rogue AI risk: Report",
+      "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-10T08:41:06+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech chief says EU can fend off rogue AI risk: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JFDB4ND4321Z9KER496JAS/ai-machine-cyber-mind-google.png\" /></p><p>There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control.</p>",
+      "title_zh": "科技首席表示歐盟能抵禦流氓AI風險：報導",
+      "summary_zh": "一位科技領袖指出，歐盟具備能力應對流氓AI的潛在威脅，強調監管的重要性。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-10T07:10:43+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JA710W3MTHS923BYD1G7PT/hi-the-increasingly-acute-need-for-crypto-native-insurance.png\" /></p><p>The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.</p>",
+      "title_zh": "山姆·奧特曼支持的比特幣壽險公司Meanwhile籌集更多資金",
+      "summary_zh": "Meanwhile公司在山姆·奧特曼的支持下成功籌集資金，進一步推動比特幣壽險市場的發展。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "published": "2026-10-10T05:43:00+00:00",
+      "summary": "",
+      "title_zh": "比特幣的波動性已下降，但極端價格波動比2018年更頻繁",
+      "summary_zh": "儘管比特幣的整體波動性減少，但市場上仍出現更頻繁的劇烈價格變動，引發投資者擔憂。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "published": "2026-10-10T04:44:35+00:00",
+      "summary": "",
+      "title_zh": "羅賓漢鏈的放緩從費用擴散到交易，交易量下降超過40%",
+      "summary_zh": "羅賓漢平台的交易量大幅下降，顯示出用戶活動減少，影響整體業務運作。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "published": "2026-10-10T04:20:07+00:00",
+      "summary": "",
+      "title_zh": "XRP Ledger修補十年舊漏洞，可能無中生有創造數十億美元XRP",
+      "summary_zh": "XRP Ledger修復了一個長期存在的漏洞，這可能導致大量XRP的非法創造，引發市場關注。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "published": "2026-10-10T03:00:00+00:00",
+      "summary": "",
+      "title_zh": "Visa調查顯示近一半亞太消費者願意在2031年前使用穩定幣",
+      "summary_zh": "根據Visa的調查，亞太地區的消費者對穩定幣的接受度逐漸提高，顯示出未來的支付趨勢。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 82974,
+      "price_change_24h": 0.71552,
+      "volume_24h": 15183856526,
+      "high_30d": 86596.740042,
+      "low_30d": 75590.24472,
+      "rsi": 54.3,
+      "sma7": 84043.86469,
+      "sma20": 84378.752312,
+      "ema12": 83623.783963,
+      "ema26": 82709.448529,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-10T22:13:50.000Z",
+        "fetched_at": "2026-10-11T06:14:33.362954+08:00"
+      }
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2507.3,
+      "price_change_24h": 1.12927,
+      "volume_24h": 5603740975,
+      "high_30d": 2775.168683,
+      "low_30d": 2397.49726,
+      "rsi": 43.56,
+      "sma7": 2596.069403,
+      "sma20": 2662.79669,
+      "ema12": 2598.492654,
+      "ema26": 2602.62243,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-10T22:13:50.000Z",
+        "fetched_at": "2026-10-11T06:14:33.362954+08:00"
+      }
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 110.3,
+      "price_change_24h": 1.51135,
+      "volume_24h": 1545756894,
+      "high_30d": 122.080985,
+      "low_30d": 96.873485,
+      "rsi": 47.79,
+      "sma7": 115.437249,
+      "sma20": 117.768811,
+      "ema12": 114.964595,
+      "ema26": 113.557184,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-10T22:13:50.000Z",
+        "fetched_at": "2026-10-11T06:14:33.362954+08:00"
+      }
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 750.21,
+      "price_change_24h": 1.29614,
+      "volume_24h": 465425631,
+      "high_30d": 799.136663,
+      "low_30d": 708.427849,
+      "rsi": 49.94,
+      "sma7": 765.736881,
+      "sma20": 771.851153,
+      "ema12": 762.731854,
+      "ema26": 758.933414,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-10T22:13:50.000Z",
+        "fetched_at": "2026-10-11T06:14:33.362954+08:00"
+      }
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.41,
+      "price_change_24h": 1.10878,
+      "volume_24h": 868332630,
+      "high_30d": 1.571302,
+      "low_30d": 1.28328,
+      "rsi": 46.81,
+      "sma7": 1.446276,
+      "sma20": 1.490875,
+      "ema12": 1.447986,
+      "ema26": 1.445247,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-10T22:13:50.000Z",
+        "fetched_at": "2026-10-11T06:14:33.362954+08:00"
+      }
+    }
+  ],
+  "signals": {
+    "date": "2026-10-11",
+    "fear_greed": {
+      "value": 64,
+      "classification": "Greed",
+      "timestamp": "2026-10-10T00:00:00+00:00",
+      "history": [
+        {
+          "value": 64,
+          "classification": "Greed",
+          "date": "2026-10-10"
+        },
+        {
+          "value": 59,
+          "classification": "Greed",
+          "date": "2026-10-09"
+        },
+        {
+          "value": 64,
+          "classification": "Greed",
+          "date": "2026-10-08"
+        },
+        {
+          "value": 71,
+          "classification": "Greed",
+          "date": "2026-10-07"
+        },
+        {
+          "value": 73,
+          "classification": "Greed",
+          "date": "2026-10-06"
+        },
+        {
+          "value": 70,
+          "classification": "Greed",
+          "date": "2026-10-05"
+        },
+        {
+          "value": 65,
+          "classification": "Greed",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {
+      "btc_dominance": 59.1,
+      "total_market_cap_usd": 2816002563491.984,
+      "active_cryptocurrencies": 22139,
+      "btc_circulating_supply": 20096306.0,
+      "btc_max_supply": 21000000.0,
+      "btc_supply_ratio": 95.7,
+      "btc_volume_24h": 15200395069
+    },
+    "data_quality": {
+      "fear_greed": {
+        "source": "Alternative.me",
+        "status": "available",
+        "observed_at": "2026-10-10T00:00:00+00:00",
+        "fetched_at": "2026-10-11T06:15:34.430386+08:00"
+      },
+      "reddit_sentiment": {
+        "source": "Reddit",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      },
+      "onchain": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": null,
+        "fetched_at": "2026-10-11T06:15:46.921357+08:00"
+      }
+    }
+  }
+}
