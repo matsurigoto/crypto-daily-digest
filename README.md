@@ -42,6 +42,49 @@
 - 🗑️ 自動清理超過 180 天的舊資料
 - 📱 選擇性 Telegram 通知
 
+## 趨勢分析
+
+新增 7／30／90 日價格與 SMA7/20 圖、五幣相對強弱、恐懼貪婪歷史與 BTC 對照，以及資料品質卡片。
+沿用每日報告，不增加行情 API 請求、付費後端或外部圖表腳本。
+圖表以選取的日報日期為截止日，價格是**每日觀察快照，不是即時行情、正式收盤價或 OHLC K 線**。
+SMA 使用當日日報原本保存的指標，不從快照重新計算；缺資料時斷線、不補零。
+可展開資料表查看日期與數值，手機可橫向滑動圖表。
+
+相對強弱以至少有兩筆有效價格的幣種共同有效日期為起點，設為 0%。
+各幣卡片顯示最後有效觀察日期與覆蓋率，不足以比較時明確說明。
+恐懼貪婪按來源 UTC 日期去重，只顯示截至選取日報日期已可取得的觀察，
+與 BTC 共用日期範圍但不是同一瞬間；情緒與價格變化不代表因果或買賣訊號。
+
+新報告保存可取得的來源／抓取時間；舊報告缺少欄位時顯示「未知」，
+不把報告產生時間冒充來源更新時間。來源比當時報告時間早超過 36 小時時標為陳舊，
+正常歷史檢視不會因距離今天很久就被誤判。Reddit 或市場概況不可用時顯示缺值，
+本次不新增來源替代。
+
+每日 workflow 在清理後執行 `scripts/build_trends.py`，產生 `docs/data/trends.json`。
+前端只載入一份精簡歷史，不下載全部新聞日報。首次部署或手動變更日報後執行：
+
+```sh
+python scripts/build_trends.py
+```
+
+腳本不呼叫外部 API；損壞或日期不一致的日報會明確失敗，不悄悄略過。
+趨勢檔載入失敗可重試，不影響單日日報。歷史受約 180 天保留政策限制，不支援多年回測。
+
+行情由 [CoinGecko](https://www.coingecko.com/) 提供，BTC 恐懼貪婪由
+[Alternative.me](https://alternative.me/crypto/fear-and-greed-index/) 提供，資料旁保留來源連結。
+新增功能的 API 訂閱費目標為 $0，但既有 OpenAI、Actions 額度與資料授權仍需計入。
+啟用廣告或其他商業用途前，必須核實
+[CoinGecko 最新授權與方案](https://www.coingecko.com/en/api/pricing)；官方目前將商用授權列於付費方案。
+Alternative.me 允許商用但要求資料旁來源標示。
+
+功能驗證：
+
+```sh
+python -m unittest discover -s scripts -p "test_build_trends.py"
+python -m unittest discover -s scripts -p "test_collector_quality.py"
+node --test scripts/test_trends.cjs
+```
+
 ## 快速開始
 
 ### 1. 設定 GitHub Secrets
@@ -77,10 +120,11 @@
 | 項目 | 費用 |
 |---|---|
 | GitHub Actions | 免費（公開倉庫） |
-| CoinGecko API | 免費（有限速） |
-| OpenAI GPT-4o-mini | 約 $0.01–0.03 / 天 |
-| CryptoPanic API | 免費方案可用 |
-| **每月合計** | **約 $0.3–1 USD** |
+| CoinGecko API | 免費方案有限額；商用授權須另確認 |
+| OpenAI GPT-4o-mini | 原估約 $0.01–0.03 / 天；翻譯、摘要與重試以實際用量為準 |
+| CryptoPanic API | 可選，最新額度與價格須查官方方案 |
+| 趨勢圖功能 | 不新增行情 API 請求或訂閱 |
+| **每月合計** | **原估約 $0.3–1 USD，非實測帳單，未包含可能的授權費** |
 
 ## 目錄結構
 
@@ -94,13 +138,16 @@ crypto-daily-digest/
 │   ├── fetch_news.py          # 新聞抓取（RSS + CryptoPanic）
 │   ├── fetch_market.py        # 市場資料 + 技術指標（CoinGecko）
 │   ├── generate_summary.py    # AI 摘要產生（OpenAI）
-│   └── cleanup_old_data.py    # 自動清理舊資料
+│   ├── cleanup_old_data.py    # 自動清理舊資料
+│   └── build_trends.py        # 從日報建立精簡趨勢資料
 ├── docs/
 │   ├── index.html             # GitHub Pages 首頁
 │   ├── app.js                 # 前端 JavaScript
+│   ├── trends.js              # 資料品質與原生 SVG 趨勢圖
 │   ├── ads-config.js          # Google Adsense 廣告設定
 │   └── data/
 │       ├── .gitkeep           # 確保目錄存在
+│       ├── trends.json        # 保留日報的精簡趨勢資料
 │       └── YYYY-MM-DD.json    # 每日報告（自動產生）
 └── README.md
 ```

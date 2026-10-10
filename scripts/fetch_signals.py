@@ -161,18 +161,35 @@ def main():
 
     print("抓取恐懼貪婪指數 ...")
     fear_greed = fetch_fear_greed()
+    fear_greed_fetched_at = datetime.now(TZ_TPE).isoformat() if fear_greed else None
 
     print("抓取 Reddit 社群情緒 ...")
     reddit_sentiment = fetch_reddit_sentiment()
+    reddit_fetched_at = datetime.now(TZ_TPE).isoformat() if reddit_sentiment else None
 
     print("抓取 BTC 鏈上資料 ...")
     onchain = fetch_onchain()
+    onchain_fetched_at = datetime.now(TZ_TPE).isoformat() if onchain else None
 
     output = {
         "date": TODAY,
         "fear_greed": fear_greed,
         "reddit_sentiment": reddit_sentiment,
         "onchain": onchain,
+        "data_quality": {
+            "fear_greed": {
+                "source": "Alternative.me", "status": "available" if fear_greed else "missing",
+                "observed_at": fear_greed.get("timestamp"), "fetched_at": fear_greed_fetched_at,
+            },
+            "reddit_sentiment": {
+                "source": "Reddit", "status": "available" if reddit_sentiment else "missing",
+                "observed_at": None, "fetched_at": reddit_fetched_at,
+            },
+            "onchain": {
+                "source": "CoinGecko", "status": "available" if onchain else "missing",
+                "observed_at": None, "fetched_at": onchain_fetched_at,
+            },
+        },
     }
 
     os.makedirs(DATA_DIR, exist_ok=True)
