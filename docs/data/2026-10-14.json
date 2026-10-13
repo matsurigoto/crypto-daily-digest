@@ -1,0 +1,725 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T06:14:14.539339+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. BNY 與 Citadel Securities 正在測試代幣化美國國債，以加速華爾街融資。\n2. 幣安宣布關閉比特幣挖礦池，引發市場關注。\n3. Strive 購買了 2.8 億美元的比特幣，成為數月來最大的一次購買。\n4. 美國證券交易委員會缺乏領導，可能促進加密貨幣規範的制定。\n5. 比特幣持續施壓於 8.4 萬美元，市場情緒仍然偏向貪婪。\n\n## 📊 市場概況\n今日加密貨幣市場波動不大，主流幣如比特幣（BTC）報價約 83,363 美元，輕微上漲 0.82%。以太坊（ETH）則報價 2,508.04 美元，亦小幅上漲 0.53%。然而，Solana（SOL）、BNB 和 XRP 的價格表現不佳，顯示出整體市場存在壓力。市場的整體氛圍仍然受到較高的貪婪指數影響，顯示投資者情緒相對樂觀。\n\n## 🔍 技術分析解讀\n比特幣的 RSI 指標為 55.58，顯示出目前的價格仍在中性區間，但均線訊號顯示空頭趨勢。以太坊的 RSI 則為 45.97，接近超賣區，顯示出可能的反彈潛力，但同樣受到均線空頭的影響。其他幣種如 SOL、BNB 和 XRP 的 RSI 均顯示出空頭信號，暗示短期內可能存在下行風險。\n\n## 😱 市場情緒\n今日的恐懼貪婪指數為 57，顯示市場情緒偏向貪婪。這反映出投資者對於市場的未來表現持樂觀態度，然而，過度的貪婪可能會增加市場調整的風險。社群情緒方面，對於近期幣安關閉比特幣挖礦池的消息引發了一定的擔憂，但整體仍然認為市場會持續向上。\n\n## ⚠️ 風險提醒\n隨著市場情緒的高漲，投資者需謹慎對待潛在的回調風險。特別是在比特幣和其他主流幣的價格接近重要心理價位時，可能會引發更大的市場波動。此外，幣安關閉挖礦池的消息可能影響長期投資者的信心，應密切關注相關動態。\n\n## 🎯 今日觀察重點\n未來幾日將密切關注美國證券交易委員會的動態，特別是其對加密貨幣規範的影響。此外，Strive 的大額比特幣購買可能會對市場情緒產生影響，值得持續觀察。同時，監控市場對於幣安挖礦池關閉的反應，以及主流幣的技術指標變化，將是投資者的重要任務。",
+  "news": [
+    {
+      "source": "CoinDesk",
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "published": "2026-10-13T21:52:00+00:00",
+      "summary": "",
+      "title_zh": "BNY、Citadel Securities 測試代幣化美國國債以加速華爾街融資",
+      "summary_zh": "BNY和Citadel Securities正在測試代幣化的美國國債，旨在提升華爾街的融資效率。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+      "link": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+      "published": "2026-10-13T21:46:04+00:00",
+      "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
+      "title_zh": "OpenAI 工程師因竊聽辦公室被捕，公司表示 AI 捕捉到了他",
+      "summary_zh": "一名OpenAI工程師因在辦公室安裝竊聽設備被捕，據稱是AI技術揭發了他的行為。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+      "link": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+      "published": "2026-10-13T21:16:04+00:00",
+      "summary": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
+      "title_zh": "Character.AI 申請破產，迪士尼出價 2000 萬美元，並提供用戶心理支持資源",
+      "summary_zh": "Character.AI申請破產，迪士尼出價收購並提供用戶心理支持資源以應對困境。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+      "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+      "published": "2026-10-13T20:16:03+00:00",
+      "summary": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
+      "title_zh": "幣安在運營六年後關閉比特幣挖礦池",
+      "summary_zh": "幣安宣布關閉其比特幣挖礦池，結束了六年的運營。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T19:48:06+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VA9NB54GWFZ29JZYNA4293/hi-how-ripple-plans-to-bridge-crypto-and-wall-street.jpg\" /></p><p>Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.\n</p>",
+      "title_zh": "大多數代幣化股票交易在 Solana 和 BNB 鏈上發生在美國市場以外的交易時間",
+      "summary_zh": "Solana和BNB鏈上的代幣化股票交易大多在美國市場以外的時間進行。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+      "link": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+      "published": "2026-10-13T19:38:12+00:00",
+      "summary": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.",
+      "title_zh": "自2020年以來每次崩盤都未賣出的比特幣鯨魚剛剛轉移了3.77億美元",
+      "summary_zh": "一位比特幣鯨魚在經歷多次市場崩盤後，最近轉移了價值3.77億美元的比特幣。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T19:33:57+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "今天的加密貨幣市場發生了多起重要事件，影響了市場走勢。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "link": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T19:07:04+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4V7NT6A2R3BAJ7Y8P67T68T/hi-wallets.jpg\" /></p><p>CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.</p>",
+      "title_zh": "Trezor 減少轉售商作為防範措施，因 Ledger 竄改報告",
+      "summary_zh": "Trezor因應Ledger竄改報告，決定減少其轉售商以加強安全性。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+      "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+      "published": "2026-10-13T18:15:05+00:00",
+      "summary": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
+      "title_zh": "Strive 購買2.8億美元的比特幣，為數月來最大的一次購買",
+      "summary_zh": "Strive最近進行了2.8億美元的比特幣購買，這是數月以來的最大交易。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
+      "link": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
+      "published": "2026-10-13T17:37:46+00:00",
+      "summary": "Palantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI.",
+      "title_zh": "AI 研究人員吸煙以證明 AI 將治癒癌症，Palantir 執行官表示",
+      "summary_zh": "Palantir的一位高管表示，AI研究人員吸煙是為了證明AI能夠治癒癌症。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+      "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T16:51:25+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How the SEC’s lack of leadership could facilitate crypto rulemaking \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TVYVZ1FNMZJVJ3R95B1ES5/sec-meeting-edited.png\" /></p><p>A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.</p>",
+      "title_zh": "美國證券交易委員會缺乏領導可能促進加密貨幣規範制定",
+      "summary_zh": "美國證券交易委員會的領導空缺可能使加密貨幣的規範制定變得更加容易。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
+      "link": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
+      "published": "2026-10-13T16:46:05+00:00",
+      "summary": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.",
+      "title_zh": "比特幣擺脫恐怖季節的緊張情緒：牛市能否持續？",
+      "summary_zh": "比特幣在恐怖季節中表現穩定，市場關注牛市能否繼續上漲。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "link": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+      "published": "2026-10-13T16:14:50+00:00",
+      "summary": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
+      "title_zh": "Trezor 削減經銷商，因 Ledger 在加密錢包中發現間諜植入物",
+      "summary_zh": "Trezor 為了安全考量，決定削減經銷商，因 Ledger 發現安全漏洞。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+      "link": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
+      "published": "2026-10-13T16:00:00+00:00",
+      "summary": "Developers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402.",
+      "title_zh": "Ripple 和 Stripe 擁有的 Privy 合作將嵌入式錢包帶入 XRP Ledger",
+      "summary_zh": "Ripple 與 Privy 的合作將嵌入式錢包功能引入 XRP Ledger，擴大其應用範圍。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+      "link": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T15:57:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive reports $208M in warrant exercises as Bitcoin holdings jump 11% \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TW19B9G4WJ5289S60N1QGE/bitcoin-reserve.jpg\" /></p><p>Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.\n</p>",
+      "title_zh": "Strive 報告 2.08 億美元的認股權證行使，隨著比特幣持有量增長 11%",
+      "summary_zh": "Strive 的認股權證行使量顯著增加，與比特幣持有量的增長相呼應。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
+      "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "published": "2026-10-13T15:52:09+00:00",
+      "summary": "",
+      "title_zh": "加密貨幣交易所 MNX 挑戰 OKX 和 Bitget，提供 AI 巨頭的 IPO 前期貨",
+      "summary_zh": "MNX 進軍市場，推出針對 AI 巨頭的 IPO 前期貨，挑戰主要競爭對手。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+      "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T15:27:32+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TWQ4KGPDP463T3P3N9YZ3N/hi-japan-ipo-stocks-explained2-960x644.webp\" /></p><p>Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.</p>",
+      "title_zh": "比特幣持續施壓 8.4 萬美元，美國股市避開韓國科技股拋售",
+      "summary_zh": "比特幣價格持續接近 8.4 萬美元，而美國股市則避免了韓國科技股的拋售影響。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
+      "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+      "published": "2026-10-13T15:24:52+00:00",
+      "summary": "",
+      "title_zh": "英國加密貨幣交易者稱在刀具襲擊中損失近 80 萬美元，扳手襲擊事件增多",
+      "summary_zh": "一名英國加密貨幣交易者報告在刀具襲擊中損失慘重，社會安全問題引發關注。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+      "published": "2026-10-13T15:24:14+00:00",
+      "summary": "Interactive Brokers now lets eligible clients stake ETH through its Client Portal, with zerohash providing the service.",
+      "title_zh": "互動經紀商通過 Zerohash 擴展加密服務，提供以太坊質押",
+      "summary_zh": "互動經紀商擴展其加密服務，新增以太坊質押功能，提升用戶體驗。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
+      "link": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+      "published": "2026-10-13T15:00:29+00:00",
+      "summary": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data.",
+      "title_zh": "DRW 和 Marex 完成參考代幣化 S&P iBoxx 指數的場外掉期交易",
+      "summary_zh": "DRW 和 Marex 完成了一項新交易，涉及代幣化 S&P iBoxx 指數的場外掉期。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
+      "link": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
+      "published": "2026-10-13T14:51:28+00:00",
+      "summary": "AnyPS5 is working to get any PS5 game running natively on PC—and gamers are hoping it'll work for the next instalment of Grand Theft Auto.",
+      "title_zh": "AI 驅動的 PlayStation 破解可能讓你在發售時於 PC 上玩 GTA 6",
+      "summary_zh": "一項新的 AI 破解技術可能使玩家能在 PC 上於 GTA 6 發售日即時遊玩。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
+      "link": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
+      "published": "2026-10-13T14:45:08+00:00",
+      "summary": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
+      "title_zh": "Ledger 確認 CryptoBilis 經銷商單位中有硬體植入，MediaMarkt 在歐洲暫停銷售",
+      "summary_zh": "Ledger 發現其經銷商單位中存在硬體植入，導致 MediaMarkt 暫停相關產品的銷售。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
+      "link": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T13:55:09+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TQ1VD64QGE9G7F9DV78HBP/hi-bitcoins-hedging-performance-in-the-wake-of-the-recent-coronavirus-outbreak.jpg\" /></p><p>Anthropic warned that rogue “AI worms” are months away from the ability to self-replicate and autonomously infect user devices such as hom",
+      "title_zh": "Anthropic 警告「AI 蟲」可能像病毒一樣自動在設備間擴散",
+      "summary_zh": "Anthropic 提醒，AI 蟲的潛在風險在於其可能自動擴散至多個設備，造成安全隱患。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+      "link": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
+      "published": "2026-10-13T13:42:25+00:00",
+      "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA.",
+      "title_zh": "Strive 以 2.8 億美元收購 3,311 顆比特幣，創下自 1 月以來最大收購",
+      "summary_zh": "Strive 最近以 2.8 億美元收購了大量比特幣，成為今年最大的交易之一。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "link": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T13:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Is Bitcoin kidding itself about the Lightning Network?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G9K7C73KY8G43Y46W76Q1Z/magazinebig-questions-can-btc-survive-10-year.png\" /></p><p>Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.</p>",
+      "title_zh": "比特幣是否在自欺欺人關於閃電網絡？",
+      "summary_zh": "有專家質疑比特幣的閃電網絡是否真的能解決其擴展性問題，並提出了相關的懷疑。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+      "link": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T13:17:17+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TNNXR2NKTWJ28W4SJ53VKF/hi-goldman-sachs-and-crypto-recap-bank.jpg\" /></p><p>BIS said that digital cash can achieve “cash-like privacy,” however, the technology isn’t yet production-ready due to risks such as bank data breaches.</p>",
+      "title_zh": "數位現金提供「類現金隱私」，但銀行數據洩露威脅用戶：BIS",
+      "summary_zh": "BIS 指出，數位現金雖然提供隱私保護，但銀行數據洩露仍然對用戶構成風險。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T12:22:24+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia clears Sberbank for crypto trading ahead of December launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TJ29HRXGHBG9K7W07M6RBV/sbernew2.jpg\" /></p><p>Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.</p>",
+      "title_zh": "俄羅斯批准 Sberbank 進行加密交易，預計 12 月啟動",
+      "summary_zh": "俄羅斯政府已批准 Sberbank 開展加密貨幣交易，計劃於 12 月正式啟動。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+      "published": "2026-10-13T11:58:04+00:00",
+      "summary": "",
+      "title_zh": "南韓封鎖 27 家加密交易所，包括 Bitmart 和 Kucoin",
+      "summary_zh": "南韓政府對 27 家加密交易所採取封鎖措施，以加強對加密市場的監管。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "published": "2026-10-13T11:56:04+00:00",
+      "summary": "",
+      "title_zh": "Federated Hermes 加入華爾街的代幣化推動，計劃推出首個鏈上基金股份",
+      "summary_zh": "Federated Hermes 正在推動代幣化，計劃推出其首個鏈上基金股份，標誌著新趨勢的開始。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+      "link": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+      "published": "2026-10-13T11:53:15+00:00",
+      "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched.",
+      "title_zh": "Ledger 發現 LTE 植入裝置竊取恢復短語，懷疑損失高達 8600 萬美元",
+      "summary_zh": "Ledger 報告稱，發現一種 LTE 植入裝置可能導致高達 8600 萬美元的資金損失。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Binance to shut down mining pool, cloud mining and related services",
+      "link": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410",
+      "published": "2026-10-13T11:40:56+00:00",
+      "summary": "Binance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10.",
+      "title_zh": "幣安將關閉挖礦池、雲挖礦及相關服務",
+      "summary_zh": "幣安宣布將停止其挖礦池及雲挖礦服務，影響廣泛的加密貨幣生態系統。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
+      "link": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
+      "published": "2026-10-13T11:40:51+00:00",
+      "summary": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the ‘Uptober’ that was promised…",
+      "title_zh": "晨間快訊：比特幣受驚，‘十月上漲’未如預期",
+      "summary_zh": "比特幣在十月的預期上漲未能實現，市場情緒受到影響。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+      "link": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
+      "published": "2026-10-13T11:38:19+00:00",
+      "summary": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided.",
+      "title_zh": "英國高法院裁定中國法律適用於50億美元被扣比特幣索賠",
+      "summary_zh": "英國高法院的裁決將中國法律適用於涉及被扣比特幣的索賠案件。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+      "published": "2026-10-13T11:26:45+00:00",
+      "summary": "",
+      "title_zh": "Stacks的STX作為比特幣二層代幣在四週內飆升50%",
+      "summary_zh": "Stacks的STX代幣在短短四週內上漲了50%，顯示出強勁的市場需求。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+      "link": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T11:11:27+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ENS seeks DAO approval to activate upgraded Ethereum naming system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TEGFTQGAA73EZJAPDZCDY9/ens.png\" /></p><p>New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating.</p>",
+      "title_zh": "ENS尋求DAO批准啟用升級版以太坊命名系統",
+      "summary_zh": "以太坊名稱服務ENS正在尋求DAO的批准，以啟用其新升級的命名系統。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+      "published": "2026-10-13T11:06:39+00:00",
+      "summary": "",
+      "title_zh": "比特幣和以太幣回落並反彈，韓國股市因AI相關擔憂下滑",
+      "summary_zh": "隨著韓國股市因AI擔憂下滑，比特幣和以太幣的價格出現波動。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+      "published": "2026-10-13T11:02:47+00:00",
+      "summary": "",
+      "title_zh": "俄羅斯最大銀行Sberbank獲得交易加密貨幣的批准",
+      "summary_zh": "Sberbank獲得官方批准，將開始進行加密貨幣交易，標誌著俄羅斯金融市場的變化。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+      "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+      "published": "2026-10-13T10:51:33+00:00",
+      "summary": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
+      "title_zh": "英國在高法院裁決後更接近保留50億美元比特幣資產",
+      "summary_zh": "隨著高法院的裁決，英國有望保留價值50億美元的比特幣資產。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
+      "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+      "published": "2026-10-13T10:46:57+00:00",
+      "summary": "",
+      "title_zh": "即時更新：比特幣交易在83000美元附近震盪，等待美國關鍵通脹數據",
+      "summary_zh": "比特幣價格在83000美元附近波動，市場靜待即將公布的美國通脹數據。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+      "published": "2026-10-13T10:38:51+00:00",
+      "summary": "",
+      "title_zh": "比特幣與韓國股市背離，AI擔憂加劇Kospi拋售",
+      "summary_zh": "隨著AI擔憂加劇，韓國Kospi指數出現拋售，比特幣卻顯示出不同的市場動向。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "‘Leave’: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
+      "link": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+      "published": "2026-10-13T10:30:37+00:00",
+      "summary": "The proposal would require crypto owners to report holdings over €100,000, sparking concerns following a wave of \"wrench attacks\" in France.",
+      "title_zh": "法國提案引發加密貨幣反彈：要求報告超過112K美元的錢包",
+      "summary_zh": "法國政府提議要求報告超過112,000美元的加密貨幣錢包，引發業界強烈反對。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
+      "link": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T10:23:07+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28870PKEWGRDMAATE4PHF9G/investmentmoneycryptodollarcrowdfunding-metaplanet.jpg\" /></p><p>Metaplanet plans to issue zero-interest bonds with a five-year maturity to improve its debt structure and cut its reliance on Bitcoin-collateralized loans without selli",
+      "title_zh": "Metaplanet發行3.29億美元可轉換債券以償還債務和資助回購",
+      "summary_zh": "Metaplanet計劃發行可轉換債券，以解決債務問題並進行股票回購。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
+      "link": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T10:09:01+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MediaMarktSaturn pulls Ledger products amid tampering reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T9QMPRVPNEKJGN3JK1R0A0/ledger-wallet-illustration.png\" /></p><p>European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia.</p>",
+      "title_zh": "MediaMarktSaturn因篡改報告撤回Ledger產品",
+      "summary_zh": "MediaMarktSaturn因接獲篡改報告，決定下架Ledger相關產品。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+      "link": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T09:42:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T82Y5Q89Y3M191FB9H1S1C/article-covers-262292-ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan-1280x853.webp\" /></p><p>Bitcoin’s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off.</p>",
+      "title_zh": "比特幣觸及84K美元阻力位，韓國科技股暴跌加深KOSPI損失",
+      "summary_zh": "比特幣價格上升至84,000美元，但韓國科技股的下滑使KOSPI指數遭受重創。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "published": "2026-10-13T09:27:47+00:00",
+      "summary": "",
+      "title_zh": "Ledger表示CryptoBilis設備內的間諜芯片透過移動網絡傳輸錢包密鑰",
+      "summary_zh": "Ledger揭露其產品中存在的間諜芯片，可能導致用戶錢包密鑰被洩露。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+      "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+      "published": "2026-10-13T09:25:03+00:00",
+      "summary": "",
+      "title_zh": "英國法院裁決提升政府保留50億美元被查獲比特幣的機會",
+      "summary_zh": "英國法院的最新裁決有助於政府保留其查獲的50億美元比特幣。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+      "link": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+      "published": "2026-10-13T09:12:45+00:00",
+      "summary": "The shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year.",
+      "title_zh": "NFT市場Blur將於下月關閉網站，停止新Blend貸款",
+      "summary_zh": "NFT市場Blur宣布將關閉其網站並停止提供新Blend貸款服務。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+      "link": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T09:03:06+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese fraud victims lose key court battle over 61,000 Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T4SNJSD60QPY0XS6G5VAS3/court-law-judge-flags-uk.jpg\" /></p><p>Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims.</p>",
+      "title_zh": "中國詐騙受害者在6.1萬比特幣的關鍵法庭戰鬥中失利",
+      "summary_zh": "中國詐騙案的受害者在涉及61,000比特幣的法庭訴訟中遭遇重大挫折。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
+      "link": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T08:45:10+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T0Q274K3WJ08CQMV76XA89/hi-bitcoin-wallets-btc-wallet-inaccessible-1.jpg\" /></p><p>Ledger detailed how LTE-enabled implants exposed wallet recovery phrases as CryptoBilis halted sales and Trezor and OneKey cut ties with the reseller.</p>",
+      "title_zh": "Ledger詳細說明CryptoBilis出售的錢包內的LTE間諜植入物",
+      "summary_zh": "Ledger披露CryptoBilis出售的錢包中存在的LTE間諜植入物，可能危害用戶安全。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+      "published": "2026-10-13T05:45:10+00:00",
+      "summary": "",
+      "title_zh": "在2020年3月崩盤中堅持的比特幣鯨魚轉移3.78億美元",
+      "summary_zh": "一位在2020年市場崩盤中保持不動的比特幣鯨魚，近日轉移了價值3.78億美元的資產。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
+      "link": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
+      "published": "2026-10-13T05:44:14+00:00",
+      "summary": "The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant.",
+      "title_zh": "幣安VIP負責人表示對沖基金正在積極探索加密市場的套利機會",
+      "summary_zh": "幣安的高層透露，對沖基金正在尋找加密貨幣市場中的套利機會，顯示出市場活躍度提升。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+      "link": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T05:38:37+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blur is shutting down its website, so why are NFT collectors cheering?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SW8NVDJEDWFCYACTDX3B9S/nft.jpg\" /></p><p>Blur’s planned website closure revived criticism of the royalty policies and token rewards that helped it overtake OpenSea during the NFT boom, but hurt creators. </p>",
+      "title_zh": "Blur網站即將關閉，為何NFT收藏家卻在歡呼？",
+      "summary_zh": "儘管Blur即將關閉，但NFT收藏家卻因為市場變化而感到興奮，可能預示著新的機會。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+      "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+      "published": "2026-10-13T05:27:17+00:00",
+      "summary": "",
+      "title_zh": "代幣化SanDisk的賭注遭遇更多清算，亞洲晶片崩盤損失達8億美元",
+      "summary_zh": "隨著亞洲晶片市場的崩潰，代幣化SanDisk的投資遭遇重大損失，清算數量超過XRP。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance to shut down crypto mining pool services in November",
+      "link": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T05:23:26+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance to shut down crypto mining pool services in November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg\" /></p><p>Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown.</p>",
+      "title_zh": "幣安將於11月關閉加密挖礦池服務",
+      "summary_zh": "幣安宣布將在11月停止其加密挖礦池服務，這可能影響許多礦工的運作。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+      "link": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+      "published": "2026-10-13T04:43:18+00:00",
+      "summary": "",
+      "title_zh": "曾經最大的以太坊NFT市場Blur在交易量崩潰99%後關閉",
+      "summary_zh": "以太坊的主要NFT市場Blur因交易量劇減而決定關閉，反映出市場的劇烈變化。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data",
+      "link": "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
+      "published": "2026-10-13T04:18:30+00:00",
+      "summary": "The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million.",
+      "title_zh": "比特幣鯨魚在沉寂六年後轉移3.78億美元的BTC",
+      "summary_zh": "一位比特幣鯨魚在沉寂六年後突然轉移大量BTC，顯示出市場活動的變化。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+      "published": "2026-10-13T04:18:20+00:00",
+      "summary": "",
+      "title_zh": "比特幣反彈至83,000美元以上，脫離韓國股市下跌的影響",
+      "summary_zh": "比特幣價格回升至83,000美元以上，與韓國股市的下跌趨勢形成鮮明對比。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T02:41:30+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea moves to block 27 crypto websites, including KuCoin, MEXC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SJ32T5MFAHM21PB498EN3Q/korea-website-block.jpg\" /></p><p>Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.</p>",
+      "title_zh": "南韓將封鎖27個加密網站，包括KuCoin和MEXC",
+      "summary_zh": "南韓政府決定封鎖多個加密貨幣交易網站，以加強對加密市場的監管。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
+      "link": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+      "published": "2026-10-13T01:57:49+00:00",
+      "summary": "Crypto liquidations amounted to $771 million over the past 24 hours, including $685.6 million in long positions.",
+      "title_zh": "比特幣價格跌破82,000美元，加密清算超過7.7億美元",
+      "summary_zh": "比特幣價格下滑至82,000美元以下，市場清算金額激增，顯示出投資者的緊張情緒。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+      "link": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T01:54:31+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Meta claims new Muse Wonder AI models rival OpenAI, Anthropic\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SEQQ4N93A3WPX8RG9DRBAR/meta.jpg\" /></p><p>Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”</p>",
+      "title_zh": "Meta聲稱新Muse Wonder AI模型可與OpenAI和Anthropic抗衡",
+      "summary_zh": "Meta推出的新AI模型Muse Wonder被認為能與OpenAI和Anthropic競爭，顯示出技術的快速發展。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+      "link": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-13T00:52:52+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SBPCTGPG3FDASX5ZEZCYYW/aptos.jpg\" /></p><p>The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades.</p>",
+      "title_zh": "Aptos 推出加密記憶池以遏制前置交易和夾擊攻擊",
+      "summary_zh": "Aptos 新推出的加密記憶池旨在防止前置交易和夾擊攻擊，提升交易安全性。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 83363,
+      "price_change_24h": 0.82046,
+      "volume_24h": 32744871865,
+      "high_30d": 86596.740042,
+      "low_30d": 75590.24472,
+      "rsi": 55.58,
+      "sma7": 82755.215731,
+      "sma20": 83959.638168,
+      "ema12": 83346.227367,
+      "ema26": 82768.624457,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-13T22:11:46.000Z",
+        "fetched_at": "2026-10-14T06:13:04.408152+08:00"
+      }
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2508.04,
+      "price_change_24h": 0.53244,
+      "volume_24h": 14106517085,
+      "high_30d": 2775.168683,
+      "low_30d": 2397.49726,
+      "rsi": 45.97,
+      "sma7": 2503.563444,
+      "sma20": 2626.487628,
+      "ema12": 2557.547126,
+      "ema26": 2582.919708,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-13T22:11:46.000Z",
+        "fetched_at": "2026-10-14T06:13:04.408152+08:00"
+      }
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 106.93,
+      "price_change_24h": -0.36271,
+      "volume_24h": 3980152201,
+      "high_30d": 122.080985,
+      "low_30d": 96.873485,
+      "rsi": 45.4,
+      "sma7": 109.800941,
+      "sma20": 116.325868,
+      "ema12": 112.073333,
+      "ema26": 112.376837,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-13T22:11:46.000Z",
+        "fetched_at": "2026-10-14T06:13:04.408152+08:00"
+      }
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 741.38,
+      "price_change_24h": -0.2013,
+      "volume_24h": 783017653,
+      "high_30d": 799.136663,
+      "low_30d": 711.740795,
+      "rsi": 47.99,
+      "sma7": 746.554155,
+      "sma20": 765.450335,
+      "ema12": 754.417053,
+      "ema26": 755.898562,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-13T22:11:46.000Z",
+        "fetched_at": "2026-10-14T06:13:04.408152+08:00"
+      }
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.37,
+      "price_change_24h": 0.87109,
+      "volume_24h": 2144995166,
+      "high_30d": 1.571302,
+      "low_30d": 1.28328,
+      "rsi": 45.2,
+      "sma7": 1.387689,
+      "sma20": 1.466209,
+      "ema12": 1.417078,
+      "ema26": 1.430177,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-13T22:11:46.000Z",
+        "fetched_at": "2026-10-14T06:13:04.408152+08:00"
+      }
+    }
+  ],
+  "signals": {
+    "date": "2026-10-14",
+    "fear_greed": {
+      "value": 57,
+      "classification": "Greed",
+      "timestamp": "2026-10-13T00:00:00+00:00",
+      "history": [
+        {
+          "value": 57,
+          "classification": "Greed",
+          "date": "2026-10-13"
+        },
+        {
+          "value": 69,
+          "classification": "Greed",
+          "date": "2026-10-12"
+        },
+        {
+          "value": 61,
+          "classification": "Greed",
+          "date": "2026-10-11"
+        },
+        {
+          "value": 64,
+          "classification": "Greed",
+          "date": "2026-10-10"
+        },
+        {
+          "value": 59,
+          "classification": "Greed",
+          "date": "2026-10-09"
+        },
+        {
+          "value": 64,
+          "classification": "Greed",
+          "date": "2026-10-08"
+        },
+        {
+          "value": 71,
+          "classification": "Greed",
+          "date": "2026-10-07"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {},
+    "data_quality": {
+      "fear_greed": {
+        "source": "Alternative.me",
+        "status": "available",
+        "observed_at": "2026-10-13T00:00:00+00:00",
+        "fetched_at": "2026-10-14T06:14:05.046043+08:00"
+      },
+      "reddit_sentiment": {
+        "source": "Reddit",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      },
+      "onchain": {
+        "source": "CoinGecko",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      }
+    }
+  }
+}
