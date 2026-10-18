@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T06:13:17.050174+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. Crypto.com 和 Novig 提起訴訟，涉及密蘇里州的體育賽事合約，顯示出加密貨幣業界的法律挑戰。\n2. 白宮的加密貨幣負責人離職，引發市場對於加密政策未來的擔憂。\n3. 加密貨幣市場整體情況不佳，比特幣 ETF 在過去兩週損失近 10 億美元。\n4. Cysic 暫停橋接服務，因為遭受攻擊者鑄造代幣，導致 727,000 美元被轉移。\n5. 拉脫維亞計劃在 2027 年實施加密貨幣稅制，顯示出各國對於加密貨幣規範的逐步重視。\n\n## 📊 市場概況\n今日加密貨幣市場整體氛圍偏向消極，多數主流幣的價格持平或小幅下跌。比特幣（BTC）目前交易價格為 $81,471，24 小時內小幅上漲 0.37%；以太坊（ETH）報價 $2,386.05，漲幅僅 0.04%。其他幣種如幣安幣（BNB）和瑞波幣（XRP）也顯示出相似的趨勢，整體交易活躍度相對較低。\n\n## 🔍 技術分析解讀\n根據最新的市場技術指標，比特幣 RSI 指標為 46.65，顯示出市場處於中性區域，但均線訊號顯示出空頭趨勢。以太坊的 RSI 更低，僅為 34.17，顯示出賣壓較大，短期內可能持續承壓。其他幣種如 SOL 和 BNB 也同樣顯示出空頭的均線訊號，預示著目前市場缺乏明顯的反彈動能。\n\n## 😱 市場情緒\n目前恐懼貪婪指數為 53，顯示市場情緒處於中立狀態。社群對於市場未來的走向表現出謹慎的態度，因為近期的政策變動及市場損失影響了投資者的信心。隨著加密貨幣市場的不確定性增加，投資者多持觀望態度。\n\n## ⚠️ 風險提醒\n市場仍面臨多重風險，包括政策不確定性、黑客攻擊及市場情緒的劇烈波動。尤其是近期 Cysic 橋接服務的攻擊事件，提醒投資者需加強對於資金安全的重視。此外，隨著未來市場可能的調整，投資者應謹慎評估風險，避免不必要的損失。\n\n## 🎯 今日觀察重點\n今日需關注加密貨幣市場的法律動態，尤其是Crypto.com 和 Novig 的訴訟進展，可能會對市場情緒產生影響。此外，拉脫維亞計劃的稅收政策及白宮新任加密貨幣負責人的任命動向也是值得注意的焦點，將可能影響未來的市場規範與投資環境。",
+  "news": [
+    {
+      "source": "TheBlock",
+      "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+      "link": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+      "published": "2026-10-18T19:50:28+00:00",
+      "summary": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.",
+      "title_zh": "Crypto.com 和 Novig 起訴密蘇里州，涉及體育賽事合約；Kalshi、Polymarket 和 Robinhood 暫時觀望",
+      "summary_zh": "Crypto.com 和 Novig 對密蘇里州提起訴訟，涉及體育賽事合約的爭議，其他平台則選擇觀望。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "published": "2026-10-18T18:30:00+00:00",
+      "summary": "",
+      "title_zh": "白宮的加密貨幣負責人離職：加密貨幣狀況",
+      "summary_zh": "白宮加密貨幣負責人的離職引發關注，對加密貨幣政策的未來影響尚不明朗。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "published": "2026-10-18T16:33:00+00:00",
+      "summary": "",
+      "title_zh": "華爾街週五驚慌失措，VIX 和比特幣顯示恐懼可能在週一減退",
+      "summary_zh": "華爾街在週五出現恐慌情緒，但VIX指數和比特幣的表現暗示恐懼可能會減輕。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+      "link": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+      "published": "2026-10-18T16:31:03+00:00",
+      "summary": "MapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
+      "title_zh": "MapQuest 現在顯示駕駛者在哪裡被 Flock 攝像頭監視",
+      "summary_zh": "MapQuest 更新功能，讓駕駛者能夠看到 Flock 攝像頭的監視位置，增強行車安全。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+      "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+      "published": "2026-10-18T16:07:43+00:00",
+      "summary": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
+      "title_zh": "Cysic 暫停橋接，因攻擊者鑄造代幣並將 727,000 美元轉移至以太坊",
+      "summary_zh": "Cysic 暫停其橋接服務，因為攻擊者成功鑄造代幣並轉移大量資金至以太坊。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "published": "2026-10-18T16:00:00+00:00",
+      "summary": "",
+      "title_zh": "拉脫維亞計劃在 2027 年實施加密貨幣稅收支付，國會重整加密稅制",
+      "summary_zh": "拉脫維亞國會正在重整加密稅制，計劃於2027年開始接受加密貨幣稅收支付。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "published": "2026-10-18T15:01:04+00:00",
+      "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
+      "title_zh": "比特幣 ETF 在兩週內損失近 10 億美元，Uptober 仍然是紅色",
+      "summary_zh": "比特幣 ETF 在短短兩週內損失近10億美元，顯示市場情緒依然低迷。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "published": "2026-10-18T14:00:00+00:00",
+      "summary": "",
+      "title_zh": "穩定幣供應停滯，但支付量跳升 45%，Visa、Mastercard 和 Stripe 將加密與現金連接",
+      "summary_zh": "儘管穩定幣供應增長停滯，但支付量卻上升了45%，顯示加密貨幣與現金的連結加強。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-18T13:54:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "今天的加密貨幣市場動態更新，涵蓋了主要事件和趨勢。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "link": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-18T13:48:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most Americans polled oppose betting on elections: Reuters\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M57M1156GPPFQ4JMAMQP3RQS/hi-japan-having-a-hard-time-gambling-a-and-casinos-poker.jpg\" /></p><p>The prediction market industry enables people to bet on US ‌elections and sporting events.</p>",
+      "title_zh": "大多數美國民眾反對在選舉中賭博：路透社",
+      "summary_zh": "根據路透社調查，大多數美國民眾對在選舉中進行賭博持反對態度。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+      "link": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+      "published": "2026-10-18T13:01:04+00:00",
+      "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sensitive.",
+      "title_zh": "銀行對穩定幣採用施加影響，國際清算銀行經濟學家表示",
+      "summary_zh": "國際清算銀行的經濟學家指出，銀行在穩定幣的採用上具有重要影響力，可能影響市場發展。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "published": "2026-10-18T13:00:00+00:00",
+      "summary": "",
+      "title_zh": "比特幣十萬美元年終希望分裂分析師，通脹前景不明",
+      "summary_zh": "比特幣年終能否達到十萬美元的目標引發分析師分歧，通脹形勢使預測變得更加複雜。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "published": "2026-10-18T13:00:00+00:00",
+      "summary": "",
+      "title_zh": "加密貨幣審計讓投資者產生錯誤安全感，第三季黑客攻擊損失達11.8億美元",
+      "summary_zh": "Hacken報告指出，儘管進行了加密貨幣審計，投資者仍面臨重大風險，第三季損失慘重。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "published": "2026-10-18T12:00:00+00:00",
+      "summary": "",
+      "title_zh": "加密貨幣交易所幣安和Coinbase參與西非詐騙掃蕩，標記1100萬美元",
+      "summary_zh": "幣安和Coinbase聯手打擊西非的詐騙活動，成功標記出約1100萬美元的可疑資金。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-18T10:46:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cysic crypto bridge halted after unauthorized mint of 10M CYS\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M579P8BRBQSA398D6CZ7DFCZ/hi-company-halts-bridge-after-reported-exploit.jpg\" /></p><p>Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.</p>",
+      "title_zh": "Cysic加密橋因未經授權的1000萬CYS鑄造而暫停",
+      "summary_zh": "Cysic加密橋因發現未經授權的CYS鑄造事件而暫時停止運作，保障用戶資金安全。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-18T09:14:26+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese suspect in $75M international crime network arrested in Bangkok\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M574HWMKKS1RW0G387NCF974/hi-comparing-money-laundering-with-cryptocurrencies-and-fiat-police.jpg\" /></p><p>Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.</p>",
+      "title_zh": "中國嫌疑人在75萬美元國際犯罪網絡中被捕於曼谷",
+      "summary_zh": "一名中國嫌疑人在曼谷被捕，涉嫌參與一個價值7500萬美元的國際犯罪網絡。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+      "published": "2026-10-18T07:13:32+00:00",
+      "summary": "",
+      "title_zh": "芯片股押注在華爾街關閉10分鐘內損失5200萬美元",
+      "summary_zh": "隨著華爾街的突然關閉，投資者在短短10分鐘內在芯片股上損失了5200萬美元。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-18T06:29:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether backs AIsa as strategic investor, completing seed extension round\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg\" /></p><p>The round brings AIsa’s total funding to more than $9 million.</p>",
+      "title_zh": "Tether作為戰略投資者支持AIsa，完成種子擴展輪",
+      "summary_zh": "Tether宣布作為戰略投資者參與AIsa的種子擴展輪，進一步擴大其投資組合。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "published": "2026-10-18T01:06:35+00:00",
+      "summary": "",
+      "title_zh": "Circle為USDC經濟辯護，穩定幣競爭對手吸引其合作夥伴",
+      "summary_zh": "Circle強調USDC的經濟穩定性，面對競爭對手試圖吸引其合作夥伴的挑戰。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 81471,
+      "price_change_24h": 0.36836,
+      "volume_24h": 18818569882,
+      "high_30d": 86596.740042,
+      "low_30d": 80873.582877,
+      "rsi": 46.65,
+      "sma7": 81866.963919,
+      "sma20": 83315.879929,
+      "ema12": 82363.840345,
+      "ema26": 82768.765364,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-18T22:10:52.000Z",
+        "fetched_at": "2026-10-19T06:12:07.617268+08:00"
+      }
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2386.05,
+      "price_change_24h": 0.03857,
+      "volume_24h": 8066761069,
+      "high_30d": 2775.168683,
+      "low_30d": 2384.567791,
+      "rsi": 34.17,
+      "sma7": 2429.652208,
+      "sma20": 2556.695313,
+      "ema12": 2473.614211,
+      "ema26": 2540.75847,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-18T22:10:52.000Z",
+        "fetched_at": "2026-10-19T06:12:07.617268+08:00"
+      }
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 102.96,
+      "price_change_24h": 0.29205,
+      "volume_24h": 2256444081,
+      "high_30d": 122.080985,
+      "low_30d": 103.027135,
+      "rsi": 35.15,
+      "sma7": 104.661251,
+      "sma20": 112.26774,
+      "ema12": 107.507652,
+      "ema26": 110.904428,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-18T22:10:52.000Z",
+        "fetched_at": "2026-10-19T06:12:07.617268+08:00"
+      }
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 715.85,
+      "price_change_24h": 0.19253,
+      "volume_24h": 561914135,
+      "high_30d": 799.136663,
+      "low_30d": 716.357551,
+      "rsi": 36.49,
+      "sma7": 726.70946,
+      "sma20": 752.67229,
+      "ema12": 735.955999,
+      "ema26": 749.024267,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-18T22:10:52.000Z",
+        "fetched_at": "2026-10-19T06:12:07.617268+08:00"
+      }
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.29,
+      "price_change_24h": -0.13875,
+      "volume_24h": 1115401430,
+      "high_30d": 1.571302,
+      "low_30d": 1.288603,
+      "rsi": 35.8,
+      "sma7": 1.323066,
+      "sma20": 1.411757,
+      "ema12": 1.354903,
+      "ema26": 1.396877,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-10-18T22:10:52.000Z",
+        "fetched_at": "2026-10-19T06:12:07.617268+08:00"
+      }
+    }
+  ],
+  "signals": {
+    "date": "2026-10-19",
+    "fear_greed": {
+      "value": 53,
+      "classification": "Neutral",
+      "timestamp": "2026-10-18T00:00:00+00:00",
+      "history": [
+        {
+          "value": 53,
+          "classification": "Neutral",
+          "date": "2026-10-18"
+        },
+        {
+          "value": 55,
+          "classification": "Greed",
+          "date": "2026-10-17"
+        },
+        {
+          "value": 63,
+          "classification": "Greed",
+          "date": "2026-10-16"
+        },
+        {
+          "value": 53,
+          "classification": "Neutral",
+          "date": "2026-10-15"
+        },
+        {
+          "value": 62,
+          "classification": "Greed",
+          "date": "2026-10-14"
+        },
+        {
+          "value": 57,
+          "classification": "Greed",
+          "date": "2026-10-13"
+        },
+        {
+          "value": 69,
+          "classification": "Greed",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {},
+    "data_quality": {
+      "fear_greed": {
+        "source": "Alternative.me",
+        "status": "available",
+        "observed_at": "2026-10-18T00:00:00+00:00",
+        "fetched_at": "2026-10-19T06:13:08.657107+08:00"
+      },
+      "reddit_sentiment": {
+        "source": "Reddit",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      },
+      "onchain": {
+        "source": "CoinGecko",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      }
+    }
+  }
+}
