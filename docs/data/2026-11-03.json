@@ -1,0 +1,833 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T11:22:57.507621+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. 幣安在創紀錄的黑客事件後開始第二階段提款，並受到南韓政府的敦促，加強冷錢包存儲。\n2. 方舟投資以340萬美元增持Coinbase的股份，同時也增持Circle和Robinhood。\n3. 北韓否認與幣安黑客事件有關，並指責美國的指控。\n4. Mercado Bitcoin遭遇4600萬美元的安全漏洞，影響其用戶信心。\n5. 比特幣價格持續下滑，創下76K美元的低點，市場情緒偏向恐懼。\n\n## 📊 市場概況\n今日加密貨幣市場表現疲弱，主要幣種普遍下跌。比特幣（BTC）報價76859美元，24小時內下跌2.07%。以太坊（ETH）和Solana（SOL）的跌幅亦相似，分別為1.86%和2.96%。市場整體氛圍偏向負面，投資者對於最近的黑客事件及市場的不穩定性感到憂慮，導致資金流出。\n\n## 🔍 技術分析解讀\n目前比特幣的RSI指標為30.95，顯示出超賣的情況，均線訊號亦顯示出空頭趨勢。以太坊的RSI為27.51，同樣顯示出超賣，且均線顯示空頭信號。Solana的RSI更低，僅19.62，顯示出極度超賣的狀況。這意味著短期內可能存在反彈的機會，但需警惕持續的下行壓力。\n\n## 😱 市場情緒\n目前恐懼貪婪指數為26，顯示市場情緒偏向恐懼，反映出投資者對於市場未來的擔憂。社群情緒也呈現悲觀，許多投資者對於近期的價格波動感到不安，對市場復甦的信心降低。\n\n## ⚠️ 風險提醒\n持續的黑客事件及市場的不穩定性可能進一步影響投資者的信心，尤其在幣安和Mercado Bitcoin等大型交易所遭遇安全漏洞的情況下，投資者需謹慎評估風險，避免在市場波動時加碼投入。\n\n## 🎯 今日觀察重點\n投資者應密切關注幣安提款進度及南韓政府的應對措施，這將對市場情緒產生重要影響。此外，需關注比特幣及以太坊的價格走勢，特別是在RSI指標顯示超賣的情況下，是否會出現反彈機會。",
+  "news": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance begins second withdrawal phase following record hack",
+      "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T03:03:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance begins second withdrawal phase following record hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FN2679AMA9PVMMSE4QTW9R/binance-1.jpg\" /></p><p>The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Nov. 1.</p>",
+      "title_zh": "幣安在創紀錄的黑客事件後開始第二階段提款",
+      "summary_zh": "幣安在遭受重大黑客攻擊後，啟動了第二階段的提款程序，以恢復用戶信心。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+      "link": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
+      "published": "2026-11-03T02:57:33+00:00",
+      "summary": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday.",
+      "title_zh": "方舟投資以340萬美元購買Coinbase，並在股票下跌時增持Circle和Robinhood",
+      "summary_zh": "方舟投資在市場低迷時，增持多家加密貨幣相關公司的股票，顯示對未來的信心。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+      "link": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T01:32:39+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea urges exchanges to boost cold storage after Binance hack  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FGGYW74TAX5AA8ACWCFSAT/cold-wallet.jpg\" /></p><p>South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more. </p>",
+      "title_zh": "南韓敦促交易所加強冷錢包存儲以應對幣安黑客事件",
+      "summary_zh": "南韓政府呼籲加密貨幣交易所提升冷錢包的安全性，以防止類似的黑客攻擊。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+      "link": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
+      "published": "2026-11-02T23:10:25+00:00",
+      "summary": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic’s site code, and OpenAI appears to be testing GPT-6.2 Astra.",
+      "title_zh": "Claude Fable 5.5、GPT 6.2 Astra可能即將推出，泄漏消息顯示",
+      "summary_zh": "最新消息顯示，Claude Fable 5.5和GPT 6.2 Astra的發布可能在不久的將來進行。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T23:07:07+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea denies role in $6.3B Binance hack, points finger at US\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F7B7K3T1C90EANET9800H1/north-korea.jpg\" /></p><p>Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated.</p>",
+      "title_zh": "北韓否認參與63億美元幣安黑客事件，指責美國",
+      "summary_zh": "北韓官方強烈否認與幣安黑客事件有關，並將責任推給美國。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T22:36:09+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "今天的加密貨幣市場動態包括價格波動和重要新聞更新，影響投資者情緒。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+      "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
+      "published": "2026-11-02T22:26:06+00:00",
+      "summary": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
+      "title_zh": "金正恩的妹妹拒絕FBI將北韓與創紀錄的60億美元幣安黑客事件聯繫的說法：報導",
+      "summary_zh": "金正恩的妹妹對FBI的指控表示反對，強調北韓與幣安黑客事件無關。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T22:22:30+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New Jersey drops Coinbase staking order ahead of crypto’s midterm test\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png\" /></p><p>New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.</p>",
+      "title_zh": "新澤西州在加密貨幣中期考驗前撤回Coinbase質押命令",
+      "summary_zh": "新澤西州在加密貨幣市場面臨挑戰之際，決定撤回對Coinbase的質押限制。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+      "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
+      "published": "2026-11-02T22:16:02+00:00",
+      "summary": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.",
+      "title_zh": "比特幣公司Strive因大額購買而提升財政地位",
+      "summary_zh": "Strive公司因進行大額購買而在財政排名中上升，顯示其增長潛力。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T21:54:41+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI poses greater threat to Bitcoin than quantum computing, Swan founder says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png\" /></p><p>The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.</p>",
+      "title_zh": "AI對比特幣的威脅超過量子計算，Swan創始人表示",
+      "summary_zh": "Swan創始人指出，人工智慧對比特幣的潛在威脅可能超過量子計算技術。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Big crypto wants the one thing it can’t buy: your vote",
+      "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
+      "published": "2026-11-02T21:38:53+00:00",
+      "summary": "",
+      "title_zh": "大型加密貨幣想要的唯一東西：你的選票",
+      "summary_zh": "大型加密貨幣公司希望能夠影響選舉結果，但無法購買選票。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+      "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T21:16:24+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto investigators flag suspected $106M theft, $786K Solana bot drain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg\" /></p><p>A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.</p>",
+      "title_zh": "加密貨幣調查員標記懷疑的1.06億美元盜竊，78.6萬美元Solana機器人轉移",
+      "summary_zh": "調查人員發現一起懷疑的加密盜竊事件，涉及巨額資金和Solana平台的損失。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+      "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+      "published": "2026-11-02T21:16:03+00:00",
+      "summary": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
+      "title_zh": "神秘的1.06億美元加密盜竊襲擊歐盟實體，距Binance黑客事件僅幾天",
+      "summary_zh": "在Binance遭黑客攻擊後不久，歐盟一實體也遭遇了大規模的加密盜竊事件。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+      "link": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+      "published": "2026-11-02T20:36:03+00:00",
+      "summary": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix.",
+      "title_zh": "Claude建構的Linux漏洞針對Ubuntu尚未修補的錯誤",
+      "summary_zh": "一個新的Linux漏洞被發現，影響Ubuntu系統，尚未獲得修補。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "link": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T20:22:23+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase hit with 50% price target cut as post-earnings rout deepens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ERG219T9H0636SG6JB00H1/hi-taxes-doesnt-apply-coinbasemanlaptop.png\" /></p><p>Slowing trading activity and fallout from the Binance hack are clouding Coinbase’s revenue prospects, prompting Morgan Stanley to lower its rating on the stock.</p>",
+      "title_zh": "Coinbase因財報後的股價暴跌被下調50%目標價",
+      "summary_zh": "Coinbase的股價在財報發布後大幅下跌，分析師將其目標價下調了50%。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+      "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+      "published": "2026-11-02T20:19:49+00:00",
+      "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
+      "title_zh": "巴西最大的加密貨幣交易所Mercado Bitcoin遭遇4600萬美元安全漏洞",
+      "summary_zh": "Mercado Bitcoin遭到安全攻擊，損失高達4600萬美元，影響了用戶資金安全。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "link": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+      "published": "2026-11-02T19:46:02+00:00",
+      "summary": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto’s response to the Binance hack suggests sellers may already be exhausted.",
+      "title_zh": "Tom Lee稱AI股票拋售已見底，指出供應緊張和加密貨幣韌性",
+      "summary_zh": "分析師Tom Lee認為AI股票的拋售已經結束，並強調加密市場的韌性。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+      "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T19:27:58+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ER84KWFRV6AB54PVPNX1S9/oil-bitcoin-petrol-2-960x640-960x640.webp\" /></p><p>Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.</p>",
+      "title_zh": "比特幣風險跌破76K美元，油價下滑7%未能激發BTC價格反彈",
+      "summary_zh": "儘管油價大幅下跌，比特幣價格仍未能回升，風險可能低於76K美元。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+      "link": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+      "published": "2026-11-02T19:15:48+00:00",
+      "summary": "StoneX says DTCC's tokenization service validates Securitize's model, reiterating its buy rating on SECZ as the firm expands tokenized stocks.",
+      "title_zh": "DTCC的代幣化啟動可能加速採用並提升Securitize、StoneX的前景",
+      "summary_zh": "DTCC的代幣化計劃有望推動市場採用，並對相關公司產生積極影響。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+      "link": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T19:05:35+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mercado Bitcoin wallets show post-hack transfers after $46M theft\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EWA1DBSVSDFZVCPZQ3HZ8W/mercado-bitcoin-hack.png\" /></p><p>Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.</p>",
+      "title_zh": "Mercado Bitcoin錢包在4600萬美元盜竊後顯示轉移交易",
+      "summary_zh": "在遭受4600萬美元盜竊後，Mercado Bitcoin的錢包出現了可疑的轉移交易。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+      "link": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+      "published": "2026-11-02T18:46:03+00:00",
+      "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea’s automated laundering spans 12,000 wallets.",
+      "title_zh": "北韓每25秒在一個新錢包洗錢Binance黑客獲利",
+      "summary_zh": "北韓利用新錢包快速洗錢，將從Binance黑客事件中獲得的資金轉移。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+      "link": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+      "published": "2026-11-02T18:16:02+00:00",
+      "summary": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development.",
+      "title_zh": "Proton用戶反抗，因CEO稱安全警惕為「失敗者思維」",
+      "summary_zh": "Proton用戶對CEO的言論感到不滿，認為安全應該是首要考量。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+      "published": "2026-11-02T18:13:57+00:00",
+      "summary": "",
+      "title_zh": "比特幣交易者關注選後反彈，交易所資金流出顯示供應緊縮",
+      "summary_zh": "隨著資金流出增加，比特幣交易者預期選後市場將出現反彈。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+      "link": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T18:00:16+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Animoca Brands clears final hurdle for Abu Dhabi fund management\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png\" /></p><p>The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets. </p>",
+      "title_zh": "Animoca Brands清除阿布達比基金管理的最後障礙",
+      "summary_zh": "Animoca Brands成功克服最後的挑戰，將進一步發展阿布達比的基金管理業務。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+      "link": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+      "published": "2026-11-02T17:36:03+00:00",
+      "summary": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
+      "title_zh": "Nvidia和Nike領導最大波浪的代幣化股票反對聲",
+      "summary_zh": "Nvidia和Nike對代幣化股票的反對聲浪加劇，顯示市場對此的擔憂。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+      "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+      "published": "2026-11-02T17:21:04+00:00",
+      "summary": "",
+      "title_zh": "歐盟實體涉嫌從加密交易所賬戶損失1.06億美元，ZachXBT表示",
+      "summary_zh": "ZachXBT報告指出，歐盟某實體可能因加密交易所的問題損失巨額資金。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
+      "link": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
+      "published": "2026-11-02T17:07:28+00:00",
+      "summary": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch.",
+      "title_zh": "埃隆·馬斯克嘲諷山姆·奧特曼，稱家用電腦浪費RAM",
+      "summary_zh": "馬斯克對奧特曼的觀點表示不屑，認為家用電腦的RAM使用不當。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+      "link": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+      "published": "2026-11-02T16:52:55+00:00",
+      "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack.",
+      "title_zh": "Binance完成最新的資金證明，努力恢復資產和提款",
+      "summary_zh": "Binance在遭遇重大黑客攻擊後，完成資金證明以重建用戶信任。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+      "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+      "published": "2026-11-02T16:46:03+00:00",
+      "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
+      "title_zh": "巴西最大交易所Mercado Bitcoin在4000萬美元黑客事件後暫停提款",
+      "summary_zh": "Mercado Bitcoin因黑客攻擊損失4000萬美元，決定暫停所有提款。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
+      "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+      "published": "2026-11-02T16:41:46+00:00",
+      "summary": "",
+      "title_zh": "NYSE代幣化股票計劃成形，四家轉移代理商加入",
+      "summary_zh": "NYSE的代幣化股票計劃進一步推進，四家新轉移代理商的加入助力發展。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+      "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+      "published": "2026-11-02T16:23:24+00:00",
+      "summary": "The chairman laid out six reasons the market’s “muted” 4% ETH drop after the record Binance theft shows crypto is “increasingly resilient,” as the firm’s stash neared its 5% supply goal.",
+      "title_zh": "Bitmine 購買更多以太坊，Tom Lee 稱 Binance 黑客事件為看漲信號",
+      "summary_zh": "Bitmine 增加以太坊持有量，Tom Lee 認為 Binance 的黑客事件可能會帶來市場反彈。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+      "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+      "published": "2026-11-02T15:53:29+00:00",
+      "summary": "",
+      "title_zh": "巴西 Mercado Bitcoin 暫停提款，因 4000 萬美元在 10 條鏈上被盜",
+      "summary_zh": "因資金被盜，巴西的 Mercado Bitcoin 暫時停止所有提款服務，影響用戶信心。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+      "published": "2026-11-02T15:26:43+00:00",
+      "summary": "",
+      "title_zh": "Nvidia、Costco 和 Nike 反對 OKX–ICE 代幣化股票計劃",
+      "summary_zh": "多家知名企業對 OKX 的代幣化股票計劃表示反對，可能影響該項目的推進。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+      "link": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+      "published": "2026-11-02T15:18:55+00:00",
+      "summary": "",
+      "title_zh": "Anthropic 第三季度營運虧損，計算成本激增，IPO 前景堪憂",
+      "summary_zh": "Anthropic 面臨第三季度虧損，計算成本上升使其 IPO 前景變得不明朗。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+      "link": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+      "published": "2026-11-02T15:05:24+00:00",
+      "summary": "",
+      "title_zh": "渣打銀行在香港為企業客戶推出代幣化存款",
+      "summary_zh": "渣打銀行在香港推出代幣化存款服務，旨在吸引更多企業客戶。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+      "link": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+      "published": "2026-11-02T15:01:36+00:00",
+      "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy.",
+      "title_zh": "Strive 以 1000 萬美元增持，距離成為第二大公共比特幣持有者更近",
+      "summary_zh": "Strive 最近增持比特幣，正朝著成為第二大公共持有者的目標邁進。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+      "link": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+      "published": "2026-11-02T15:01:03+00:00",
+      "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
+      "title_zh": "T7X 如何為新時代的資本市場建立基礎設施",
+      "summary_zh": "T7X 正在構建支持新資本市場的基礎設施，以促進交易和投資。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
+      "link": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
+      "published": "2026-11-02T15:00:09+00:00",
+      "summary": "",
+      "title_zh": "加密貨幣的華盛頓遊戲計劃奏效，切勿放棄",
+      "summary_zh": "加密貨幣行業在華盛頓的策略正在取得成效，呼籲繼續堅持。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+      "link": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+      "published": "2026-11-02T14:40:53+00:00",
+      "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
+      "title_zh": "Bitmine 增加 8573 ETH，Tom Lee 指出 Binance 黑客反應平淡",
+      "summary_zh": "Bitmine 繼續增持以太坊，Tom Lee 認為市場對 Binance 黑客事件反應不足。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
+      "link": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
+      "published": "2026-11-02T14:29:33+00:00",
+      "summary": "",
+      "title_zh": "摩根士丹利下調 Coinbase 評級；因盈利前景疲弱將目標價削減 53%",
+      "summary_zh": "摩根士丹利因 Coinbase 盈利前景不佳，將其評級下調並大幅削減目標價。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+      "link": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
+      "published": "2026-11-02T14:00:00+00:00",
+      "summary": "",
+      "title_zh": "Tokenization 公司 tZERO 計劃以 3.5 億美元的 SPAC 交易上市",
+      "summary_zh": "tZERO 宣布計劃通過 SPAC 交易上市，籌集 3.5 億美元以擴展其業務。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+      "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T13:48:28+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy spends triple its weekly Bitcoin outlay on STRC buybacks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E7B8B7FY6FQZ83QZRCGQHD/hi-who-is-michael-j-saylor-us-flag-1.jpg\" /></p><p>Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.</p>",
+      "title_zh": "策略將其每週比特幣支出三倍用於 STRC 回購",
+      "summary_zh": "該策略在 STRC 回購上投入的資金是其每週比特幣支出的三倍，顯示出強烈的市場信心。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+      "link": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
+      "published": "2026-11-02T13:34:02+00:00",
+      "summary": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?",
+      "title_zh": "早安分鐘：幣安黑客事件導致大量資金流出，FBI 開展調查",
+      "summary_zh": "幣安遭遇黑客攻擊，導致資金大規模流出，FBI 現在已介入調查此事件。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
+      "link": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T13:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI agent disputes head to ‘Internet Court’ — and a jury of AI agents\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CSPCM53Q6HYKY23BM33KT6/robot-courtroom-scene.png\" /></p><p>Who better to judge a dispute between AI agents than a jury of different AI models? That’s the idea behind GenLayer, which is already issuing thousands of judgements each day.</p>",
+      "title_zh": "AI 代理人爭議進入「網際網路法庭」——由 AI 代理人組成的陪審團",
+      "summary_zh": "AI 代理人之間的爭議將在網際網路法庭上解決，並由 AI 代理人擔任陪審團。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+      "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T13:21:47+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance taps half its SAFU Bitcoin holdings, releases reserve proof\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1KKJ1JWX0XVFV8YM0PG3Q/hi-binance-announces-mining-pool-and-chain-white-paper-slammed-for-centralization-in-both-cases.jpg\" /></p><p>Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring",
+      "title_zh": "幣安動用一半的 SAFU 比特幣持有量，發布儲備證明",
+      "summary_zh": "幣安釋放了其 SAFU 比特幣的一半，並提供了儲備證明以增強用戶信心。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+      "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
+      "published": "2026-11-02T13:19:36+00:00",
+      "summary": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million.",
+      "title_zh": "策略以 6600 萬美元恢復比特幣購買",
+      "summary_zh": "該策略重新啟動比特幣購買，並以 6600 萬美元的資金進行投資。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "‘We found room for even more orange’: Michael Saylor’s Strategy scoops up another 811 bitcoin for $65.5 million",
+      "link": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
+      "published": "2026-11-02T13:09:43+00:00",
+      "summary": "The latest bitcoin acquisition disclosure comes after Strategy reported $19.5 billion in third quarter net income on Thursday.",
+      "title_zh": "「我們找到更多橙色空間」：邁克爾·塞勒的策略以 6550 萬美元再購 811 顆比特幣",
+      "summary_zh": "邁克爾·塞勒的策略再次增持比特幣，以 6550 萬美元購買 811 顆，顯示出其對市場的信心。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "FATF targets crypto hubs in review of money laundering controls",
+      "link": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T12:56:07+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FATF targets crypto hubs in review of money laundering controls\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1Z69CTQ1SFH9R33DZWPA6/fatf-rules.jpg\" /></p><p>The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027.</p>",
+      "title_zh": "FATF 針對加密中心進行洗錢控制的審查",
+      "summary_zh": "金融行動特別工作組 (FATF) 正在審查加密貨幣中心的洗錢控制措施，以加強監管。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+      "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T12:40:45+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DXS9W8ZYW0K2FAPP5WSEXQ/hi-hackers-fishing-1.jpg\" /></p><p>Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.</p>",
+      "title_zh": "幣安黑客開始將被盜的索拉納代幣兌換為比特幣：Chainalysis",
+      "summary_zh": "根據 Chainalysis 的報告，幣安的黑客已開始將盜取的索拉納代幣兌換為比特幣。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
+      "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+      "published": "2026-11-02T12:37:24+00:00",
+      "summary": "",
+      "title_zh": "XRP Ledger 將修復可能讓穩定幣合作夥伴印製新代幣的缺陷",
+      "summary_zh": "XRP Ledger 計劃修復一項漏洞，該漏洞可能允許穩定幣合作夥伴不當印製新代幣。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's 'volatility curve' has a midterm bump",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+      "published": "2026-11-02T12:30:17+00:00",
+      "summary": "",
+      "title_zh": "比特幣的「波動曲線」在中期出現上升",
+      "summary_zh": "比特幣的波動性在中期出現上升，顯示市場可能面臨新的變化。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+      "link": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+      "published": "2026-11-02T12:24:18+00:00",
+      "summary": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
+      "title_zh": "BTCPay告訴商家在熱錢包攻擊報告中關閉伺服器",
+      "summary_zh": "BTCPay建議商家關閉伺服器，以防止熱錢包攻擊帶來的潛在損失。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+      "link": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+      "published": "2026-11-02T11:57:45+00:00",
+      "summary": "",
+      "title_zh": "沒有證據顯示北韓黑客轉移被盜Binance資金中使用AI",
+      "summary_zh": "調查顯示，北韓黑客在轉移被盜Binance資金時並未使用人工智慧技術。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+      "published": "2026-11-02T11:30:00+00:00",
+      "summary": "",
+      "title_zh": "比特幣回落至77,900美元，Binance客戶在提款重新開放後提取36億美元",
+      "summary_zh": "隨著Binance重新開放提款，比特幣價格回落至77,900美元，客戶提取資金的行為加劇了市場波動。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+      "link": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T11:19:18+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DNNRNEZ70BJDEPEQ3YPXSJ/hi-report-on-bitcoin-market-1.jpg\" /></p><p>Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.</p>",
+      "title_zh": "從Uptober到Hacktober：比特幣的季節性模式是否變得過時？",
+      "summary_zh": "市場專家探討比特幣的季節性模式是否仍然有效，隨著市場環境的變化。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
+      "link": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T10:46:59+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trezor lifts password ceiling after Coldcard’s $100M wallet thefts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DW85CE7ASBEM7RMJHGJZ1M/passphrase-longer.png\" /></p><p>Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.</p>",
+      "title_zh": "Trezor在Coldcard的1億美元錢包盜竊後提高密碼上限",
+      "summary_zh": "為了增強安全性，Trezor提高了密碼的上限，以應對Coldcard的重大盜竊事件。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+      "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+      "published": "2026-11-02T10:36:19+00:00",
+      "summary": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
+      "title_zh": "FBI指責北韓為60億美元Binance黑客事件負責，交易所重新開放提款",
+      "summary_zh": "FBI確認北韓與Binance的60億美元黑客事件有關，並促使交易所恢復提款服務。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T10:14:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DQFSHD8AXWKTB5J9SVZW4V/hong-kong-fund.jpg\" /></p><p>The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.</p>",
+      "title_zh": "香港將代幣化結算推向24/7，計劃穩定幣試驗",
+      "summary_zh": "香港計劃進行24小時代幣化結算，並啟動穩定幣的試驗計劃，推動金融創新。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T09:41:36+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC heads into US midterm showdown: Three things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DPN36PMEF09E83YXHSEHAH/article-covers-252604-crypto-laws-states-party-primaries-1280x853.webp\" /></p><p>Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatilit",
+      "title_zh": "比特幣進入美國中期選舉對決：本週三件事需知",
+      "summary_zh": "隨著美國中期選舉臨近，投資者需關注三個與比特幣相關的重要議題。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+      "link": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
+      "published": "2026-11-02T09:33:20+00:00",
+      "summary": "",
+      "title_zh": "Metals.io發行由德國存放的25噸實體銅支持的代幣",
+      "summary_zh": "Metals.io推出新代幣，這些代幣由德國存放的25噸實體銅作為支持，增強商品代幣化。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+      "published": "2026-11-02T09:04:49+00:00",
+      "summary": "",
+      "title_zh": "幣安黑客事件後果、美國中期選舉與就業報告：加密貨幣未來一周",
+      "summary_zh": "本週，加密貨幣市場將面臨幣安黑客事件的影響、美國中期選舉及就業報告的挑戰。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+      "link": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T08:56:03+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX draws $445M in net inflows as Binance outflows exceed $7B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48NWDDYWBD7SNFGR28DNZC8/hi-how-to-migrate-crypto-from-an-exchange-to-okx.jpg\" /></p><p>OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows.</p>",
+      "title_zh": "OKX吸引4.45億美元淨流入，幣安流出超過70億美元",
+      "summary_zh": "OKX在幣安流出資金激增的情況下，成功吸引了大量資金流入。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
+      "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+      "published": "2026-11-02T08:49:30+00:00",
+      "summary": "",
+      "title_zh": "即時更新：比特幣反彈消退，幣安漏洞與AI市場回調持續施壓",
+      "summary_zh": "比特幣的反彈趨勢受到幣安安全漏洞及AI市場回調的影響，顯示出市場的不穩定性。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+      "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
+      "published": "2026-11-02T08:41:28+00:00",
+      "summary": "",
+      "title_zh": "中國共產黨呼籲打擊利用加密貨幣和區塊鏈的腐敗行為",
+      "summary_zh": "中國政府加強對利用加密貨幣和區塊鏈進行腐敗活動的打擊力度。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+      "link": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+      "published": "2026-11-02T08:32:01+00:00",
+      "summary": "",
+      "title_zh": "為何從加密貨幣交易所盜取數十億美元比銀行盜竊更難以阻止",
+      "summary_zh": "加密貨幣交易所的安全漏洞使得大規模盜竊行為比傳統銀行盜竊更難以防範。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T07:50:36+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs sink into October outflows with $643M exit after Binance hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DFVVTB1BSHSCFQ2R7VR4PQ/hi-top-news-of-the-week-5-bitcoin.jpg\" /></p><p>US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.</p>",
+      "title_zh": "比特幣ETF在幣安黑客事件後流出64.3億美元，十月表現不佳",
+      "summary_zh": "隨著幣安黑客事件的影響，比特幣ETF在十月面臨重大資金流出。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+      "published": "2026-11-02T06:46:41+00:00",
+      "summary": "",
+      "title_zh": "比特幣ETF在週五流出6.43億美元，2026年幾乎沒有增長",
+      "summary_zh": "比特幣ETF在近期遭遇大規模流出，未來增長前景堪憂。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "link": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T05:34:02+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTCPay Server warns of hot wallet thefts running on outdated software\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg\" /></p><p>BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.</p>",
+      "title_zh": "BTCPay Server警告過時軟體運行的熱錢包盜竊風險",
+      "summary_zh": "BTCPay Server提醒用戶注意過時軟體可能導致的熱錢包盜竊風險。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+      "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+      "published": "2026-11-02T05:18:12+00:00",
+      "summary": "",
+      "title_zh": "陌生人向幣安黑客乞求比特幣，一次一個「幫幫我，兄弟」",
+      "summary_zh": "許多人向幣安黑客求助，希望能獲得比特幣，顯示出市場的焦慮。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+      "published": "2026-11-02T04:42:22+00:00",
+      "summary": "",
+      "title_zh": "比特幣重返79,000美元，市場擺脫加密貨幣最大黑客事件的影響",
+      "summary_zh": "比特幣價格回升至79,000美元，顯示市場逐漸恢復對黑客事件的信心。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+      "link": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+      "published": "2026-11-02T04:41:16+00:00",
+      "summary": "",
+      "title_zh": "BTCPay，位元幣支付工具，告訴用戶在錢包被掏空後關閉伺服器",
+      "summary_zh": "BTCPay提醒用戶關閉伺服器，因為有報導指出錢包遭到掏空，需提高警覺。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+      "link": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+      "published": "2026-11-02T04:11:05+00:00",
+      "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack.",
+      "title_zh": "現貨位元幣ETF在四個月內見到最大單日資金流出，因為Binance遭遇創紀錄黑客攻擊",
+      "summary_zh": "因Binance遭受重大黑客攻擊，現貨位元幣ETF出現四個月來最大的資金流出情況。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "link": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-02T03:55:50+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Korea probes financial firms’ exposure to crypto risks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg\" /></p><p>The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations.</p>",
+      "title_zh": "韓國銀行調查金融機構對加密風險的暴露",
+      "summary_zh": "韓國銀行正在調查金融機構面對加密貨幣風險的程度，以評估潛在的金融穩定性問題。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 76859,
+      "price_change_24h": -2.07192,
+      "volume_24h": 26553927380,
+      "high_30d": 86489.734827,
+      "low_30d": 76709.405343,
+      "rsi": 30.95,
+      "sma7": 77966.263013,
+      "sma20": 80294.626621,
+      "ema12": 78822.113385,
+      "ema26": 80584.811423,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-03T03:20:52.000Z",
+        "fetched_at": "2026-11-03T11:21:48.974173+08:00"
+      }
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2252.42,
+      "price_change_24h": -1.85723,
+      "volume_24h": 10361947678,
+      "high_30d": 2725.910538,
+      "low_30d": 2242.496259,
+      "rsi": 27.51,
+      "sma7": 2268.550841,
+      "sma20": 2349.812031,
+      "ema12": 2302.88323,
+      "ema26": 2383.984645,
+      "signal": "RSI超賣 / 均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-03T03:20:52.000Z",
+        "fetched_at": "2026-11-03T11:21:48.974173+08:00"
+      }
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 92.14,
+      "price_change_24h": -2.96261,
+      "volume_24h": 2598746104,
+      "high_30d": 121.515953,
+      "low_30d": 91.844094,
+      "rsi": 19.62,
+      "sma7": 95.422421,
+      "sma20": 100.750922,
+      "ema12": 97.394109,
+      "ema26": 102.431516,
+      "signal": "RSI超賣 / 均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-03T03:20:52.000Z",
+        "fetched_at": "2026-11-03T11:21:48.974173+08:00"
+      }
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 696.18,
+      "price_change_24h": -2.25525,
+      "volume_24h": 862122805,
+      "high_30d": 795.182005,
+      "low_30d": 696.428728,
+      "rsi": 32.93,
+      "sma7": 709.906928,
+      "sma20": 725.449767,
+      "ema12": 716.508977,
+      "ema26": 731.59881,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-03T03:20:52.000Z",
+        "fetched_at": "2026-11-03T11:21:48.974173+08:00"
+      }
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.25,
+      "price_change_24h": -0.32925,
+      "volume_24h": 1293059424,
+      "high_30d": 1.51966,
+      "low_30d": 1.235662,
+      "rsi": 30.34,
+      "sma7": 1.259168,
+      "sma20": 1.294456,
+      "ema12": 1.276314,
+      "ema26": 1.31956,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-03T03:20:52.000Z",
+        "fetched_at": "2026-11-03T11:21:48.974173+08:00"
+      }
+    }
+  ],
+  "signals": {
+    "date": "2026-11-03",
+    "fear_greed": {
+      "value": 26,
+      "classification": "Fear",
+      "timestamp": "2026-11-03T00:00:00+00:00",
+      "history": [
+        {
+          "value": 26,
+          "classification": "Fear",
+          "date": "2026-11-03"
+        },
+        {
+          "value": 37,
+          "classification": "Fear",
+          "date": "2026-11-02"
+        },
+        {
+          "value": 34,
+          "classification": "Fear",
+          "date": "2026-11-01"
+        },
+        {
+          "value": 30,
+          "classification": "Fear",
+          "date": "2026-10-31"
+        },
+        {
+          "value": 30,
+          "classification": "Fear",
+          "date": "2026-10-30"
+        },
+        {
+          "value": 51,
+          "classification": "Neutral",
+          "date": "2026-10-29"
+        },
+        {
+          "value": 51,
+          "classification": "Neutral",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {},
+    "data_quality": {
+      "fear_greed": {
+        "source": "Alternative.me",
+        "status": "available",
+        "observed_at": "2026-11-03T00:00:00+00:00",
+        "fetched_at": "2026-11-03T11:22:50.150036+08:00"
+      },
+      "reddit_sentiment": {
+        "source": "Reddit",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      },
+      "onchain": {
+        "source": "CoinGecko",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      }
+    }
+  }
+}
