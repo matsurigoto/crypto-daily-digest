@@ -1,0 +1,860 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T10:01:06.672692+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. 美國2026年中期選舉的結果顯示，民主黨在參議院的勝算超過90%，可能影響加密貨幣的監管政策。\n2. 1inch律師指出，中期選舉期間機構推動美國加密貨幣監管的可能性增強。\n3. Tether CEO透露，該公司持有的比特幣數量達到150,000，比儲備報告多出約50,000。\n4. THORChain的RUNE價格上漲15%，在暫停後重啟大部分交易。\n5. CFTC批准美國交易所進行股票永久期貨交易，為加密版本鋪平道路。\n\n## 📊 市場概況\n今日的加密貨幣市場整體呈現低迷態勢，主要幣種如比特幣（BTC）和以太坊（ETH）均有小幅波動。BTC報價為$76,911，24小時內輕微下跌0.14%；ETH則逆勢上漲0.29%，報價為$2,262.17。其他主要幣種如SOL和BNB均出現下跌，顯示出市場普遍承壓。\n\n## 🔍 技術分析解讀\n從技術指標來看，比特幣（BTC）的RSI為33.01，顯示出市場進入空頭區域，且均線指標顯示空頭信號明顯。以太坊（ETH）的RSI為30.24，同樣顯示出疲弱的買入動能。SOL的RSI達到20.96，顯示超賣狀態，可能會引發短期的反彈。整體而言，市場的技術指標表明短期內仍需謹慎。\n\n## 😱 市場情緒\n目前的恐懼貪婪指數為34，顯示市場情緒偏向恐懼，反映出投資者對於未來行情的擔憂。社群對於即將到來的中期選舉及其對加密貨幣政策的潛在影響，普遍抱持謹慎態度，這可能進一步影響短期的市場走向。\n\n## ⚠️ 風險提醒\n隨著2026年中期選舉的臨近，加密貨幣監管政策的不確定性可能會增加市場的波動性。此外，近期的安全事件（如Binance黑客事件）提醒投資者注意資金安全，並對市場情緒造成影響。投資者需保持警惕，隨時關注市場動態及政策變化。\n\n## 🎯 今日觀察重點\n投資者應關注即將公布的中期選舉結果，特別是對加密貨幣的監管政策影響。此外，Tether持有的大量比特幣及THORChain的市場表現也值得關注。市場情緒指數的變化可能預示著短期內的趨勢轉變，需密切追蹤相關指標。",
+  "news": [
+    {
+      "source": "CoinTelegraph",
+      "title": "US midterms election 2026 live: Democratic Senate odds climb above 90%",
+      "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-04T01:33:21+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US midterms election 2026 live: Democratic Senate odds climb above 90%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg\" /></p><p>Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset re",
+      "title_zh": "美國2026年中期選舉直播：民主黨參議院勝算超過90%",
+      "summary_zh": "民主黨在2026年中期選舉中的參議院勝算上升至90%以上，顯示出強勁的競選勢頭。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+      "link": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-04T00:45:16+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"1inch lawyer sees agencies driving US crypto regulation as midterms unfold\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg\" /></p><p>Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.</p>",
+      "title_zh": "1inch律師認為中期選舉進行中，機構推動美國加密貨幣監管",
+      "summary_zh": "隨著中期選舉的進行，1inch的律師指出機構在推動美國加密貨幣的監管政策。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: 2026 U.S. midterm elections and results as first polls close",
+      "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+      "published": "2026-11-04T00:00:00+00:00",
+      "summary": "",
+      "title_zh": "直播更新：2026年美國中期選舉及結果，首批投票關閉",
+      "summary_zh": "隨著首批投票關閉，2026年美國中期選舉的結果即將揭曉，持續更新中。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+      "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T23:56:09+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RUNE rallies 15% as THORChain restarts most swaps after halt\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX7RYCH2V2GKPP6BB2MVAX/thorchain-crypto-crowd-people-hype-mainstream-1.jpg\" /></p><p>THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.</p>",
+      "title_zh": "RUNE上漲15%，THORChain在暫停後重啟大部分交易",
+      "summary_zh": "RUNE價格上漲15%，因THORChain在暫停後重新啟動了大部分交易功能。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+      "link": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+      "published": "2026-11-03T23:48:32+00:00",
+      "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
+      "title_zh": "OpenAI希望重新品牌化AI數據中心，並利用其來「保護電網」",
+      "summary_zh": "OpenAI計劃重新品牌化其AI數據中心，並用於保護電網的安全性。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What voters said about their views on crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+      "published": "2026-11-03T23:19:44+00:00",
+      "summary": "",
+      "title_zh": "選民對加密貨幣的看法",
+      "summary_zh": "調查顯示選民對加密貨幣的看法各異，反映出市場的不確定性和多樣性。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "published": "2026-11-03T23:00:07+00:00",
+      "summary": "",
+      "title_zh": "如果北韓竊取華爾街的代幣資產，會發生什麼？",
+      "summary_zh": "專家分析如果北韓竊取華爾街的代幣資產，可能引發的金融風險和國際緊張局勢。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+      "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+      "published": "2026-11-03T22:46:02+00:00",
+      "summary": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
+      "title_zh": "Tether持有150,000比特幣，CEO表示比儲備報告多約50,000",
+      "summary_zh": "Tether的CEO透露該公司持有150,000比特幣，超出儲備報告的數據。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T22:39:18+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "加密貨幣市場今日動態頻繁，投資者需密切關注市場變化。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+      "published": "2026-11-03T22:14:44+00:00",
+      "summary": "",
+      "title_zh": "CFTC因股票永久合約進入法律衝突，為加密版本鋪平道路",
+      "summary_zh": "CFTC在股票永久合約問題上與法律發生衝突，為加密貨幣版本的發展鋪平道路。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+      "link": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+      "published": "2026-11-03T22:11:51+00:00",
+      "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
+      "title_zh": "SEC部門在無行動信函中將Canton Coin視為數位商品",
+      "summary_zh": "美國證券交易委員會的部門認定Canton Coin為數位商品，這可能影響其未來的監管政策。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+      "link": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+      "published": "2026-11-03T21:50:17+00:00",
+      "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter—a tricky equation ahead of its IPO.",
+      "title_zh": "Anthropic的AI使用成本降低，這對其業務成為問題",
+      "summary_zh": "Anthropic的人工智慧使用成本下降，雖然吸引了更多用戶，但也對其商業模式造成挑戰。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+      "link": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T21:47:20+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HGH0BNNPHY4QQAS9295KYQ/okxice-with-stop-gesture.png\" /></p><p>SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares.</p>",
+      "title_zh": "SpaceX阻止OKXICE的代幣化股票上市，儘管離岸交易繁榮",
+      "summary_zh": "儘管離岸交易活躍，SpaceX仍決定不在OKXICE上市其代幣化股票，顯示出對市場的謹慎態度。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+      "link": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
+      "published": "2026-11-03T21:16:03+00:00",
+      "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.",
+      "title_zh": "CrowdStrike推出AI代理'Kill Switch'，計劃收購Fiddler AI",
+      "summary_zh": "CrowdStrike推出新AI代理以增強安全性，並計劃收購Fiddler AI以擴展其技術能力。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+      "link": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+      "published": "2026-11-03T20:43:38+00:00",
+      "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance.",
+      "title_zh": "CZ呼籲加密貨幣安全聯盟，因Binance黑客事件後AI攻擊加劇",
+      "summary_zh": "Binance遭受黑客攻擊後，CZ呼籲建立加密貨幣安全聯盟以應對日益增加的AI驅動攻擊。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+      "published": "2026-11-03T20:36:02+00:00",
+      "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit.",
+      "title_zh": "Justin Sun指控特朗普支持的World Liberty利用阿聯酋關係逃避聯邦法院",
+      "summary_zh": "Justin Sun指控World Liberty利用其與阿聯酋的聯繫，試圖逃避美國聯邦法院的法律責任。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "link": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T20:24:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC clears stock perpetual futures for trading on US exchanges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png\" /></p><p>US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.</p>",
+      "title_zh": "CFTC批准美國交易所進行股票永久期貨交易",
+      "summary_zh": "美國商品期貨交易委員會(CFTC)批准在美國交易所進行股票永久期貨的交易，為市場帶來新機會。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+      "link": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
+      "published": "2026-11-03T19:46:03+00:00",
+      "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
+      "title_zh": "Crypto Docs主辦的GitBook遭AI代理安全漏洞攻擊，呼籲用戶更換密鑰",
+      "summary_zh": "Crypto Docs的GitBook遭遇安全漏洞，建議用戶立即更換密鑰以保護其資料安全。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "link": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T19:38:19+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US midterms: Prediction markets favor Democrats in key crypto races\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HQ1NKPD61CWKMF78RJP3VH/with-blended-okx-ice-logo.png\" /></p><p>Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s runoff.</p>",
+      "title_zh": "美國中期選舉：預測市場在關鍵加密競選中偏向民主黨",
+      "summary_zh": "在即將到來的中期選舉中，預測市場顯示民主黨在重要的加密貨幣競選中佔優勢。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
+      "link": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+      "published": "2026-11-03T19:16:02+00:00",
+      "summary": "Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.",
+      "title_zh": "CFTC允許交易者用加密風格的永久期貨進行股票投注",
+      "summary_zh": "CFTC的新規定允許交易者使用加密貨幣風格的永久期貨來進行股票投注，擴大了交易選擇。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
+      "link": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
+      "published": "2026-11-03T18:30:31+00:00",
+      "summary": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate.",
+      "title_zh": "預測市場押注民主黨在中期選舉中掃蕩眾議院和參議院",
+      "summary_zh": "預測市場顯示民主黨在即將到來的中期選舉中可能會獲得眾議院和參議院的控制權。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+      "link": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+      "published": "2026-11-03T18:16:03+00:00",
+      "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
+      "title_zh": "巴西最大比特幣交易所表示將在4000萬美元黑客攻擊後退款給用戶",
+      "summary_zh": "巴西最大的比特幣交易所承諾在遭受4000萬美元的黑客攻擊後，將全額退款給受影響的用戶。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+      "link": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+      "published": "2026-11-03T17:46:15+00:00",
+      "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
+      "title_zh": "埃隆·馬斯克的特斯拉和SpaceX阻止其股票在OKX-ICE代幣化平台交易",
+      "summary_zh": "特斯拉和SpaceX決定不允許其股票在OKX-ICE代幣化交易平台上進行交易。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
+      "link": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+      "published": "2026-11-03T17:30:54+00:00",
+      "summary": "From AI deepfakes to poisoning code libraries: here's how North Korean hackers get inside crypto companies.",
+      "title_zh": "北韓入侵加密公司五種方式——以及幣安是如何被黑的",
+      "summary_zh": "報導揭示北韓如何利用多種手段入侵加密公司，並詳細說明幣安遭黑客攻擊的過程。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Epidemic of Hacked Freezers Spreads Across Europe",
+      "link": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
+      "published": "2026-11-03T17:04:46+00:00",
+      "summary": "A suspected hacking wave has pushed supermarket freezers into defrost mode across ten European countries, with temperatures reportedly hitting 50°C. Nobody knows who's behind it or why it spread.",
+      "title_zh": "黑客攻擊冰箱的疫情在歐洲蔓延",
+      "summary_zh": "歐洲面臨一波黑客攻擊冰箱的疫情，影響了多個國家的冷鏈系統。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+      "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+      "published": "2026-11-03T16:55:10+00:00",
+      "summary": "",
+      "title_zh": "孫宇晨對與特朗普有關的世界自由金融公司尋求制裁，因其與阿聯酋的聯繫",
+      "summary_zh": "孫宇晨針對與特朗普有關的金融機構提出制裁要求，因其與阿聯酋的關係引發爭議。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+      "published": "2026-11-03T16:49:56+00:00",
+      "summary": "",
+      "title_zh": "韓國總統表示國家需要一位“網絡安全沙皇”，以應對63億美元的幣安黑客事件",
+      "summary_zh": "韓國總統呼籲設立網絡安全專家，以加強對抗日益嚴重的網絡攻擊威脅。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+      "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T16:47:01+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg\" /></p><p>Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.</p>",
+      "title_zh": "華爾街扼殺比特幣的狂野反彈：10倍的馬庫斯·蒂倫",
+      "summary_zh": "專家指出，華爾街的行為對比特幣的價格波動產生了重大影響，限制了其反彈潛力。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "link": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T16:44:06+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance traces $6.3B hack to fake job interviews, compromised AI tool\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png\" /></p><p>Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation.</p>",
+      "title_zh": "幣安追蹤63億美元黑客事件，發現假工作面試和受損的AI工具",
+      "summary_zh": "幣安調查發現，63億美元的黑客事件與假工作面試和受損的人工智能工具有關。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+      "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+      "published": "2026-11-03T16:17:51+00:00",
+      "summary": "",
+      "title_zh": "亞馬遜、特斯拉和SpaceX在截止日期臨近時加入對OKX-ICE代幣化股票的反對",
+      "summary_zh": "隨著截止日期的臨近，亞馬遜、特斯拉和SpaceX對OKX-ICE代幣化股票表達了反對意見。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+      "link": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+      "published": "2026-11-03T16:12:35+00:00",
+      "summary": "",
+      "title_zh": "穩定幣治理組織OUSD設定管理費，提供股權收益池",
+      "summary_zh": "OUSD的治理團隊推出管理費用並設立股權收益池，以吸引投資者參與。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
+      "link": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
+      "published": "2026-11-03T16:09:19+00:00",
+      "summary": "The National Cyber Security Centre said AI will expose security flaws \"tolerated for far too long,\" and called time on \"tech on the cheap.\"",
+      "title_zh": "英國表示到2028年，AI驅動的勒索病毒攻擊關鍵基礎設施'極有可能'發生",
+      "summary_zh": "英國政府預測，未來幾年內，AI技術將使勒索病毒攻擊更具威脅性。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
+      "link": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
+      "published": "2026-11-03T16:08:14+00:00",
+      "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.",
+      "title_zh": "Justin Sun對World Liberty提出制裁，指控其隱藏與阿聯酋的聯繫",
+      "summary_zh": "Justin Sun指控World Liberty與特朗普相關的公司隱瞞其與阿聯酋的關係，要求制裁。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T15:44:42+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GYWTMJRC5WVDCDG7QCTRRJ/article-covers-180463-us-cpi-lower-expected-rate-cuts-coming-1280x853-960x640.webp\" /></p><p>Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.</p>",
+      "title_zh": "比特幣價格守住76K低點，分析師認為股市已反映'政治僵局'",
+      "summary_zh": "比特幣價格穩定在76K附近，分析師指出股市已經考慮到政治不確定性。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+      "link": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
+      "published": "2026-11-03T15:37:50+00:00",
+      "summary": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks.",
+      "title_zh": "CFTC首次批准美國個股永久期貨交易",
+      "summary_zh": "美國商品期貨交易委員會首次允許個股永久期貨交易，為市場帶來新機會。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+      "link": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+      "published": "2026-11-03T15:34:34+00:00",
+      "summary": "Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft.",
+      "title_zh": "幣安表示黑客利用假工作面試和內部AI工具進行63億美元的攻擊",
+      "summary_zh": "幣安報告指出，黑客透過假工作面試和AI工具策劃了大規模的安全漏洞。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+      "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+      "published": "2026-11-03T15:02:13+00:00",
+      "summary": "",
+      "title_zh": "CFTC批准股票的永久期貨，將加密交易模式帶入華爾街",
+      "summary_zh": "CFTC的批准使得股票永久期貨交易成為現實，可能改變華爾街的交易格局。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
+      "link": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
+      "published": "2026-11-03T14:53:19+00:00",
+      "summary": "",
+      "title_zh": "幣安的63億美元黑客事件始於假工作面試，並經過多月的策劃",
+      "summary_zh": "幣安的重大安全事件顯示，黑客長期策劃並利用假工作面試作為入侵手段。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
+      "link": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
+      "published": "2026-11-03T14:42:30+00:00",
+      "summary": "",
+      "title_zh": "南韓詢問最大銀行如何應對重大加密黑客事件",
+      "summary_zh": "南韓政府要求主要銀行評估如果發生重大加密黑客事件將如何影響其運營。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
+      "link": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
+      "published": "2026-11-03T14:22:09+00:00",
+      "summary": "",
+      "title_zh": "CZ警告幣安63億美元盜竊後，AI驅動的黑客攻擊將會增加",
+      "summary_zh": "幣安創始人CZ預測，隨著技術進步，AI驅動的黑客攻擊將變得更加頻繁和危險。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+      "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+      "published": "2026-11-03T14:01:02+00:00",
+      "summary": "The “Tierra” upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness.",
+      "title_zh": "以太坊隱私網絡 Aztec 推出重大安全與速度升級",
+      "summary_zh": "Aztec 網絡進行了重要的升級，以提高其安全性和交易速度，增強用戶體驗。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
+      "link": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "",
+      "title_zh": "LO:TECH 籌集 1200 萬美元以擴展加密交易至美國和亞洲",
+      "summary_zh": "LO:TECH 獲得資金支持，計劃將其加密貨幣交易業務擴展至美國和亞洲市場。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
+      "link": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation.",
+      "title_zh": "以太坊第二層 Aztec 獲得 Tierra V6 升級以支持更快的私密應用",
+      "summary_zh": "Aztec 的 Tierra V6 升級將提升其私密應用的速度，增強用戶的隱私保護。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
+      "link": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T13:53:07+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"What’s at stake for crypto as the US votes in the 2026 midterms?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GJSJ59W2DHF2WQ7ED3NHF6/news-city-town-billboard-1-elections.jpg\" /></p><p>Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake.</p>",
+      "title_zh": "美國在 2026 年中期選舉中，對加密貨幣的影響是什麼？",
+      "summary_zh": "2026 年中期選舉將對加密貨幣市場產生重大影響，投資者需密切關注政治動態。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+      "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T13:15:47+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Moscow Exchange to launch Bitcoin, Ether and USDT trading in December \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GN6W7C4H29GR4MQT2Q1EN2/moscow-btc-eth-tether.png\" /></p><p>Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors.</p>",
+      "title_zh": "莫斯科交易所將於 12 月推出比特幣、以太幣和 USDT 交易",
+      "summary_zh": "莫斯科交易所計劃在 12 月開始交易比特幣、以太幣及 USDT，擴大其數字資產市場。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+      "link": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+      "published": "2026-11-03T13:11:47+00:00",
+      "summary": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices.",
+      "title_zh": "晨間快訊：Tom Lee 稱 Binance 黑客事件對以太坊是利好",
+      "summary_zh": "Tom Lee 認為 Binance 的黑客事件將對以太坊產生正面影響，可能推動其價格上漲。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
+      "link": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
+      "published": "2026-11-03T12:57:28+00:00",
+      "summary": "",
+      "title_zh": "Binance 凈流出達 53 億美元，創紀錄黑客事件後 CEO 表示正在恢復",
+      "summary_zh": "在遭遇創紀錄的黑客事件後，Binance 面臨巨額資金流出，CEO 表示正在積極恢復服務。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
+      "link": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T12:30:13+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NEAR token sinks 7% as proposal to cut annual token issuance passes \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GM8J70K9VDYM0YWR60M7DC/hi-can-near-reach-its-all-time-hight-and-what-is-behind-the-recent-price-jump.jpg\" /></p><p>The proposed issuance cut would prevent 11.8 million NEAR from entering circulation over two years, worth about $45 million at today’s price.</p>",
+      "title_zh": "NEAR 代幣因削減年度發行提案通過而下跌 7%",
+      "summary_zh": "NEAR 代幣因通過削減年度發行的提案而大幅下跌，市場反應強烈。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
+      "published": "2026-11-03T12:30:09+00:00",
+      "summary": "",
+      "title_zh": "比特幣打破自 2014 年以來的中期選舉模式",
+      "summary_zh": "比特幣在即將到來的中期選舉中表現異常，打破了過去的模式，市場關注其未來走勢。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+      "link": "https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023",
+      "published": "2026-11-03T12:15:29+00:00",
+      "summary": "LUNC holders are waiting for Binance’s November burn, but it hasn’t arrived as the exchange recovers from a record $6.3 billion hack.",
+      "title_zh": "Binance 自 2023 年以來首次錯過每月 Luna Classic 燒毀",
+      "summary_zh": "Binance 在 2023 年以來首次未能完成每月的 Luna Classic 燒毀，市場反應不一。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
+      "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+      "published": "2026-11-03T12:01:05+00:00",
+      "summary": "",
+      "title_zh": "ETHGas 希望將華爾街帶入公共以太坊，並實施機構控制",
+      "summary_zh": "ETHGas計劃引入機構控制，以促進華爾街對公共以太坊的參與。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+      "published": "2026-11-03T11:49:20+00:00",
+      "summary": "Liquid Network said its bitcoin reserves are back to full backing after September's exploit, with Blockstream providing the funds.",
+      "title_zh": "Liquid Network 在 3.2 億美元的漏洞後恢復完全比特幣支持",
+      "summary_zh": "Liquid Network 在遭遇重大安全漏洞後，成功恢復了其比特幣的完全支持。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance’s net inflows turn positive at $2.3B as withdrawals expand",
+      "link": "https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T11:32:02+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance’s net inflows turn positive at $2.3B as withdrawals expand \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GEN8GP66RSSXHPQAF0HADV/binance-searchlight.jpg\" /></p><p>Binance led exchanges in 24-hour net inflows, reversing Monday’s heavy outflows as it restored access to funds after its $6.3 billion hack.</p>",
+      "title_zh": "幣安的淨流入轉為正數，達到 23 億美元，提款擴大",
+      "summary_zh": "幣安的淨流入回升至23億美元，顯示出市場需求的增長。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+      "published": "2026-11-03T11:28:00+00:00",
+      "summary": "",
+      "title_zh": "比特幣在跌至 76,300 美元後穩定，ETF 資金流出和中期選舉影響加密貨幣",
+      "summary_zh": "比特幣價格在76,300美元附近穩定，受到ETF資金流出和選舉影響。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+      "link": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+      "published": "2026-11-03T11:22:10+00:00",
+      "summary": "Blockstream CEO Adam Back said the sidechain's defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.",
+      "title_zh": "Liquid Network 在 3.2 億美元漏洞後兩個月恢復完全比特幣支持",
+      "summary_zh": "Liquid Network 在遭受重大漏洞後，經過兩個月的努力，恢復了比特幣的完全支持。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+      "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+      "published": "2026-11-03T11:12:12+00:00",
+      "summary": "",
+      "title_zh": "Liquid 的比特幣 IOU 在 3.2 億美元漏洞後再次完全支持",
+      "summary_zh": "Liquid 的比特幣 IOU 現在再次完全由比特幣支持，恢復了用戶信心。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
+      "link": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T10:49:26+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"France postpones 2027 budget vote, crypto exit-tax proposals scrapped\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FT35RCS7WXQT4HAHHT14GK/regulations-france-crypto.jpg\" /></p><p>The National Assembly postponed the vote on the budget’s revenue section for the second time, while the Nov. 17 deadline for the first reading examination nears.</p>",
+      "title_zh": "法國推遲 2027 年預算投票，取消加密貨幣退出稅提案",
+      "summary_zh": "法國政府推遲預算投票，並決定不再推進加密貨幣退出稅的提案。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+      "link": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
+      "published": "2026-11-03T10:18:48+00:00",
+      "summary": "Kim Yo Jong suggested the U.S. itself could be behind the theft, as Binance said hourly deposits had begun to exceed withdrawals.",
+      "title_zh": "北韓否認 63 億美元幣安黑客事件，稱 FBI 的調查為「政治挑釁」",
+      "summary_zh": "北韓對幣安黑客事件的指控表示否認，並批評FBI的調查為政治動機。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+      "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+      "published": "2026-11-03T10:15:53+00:00",
+      "summary": "",
+      "title_zh": "Tether 持有 15 萬比特幣，價值 115 億美元，首席執行官保羅·阿爾多伊諾表示",
+      "summary_zh": "Tether的首席執行官透露，公司持有價值115億美元的15萬比特幣。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T10:04:05+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price threatens $77.7K support loss with recent buyers underwater \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp\" /></p><p>Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.</p>",
+      "title_zh": "比特幣價格威脅失去 77,700 美元支撐，近期買家處於虧損狀態",
+      "summary_zh": "比特幣價格接近77,700美元支撐位，近期買家面臨虧損風險。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin and tech stocks edge higher as U.S. voters head to the polls",
+      "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+      "published": "2026-11-03T09:50:16+00:00",
+      "summary": "",
+      "title_zh": "即時更新：隨著美國選民前往投票，比特幣和科技股小幅上漲",
+      "summary_zh": "美國選舉日，比特幣和科技股出現小幅上漲，市場情緒回暖。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+      "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+      "published": "2026-11-03T09:40:32+00:00",
+      "summary": "",
+      "title_zh": "北韓否認參與64億美元Binance黑客事件，FBI指向TraderTraitor",
+      "summary_zh": "北韓對於FBI指控其參與Binance黑客事件表示否認，強調與此無關。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "NEAR governance approves proposal to cut token issuance ceiling to 1.6%",
+      "link": "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
+      "published": "2026-11-03T09:19:41+00:00",
+      "summary": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months.",
+      "title_zh": "NEAR治理批准將代幣發行上限削減至1.6%",
+      "summary_zh": "NEAR治理機構通過提案，決定將代幣發行上限降低，以促進生態系統的可持續發展。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+      "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+      "published": "2026-11-03T08:56:48+00:00",
+      "summary": "",
+      "title_zh": "Mercado Bitcoin承諾彌補所有用戶損失，因近4000萬美元黑客事件",
+      "summary_zh": "Mercado Bitcoin在遭遇黑客攻擊後，承諾將全額補償受影響用戶的損失。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Consensys launches cross-ledger settlement and routing stack for institutional networks",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375",
+      "published": "2026-11-03T08:56:07+00:00",
+      "summary": "Consensys launched a technology stack enabling banks to route and settle transactions across independent ledgers without moving assets.",
+      "title_zh": "Consensys推出跨賬本結算和路由堆棧，面向機構網絡",
+      "summary_zh": "Consensys推出新技術，旨在提升機構網絡的結算效率和安全性。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+      "published": "2026-11-03T08:50:56+00:00",
+      "summary": "",
+      "title_zh": "比特幣最新圖表信號與其大跌前的信號相似",
+      "summary_zh": "分析指出，比特幣近期的圖表信號與過去大幅下跌前的信號有相似之處。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
+      "link": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T08:35:13+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ARK buys $17M in Coinbase, Circle shares while trimming Bullish\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G5EBKBSYS8ZPKKVS3JB9QS/cathie-wood2.jpg\" /></p><p>ARK Invest added Coinbase and Circle shares across two trading sessions while selling about $8 million in Bullish as crypto stocks declined.</p>",
+      "title_zh": "ARK以1700萬美元購買Coinbase和Circle股份，同時減持Bullish",
+      "summary_zh": "ARK投資公司在市場調整中，增持Coinbase和Circle股份，並減少對Bullish的持有。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
+      "link": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T08:18:22+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken restricts accounts linked to suspected $133M EU crypto theft\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G79AN04CQ92B4R0XV30XJ8/hack-2.jpg\" /></p><p>Crypto.com also took steps to block funds tied to the suspected theft, while Kraken said its systems and customer accounts were not compromised.</p>",
+      "title_zh": "Kraken限制與疑似1.33億美元歐盟加密盜竊相關的賬戶",
+      "summary_zh": "Kraken交易所對涉嫌參與歐盟加密盜竊的賬戶進行限制，以保護用戶資產。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
+      "link": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T07:49:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg\" /></p><p>BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.</p>",
+      "title_zh": "貝萊德的IBIT自6月以來見到最大比特幣ETF資金流出",
+      "summary_zh": "貝萊德的比特幣ETF面臨資金流出挑戰，自6月以來流出金額達到新高。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+      "published": "2026-11-03T05:36:56+00:00",
+      "summary": "",
+      "title_zh": "數據顯示Binance已花費一半的SAFU比特幣，約5.8億美元",
+      "summary_zh": "Binance的安全基金（SAFU）中一半的比特幣已被使用，涉及金額約580萬美元。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
+      "published": "2026-11-03T05:29:48+00:00",
+      "summary": "",
+      "title_zh": "比特幣礦工Cipher在AI轉型開始時獲利3100萬美元",
+      "summary_zh": "Cipher公司在轉型為人工智慧業務的過程中，成功實現3100萬美元的利潤。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+      "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T05:10:19+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto.com to withdraw Hong Kong consumer app citing regulatory changes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FWJCR3YC78YRVRCAXWNJWS/hong-kong-license.jpg\" /></p><p>Crypto.com will discontinue its consumer app services in Hong Kong in February next year.</p>",
+      "title_zh": "Crypto.com因應監管變化撤回香港消費者應用程式",
+      "summary_zh": "Crypto.com宣布因應香港的監管變化，將撤回其消費者應用程式。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+      "link": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T04:14:32+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FS9RCYXTTNWDX94AF8DVDE/hi-australian-senators-pushing-for-country-to-become-the-next-crypto-hub.jpg\" /></p><p>The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising technology costs from AI investment and higher energy prices.</p>",
+      "title_zh": "澳洲將利率提升至18年來的高點，AI熱潮和能源成本推動通脹",
+      "summary_zh": "澳洲因AI產業繁榮和能源成本上升，將利率提升至18年來的最高水平。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028",
+      "link": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T03:58:45+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FRVQEAWKQAEZ8JB6F3S0VW/hi-uk-regulations.jpg\" /></p><p>The warning comes as UK cyber officials also flag growing threats from state-backed hackers targeting government officials and politicians.</p>",
+      "title_zh": "英國警告2028年前基礎設施遭AI勒索攻擊‘高度可能’",
+      "summary_zh": "英國政府預測，到2028年，基礎設施將面臨AI勒索攻擊的高風險。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance begins second withdrawal phase, exchange outflows slow",
+      "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-03T03:03:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance begins second withdrawal phase, exchange outflows slow\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FN2679AMA9PVMMSE4QTW9R/binance-1.jpg\" /></p><p>The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Sunday.</p>",
+      "title_zh": "幣安開始第二階段提款，交易所資金流出放緩",
+      "summary_zh": "幣安交易所啟動第二階段提款，顯示資金流出速度有所減緩。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+      "link": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
+      "published": "2026-11-03T02:57:33+00:00",
+      "summary": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday.",
+      "title_zh": "Ark Invest以340萬美元購買Coinbase，並增加Circle和Robinhood的持股",
+      "summary_zh": "Ark Invest在股市下滑時，購買了340萬美元的Coinbase股票，並增持Circle和Robinhood。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 76911,
+      "price_change_24h": -0.14175,
+      "volume_24h": 25801733012,
+      "high_30d": 85770.872246,
+      "low_30d": 76709.405343,
+      "rsi": 33.01,
+      "sma7": 77417.373304,
+      "sma20": 80058.456941,
+      "ema12": 78591.602929,
+      "ema26": 80282.208556,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-04T01:58:53.000Z",
+        "fetched_at": "2026-11-04T09:59:45.545616+08:00"
+      }
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2262.17,
+      "price_change_24h": 0.29152,
+      "volume_24h": 8437896675,
+      "high_30d": 2710.418176,
+      "low_30d": 2242.496259,
+      "rsi": 30.24,
+      "sma7": 2257.950479,
+      "sma20": 2341.977439,
+      "ema12": 2299.269904,
+      "ema26": 2374.98085,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-04T01:58:53.000Z",
+        "fetched_at": "2026-11-04T09:59:45.545616+08:00"
+      }
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 91.86,
+      "price_change_24h": -0.44011,
+      "volume_24h": 2132953532,
+      "high_30d": 120.763377,
+      "low_30d": 91.844094,
+      "rsi": 20.96,
+      "sma7": 94.013415,
+      "sma20": 100.106401,
+      "ema12": 96.615429,
+      "ema26": 101.619841,
+      "signal": "RSI超賣 / 均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-04T01:58:53.000Z",
+        "fetched_at": "2026-11-04T09:59:45.545616+08:00"
+      }
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 692.22,
+      "price_change_24h": -0.77907,
+      "volume_24h": 747174315,
+      "high_30d": 786.38724,
+      "low_30d": 692.168491,
+      "rsi": 32.34,
+      "sma7": 700.493729,
+      "sma20": 723.66507,
+      "ema12": 712.847177,
+      "ema26": 727.938572,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-04T01:58:53.000Z",
+        "fetched_at": "2026-11-04T09:59:45.545616+08:00"
+      }
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.25,
+      "price_change_24h": 0.2868,
+      "volume_24h": 1646675722,
+      "high_30d": 1.507681,
+      "low_30d": 1.235662,
+      "rsi": 33.64,
+      "sma7": 1.252616,
+      "sma20": 1.291715,
+      "ema12": 1.276004,
+      "ema26": 1.315291,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-04T01:58:53.000Z",
+        "fetched_at": "2026-11-04T09:59:45.545616+08:00"
+      }
+    }
+  ],
+  "signals": {
+    "date": "2026-11-04",
+    "fear_greed": {
+      "value": 34,
+      "classification": "Fear",
+      "timestamp": "2026-11-04T00:00:00+00:00",
+      "history": [
+        {
+          "value": 34,
+          "classification": "Fear",
+          "date": "2026-11-04"
+        },
+        {
+          "value": 26,
+          "classification": "Fear",
+          "date": "2026-11-03"
+        },
+        {
+          "value": 37,
+          "classification": "Fear",
+          "date": "2026-11-02"
+        },
+        {
+          "value": 34,
+          "classification": "Fear",
+          "date": "2026-11-01"
+        },
+        {
+          "value": 30,
+          "classification": "Fear",
+          "date": "2026-10-31"
+        },
+        {
+          "value": 30,
+          "classification": "Fear",
+          "date": "2026-10-30"
+        },
+        {
+          "value": 51,
+          "classification": "Neutral",
+          "date": "2026-10-29"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {},
+    "data_quality": {
+      "fear_greed": {
+        "source": "Alternative.me",
+        "status": "available",
+        "observed_at": "2026-11-04T00:00:00+00:00",
+        "fetched_at": "2026-11-04T10:00:46.200731+08:00"
+      },
+      "reddit_sentiment": {
+        "source": "Reddit",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      },
+      "onchain": {
+        "source": "CoinGecko",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      }
+    }
+  }
+}
