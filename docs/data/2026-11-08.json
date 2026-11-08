@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T09:12:52.953314+08:00",
+  "summary": "# 每日彙整報告\n\n## 📰 今日重點摘要\n1. 幣安首席財務官在創紀錄的駭客事件後辭職，聯合首席執行官表示此過渡早已計劃。\n2. 前FBI特工承認盜竊247萬美元的加密貨幣，成為近期的焦點案件。\n3. 美國財政部對加密貨幣交易所MEXC採取行動，涉嫌160億美元的非法資金流動。\n4. 比特幣ETF經歷資金流出，前景轉為負面，創下自六月以來的最差表現。\n5. Gnosis Pay洩露事件暴露使用者的敏感信息，引發隱私安全的關注。\n\n## 📊 市場概況\n今日加密貨幣市場整體氛圍偏向悲觀，主流幣如比特幣（BTC）和以太坊（ETH）均出現小幅下跌。比特幣目前報價$75,725，24小時內下跌0.18%；以太坊則報價$2,233.77，下跌0.29%。此外，其他幣種如Solana（SOL）和XRP表現更為疲軟，特別是SOL的跌幅達到接近1%。整體市場市值為$2.56T，顯示出投資者的謹慎情緒。\n\n## 🔍 技術分析解讀\n根據最新的技術指標，比特幣的相對強弱指數（RSI）為37.65，顯示出市場處於相對超賣區域，短期可能出現反彈的機會。然而，均線指標仍顯示空頭訊號，顯示未來仍有下行壓力。以太坊的RSI為39.74，同樣處於超賣區域，且均線指標也指向空頭趨勢。其他幣種如SOL和XRP的RSI則分別為29.24和30.02，均顯示出強烈的超賣情況。\n\n## 😱 市場情緒\n目前市場恐懼貪婪指數為28，顯示市場情緒偏向恐懼，投資者對未來的信心不足。社群情緒普遍消極，對於近期的駭客事件及監管行動感到憂心，這可能導致資金持續流出主流幣。同時，比特幣的市佔率為59.29%，顯示其在市場中的主導地位仍然強勁，但隨著情緒的低迷，可能會影響其未來表現。\n\n## ⚠️ 風險提醒\n近期市場震盪加劇，尤其是針對幣安和MEXC等交易所的監管措施，可能會影響整體市場信心。此外，隱私洩露事件的發生提醒投資者注意個人資產的安全。建議投資者謹慎行事，隨時關注市場動向與相關新聞，以降低風險。\n\n## 🎯 今日觀察重點\n投資者應密切關注幣安的後續動作及其對市場的影響，尤其是在駭客事件後的信任重建過程。同時，市場對於美國財政部的監管行動可能進一步影響資金流向，建議觀察市場反應。此外，技術指標的變化將是判斷市場短期走勢的重要參考。",
+  "news": [
+    {
+      "source": "TheBlock",
+      "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+      "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+      "published": "2026-11-07T21:57:58+00:00",
+      "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+      "title_zh": "幣安首席財務官在創紀錄的駭客事件後九天辭職；聯合首席執行官表示過渡是六個月前計劃的",
+      "summary_zh": "幣安CFO辭職，聯合CEO強調此次人事變動早已計劃，背景是近期的駭客事件。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+      "published": "2026-11-07T20:59:47+00:00",
+      "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+      "title_zh": "前FBI特工承認從與35項調查相關的錢包中盜竊247萬美元的加密貨幣",
+      "summary_zh": "一名前FBI特工承認盜竊大量加密貨幣，涉及多項調查的資金。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "published": "2026-11-07T19:13:16+00:00",
+      "summary": "",
+      "title_zh": "幣安在某些歐洲國家的用戶被告知在費用生效前提取加密貨幣，賬戶將在年底前關閉",
+      "summary_zh": "幣安用戶需在年底前提取資金，否則將面臨賬戶關閉和費用問題。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "published": "2026-11-07T17:36:46+00:00",
+      "summary": "",
+      "title_zh": "美國財政部採取行動切斷加密貨幣交易所MEXC，因涉嫌160億美元的非法資金流動",
+      "summary_zh": "美國財政部對MEXC採取行動，因其涉嫌處理巨額非法資金流動。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+      "published": "2026-11-07T17:01:03+00:00",
+      "summary": "Apple and Meta’s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue.",
+      "title_zh": "蘋果完成全套：每一支壯麗七巨頭股票都選擇退出OKX-ICE交易平台",
+      "summary_zh": "蘋果及其他知名企業選擇退出OKX-ICE，顯示對該平台的信心不足。"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "published": "2026-11-07T16:51:00+00:00",
+      "summary": "",
+      "title_zh": "Gnosis Pay洩露事件曝光卡號、家庭地址和相關加密錢包",
+      "summary_zh": "Gnosis Pay的安全漏洞導致用戶敏感信息大規模洩露，風險加劇。"
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+      "published": "2026-11-07T16:46:02+00:00",
+      "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
+      "title_zh": "比特幣ETF在經歷12.8億美元資金流出後，2026年前景轉為負面，創下自六月以來的最差表現",
+      "summary_zh": "比特幣ETF遭遇資金大幅流出，市場情緒轉向悲觀，影響未來表現。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+      "link": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+      "published": "2026-11-07T16:01:02+00:00",
+      "summary": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.",
+      "title_zh": "人工智慧晶片股票在全球市場暴跌後反彈——但泡沫是否開始破裂？",
+      "summary_zh": "AI晶片股在經歷市場調整後出現反彈，但投資者對泡沫破裂的擔憂依然存在。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T14:22:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+      "title_zh": "今天加密貨幣市場發生了什麼",
+      "summary_zh": "今日加密貨幣市場動態更新，涵蓋最新的價格變化和重要事件。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T14:16:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-FBI counterintelligence agent stole almost $2.5M in crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6V5PT52GJ6H06ZRY3P4BHFK/arrest-crime-police-hacker-fbi.jpg\" /></p><p>Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.</p>",
+      "title_zh": "前FBI反情報特工盜竊近250萬美元的加密貨幣",
+      "summary_zh": "一名前FBI反情報特工因盜竊加密貨幣而被控，金額接近250萬美元。"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+      "link": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+      "published": "2026-11-07T14:01:02+00:00",
+      "summary": "Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony’s rules.",
+      "title_zh": "專家表示，索尼取消遊戲光碟將對低收入玩家產生重大影響",
+      "summary_zh": "專家指出，索尼停止發行遊戲光碟可能會對經濟較弱的玩家造成不利影響。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T13:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holders have received eCash — What can you do with it?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png\" /></p><p>Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can",
+      "title_zh": "比特幣持有者收到電子現金——可以怎麼使用？",
+      "summary_zh": "比特幣持有者獲得的電子現金提供了多種使用選擇，吸引了投資者的關注。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T11:10:47+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US sanctions Canadian money-exchange firms over Iran ties\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TV46HT5722N7KQ7PPJEREP/hi-crypto-users-in-iran-sanctions-1.jpg\" /></p><p>US  also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.</p>",
+      "title_zh": "美國對與伊朗有關的加拿大貨幣兌換公司實施制裁",
+      "summary_zh": "美國政府因為與伊朗的聯繫，對數家加拿大貨幣兌換公司進行了制裁。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T09:10:35+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suspicious prediction market activity seen before election poll release: NYT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg\" /></p><p>Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.</p>",
+      "title_zh": "紐約時報：選舉民調發布前出現可疑的預測市場活動",
+      "summary_zh": "在選舉民調發布前，出現了異常的預測市場活動，引發了媒體的關注。"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "link": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-11-07T07:45:24+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia may face a more hostile post-election Washington: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg\" /></p><p>CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says.</p>",
+      "title_zh": "報導：英偉達可能面臨更具敵意的選後華盛頓",
+      "summary_zh": "根據報導，英偉達在選舉後可能會遭遇更具挑戰性的政治環境。"
+    }
+  ],
+  "market": [
+    {
+      "symbol": "BTC",
+      "current_price": 75725,
+      "price_change_24h": -0.17732,
+      "volume_24h": 10878890041,
+      "high_30d": 84082.266463,
+      "low_30d": 75725.041463,
+      "rsi": 37.65,
+      "sma7": 76831.273757,
+      "sma20": 79058.409207,
+      "ema12": 77499.774458,
+      "ema26": 79040.683405,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-08T01:10:53.000Z",
+        "fetched_at": "2026-11-08T09:11:28.891464+08:00"
+      }
+    },
+    {
+      "symbol": "ETH",
+      "current_price": 2233.77,
+      "price_change_24h": -0.29184,
+      "volume_24h": 4131340560,
+      "high_30d": 2534.632372,
+      "low_30d": 2233.832766,
+      "rsi": 39.74,
+      "sma7": 2269.981875,
+      "sma20": 2315.458226,
+      "ema12": 2280.016986,
+      "ema26": 2328.739871,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-08T01:10:53.000Z",
+        "fetched_at": "2026-11-08T09:11:28.891464+08:00"
+      }
+    },
+    {
+      "symbol": "SOL",
+      "current_price": 89.38,
+      "price_change_24h": -0.93336,
+      "volume_24h": 835442120,
+      "high_30d": 111.252342,
+      "low_30d": 89.231666,
+      "rsi": 29.24,
+      "sma7": 91.216185,
+      "sma20": 97.375731,
+      "ema12": 93.428598,
+      "ema26": 97.663169,
+      "signal": "RSI超賣 / 均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-08T01:10:53.000Z",
+        "fetched_at": "2026-11-08T09:11:28.891464+08:00"
+      }
+    },
+    {
+      "symbol": "BNB",
+      "current_price": 695.31,
+      "price_change_24h": 0.20858,
+      "volume_24h": 578865800,
+      "high_30d": 759.07836,
+      "low_30d": 688.862888,
+      "rsi": 41.04,
+      "sma7": 698.172502,
+      "sma20": 719.0152,
+      "ema12": 705.367104,
+      "ema26": 716.602639,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-08T01:10:53.000Z",
+        "fetched_at": "2026-11-08T09:11:28.891464+08:00"
+      }
+    },
+    {
+      "symbol": "XRP",
+      "current_price": 1.16,
+      "price_change_24h": -1.6038,
+      "volume_24h": 1277030835,
+      "high_30d": 1.409011,
+      "low_30d": 1.160773,
+      "rsi": 30.02,
+      "sma7": 1.219712,
+      "sma20": 1.269163,
+      "ema12": 1.229957,
+      "ema26": 1.272216,
+      "signal": "均線空頭",
+      "data_quality": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": "2026-11-08T01:10:53.000Z",
+        "fetched_at": "2026-11-08T09:11:28.891464+08:00"
+      }
+    }
+  ],
+  "signals": {
+    "date": "2026-11-08",
+    "fear_greed": {
+      "value": 28,
+      "classification": "Fear",
+      "timestamp": "2026-11-08T00:00:00+00:00",
+      "history": [
+        {
+          "value": 28,
+          "classification": "Fear",
+          "date": "2026-11-08"
+        },
+        {
+          "value": 25,
+          "classification": "Extreme Fear",
+          "date": "2026-11-07"
+        },
+        {
+          "value": 28,
+          "classification": "Fear",
+          "date": "2026-11-06"
+        },
+        {
+          "value": 50,
+          "classification": "Neutral",
+          "date": "2026-11-05"
+        },
+        {
+          "value": 34,
+          "classification": "Fear",
+          "date": "2026-11-04"
+        },
+        {
+          "value": 26,
+          "classification": "Fear",
+          "date": "2026-11-03"
+        },
+        {
+          "value": 37,
+          "classification": "Fear",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    "reddit_sentiment": {},
+    "onchain": {
+      "btc_dominance": 59.29,
+      "total_market_cap_usd": 2560484774313.1,
+      "active_cryptocurrencies": 22858,
+      "btc_circulating_supply": 20109328.0,
+      "btc_max_supply": 21000000.0,
+      "btc_supply_ratio": 95.76,
+      "btc_volume_24h": 10883060526
+    },
+    "data_quality": {
+      "fear_greed": {
+        "source": "Alternative.me",
+        "status": "available",
+        "observed_at": "2026-11-08T00:00:00+00:00",
+        "fetched_at": "2026-11-08T09:12:30.072948+08:00"
+      },
+      "reddit_sentiment": {
+        "source": "Reddit",
+        "status": "missing",
+        "observed_at": null,
+        "fetched_at": null
+      },
+      "onchain": {
+        "source": "CoinGecko",
+        "status": "available",
+        "observed_at": null,
+        "fetched_at": "2026-11-08T09:12:42.340384+08:00"
+      }
+    }
+  }
+}
